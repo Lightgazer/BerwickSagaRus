@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "commit": "05d025d15992e69b4c57c22c007af82ae26521d3",
+  "sha256": "09EA931298D8DCFFE5C984FCE4E3760E8434EEDE04636B4AE47F0DC370F25620",
+  "sdk": "10.0.401",
+  "runtime": "win-x64",
+  "configuration": "Release",
+  "selfContained": false,
+  "builtAtUtc": "2026-10-20T14:57:22.1046317Z"
+}
