@@ -1,0 +1,3 @@
+[submodule "Sources/CLIBSTool"]
+	path = Sources/CLIBSTool
+	url = https://github.com/Lightgazer/CLIBSTool.git
