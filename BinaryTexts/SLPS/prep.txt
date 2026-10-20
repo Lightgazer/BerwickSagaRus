@@ -1,0 +1,9 @@
+64 Freund wählen und ○ drücken
+64 Freund wählen und □ drücken
+192 ＳＴＡＲＴ Spielbeginn　□ Tausch　○ Truppe　△ Info　× Karte　ＳＥＬＥＣＴ Maßstab　Ｌ１／Ｒ１ Anzahl　Ｌ２／Ｒ２ Ballisten
+160 ＳＴＡＲＴ Spielbeginn　□ Tausch　○ Truppe　△ Info　× Karte　ＳＥＬＥＣＴ Maßstab　Ｌ１／Ｒ１ Anzahl
+64 Wähl den Gegenstand u. drück ○
+80 Wähl die Einheit und tausche mit ○
+48 Tasche benennen⏎(max.7)
+16 Tasche
+80 Tauschpartner wählen und ○ ／ □ drücken

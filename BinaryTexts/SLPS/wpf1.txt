@@ -1,0 +1,92 @@
+8 Dolch
+8 Schwert
+8 Speer
+8 Axt
+8 Bogen
+8 Armbrust
+8 Feuer
+8 Donner
+8 Wind
+16 Heilig
+16 Dunkel
+8 Schild S
+8 Schild M
+16 Schild L
+16 ist erwacht.
+32 %Cist wieder bei Verstand!%C
+32 %Chat sich wieder erholt!%C
+32 %n ist %Ceingeschlafen!%C⏎
+32 %n %Cläuft Amok!%C⏎
+32 wurde %Cfortgeschickt.%C
+32 %CZaubervert. %Cum 7 gestiegen!
+48 %n kann %Cnicht mehr zaubern!%C⏎
+32 %Cwurde gelähmt!%C
+32 %i wurde %Crepariert!%C⏎
+32 wurde %Cgeheilt%C!
+16 wurde %Cteleportiert.%C
+32 %CStärke %Cgestiegen.
+32 %CVerteidigung %Cgestiegen.
+32 %CZaubervert. %Cum 7 gestiegen!⏎
+16 %%n %s⏎
+32 %n war nicht betroffen.⏎
+32 %n wurde um %C%D%C LP geheilt.⏎
+16 %n setzt %i ein.⏎
+32 %s ist jetzt %C%D%C!⏎
+32 %n setzt %C%a%C ein!⏎
+32 %n hat keinen Schaden genommen.⏎
+32 %n setzte das Schild ein.⏎
+32 %C%D zusätzlich!%C⏎
+24 %n hat sein Schild fallenlassen!⏎
+8 Peg
+8 Drache
+8 Pferd
+32 %n hat %C%s%C verloren!⏎
+48 %n scheiterte mit der Waffe!⏎
+48 %n scheiterte⏎mit der Waffe!⏎
+32 %n konnte den Zauber nicht verwenden!⏎
+48 %n konnte den Zauber⏎nicht verwenden!⏎
+48 %n konnte %Cnicht zaubern!%C⏎
+48 %n konnte ⏎%Cnicht zaubern!%C⏎
+48 %n scheiterte mit dem Schild!⏎
+48 %n scheiterte mit ⏎dem Schild!⏎
+32 Effekt des %C%is%C!⏎
+32 %C%i%C ging verloren.⏎
+32 %C%i%C wurde aufgebraucht.⏎
+24 %C%i%C ist zerbrochen!⏎
+24 %n wurde besiegt.⏎
+32 %n wurde besiegt.⏎
+16 %n wurde zerstört!⏎
+32 %i ist %Closgegangen!%C⏎
+32 %i %CFluch schlägt zu!%C⏎
+32 %n erlitt %CReflektschaden!%C⏎
+32 %n hat %C%D%C Erfahrung erhalten.⏎
+48 %n hat ⏎%C%D%C Erfahrung eingebüßt.⏎
+32 %n ist %Ceingeschlafen!%C⏎
+24 %n wurde %Cvergiftet!%C⏎
+24 %n greift an.⏎
+24 %n %Ckontert!%C⏎
+16 %n kontert!⏎
+24 %n greift erneut an!⏎
+32 %n landet %Ckritischen Treffer!%C⏎
+32 %n hat mit der Waffe %Cpariert!%C⏎
+32 %n ist ausgewichen!⏎
+32 %n %CBärenhand!%C⏎
+32 %n blieb %Cunversehrt!%C⏎
+32 %n hat %Cabgeblockt!%C⏎
+32 %n hat %C%D%C LP gestohlen!⏎
+32 %n blockiert dunkle Magie!⏎
+48 %CTalisman%C leuchtet auf!⏎
+32 %ns %CGlück aufgebraucht!%C⏎
+32 %CGlück gehabt!%C⏎
+32 %i aktiviert %CSchutzkraft!%C⏎
+32 %CWunderamulett %Cleuchtet auf!⏎
+32 %n ließ %CAusrüstung %Cfallen!⏎
+32 %n ließ %CSchild %Cfallen!⏎
+32 %n ließ %CWaffe%C fallen!⏎
+32 %n hat %C%D Konterschaden erlitten!%C⏎
+24 %n erlitt %C%D%C Schaden!
+8 ⏎
+32 %C%D zusätzlich!%C⏎
+48 %CKritischer Angriff!%C %n erlitt %C%D Schaden!%C⏎
+16 %CKritischer Angriff!%C⏎
+24 %n erlitt %C%D Schaden!%C⏎

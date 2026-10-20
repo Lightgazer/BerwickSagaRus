@@ -1,0 +1,7 @@
+80 ○ Ggst.　Ｌ１／Ｒ１ Einheit　△ Details　× Ende
+48 ○ Ggst　△ Details　× Ende
+96 ○ GgstWahl　□ Menü　Ｌ１／Ｒ１ Tausch　△ Details　× Ende
+64 ○ Ggst.　□ Menü　△ Details　× Ende
+
+
+

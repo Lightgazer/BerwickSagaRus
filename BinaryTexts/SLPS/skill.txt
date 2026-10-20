@@ -1,0 +1,3 @@
+24 (noch%dRnd)
+16 skill_exp_opt2
+24 (noch%dmal)

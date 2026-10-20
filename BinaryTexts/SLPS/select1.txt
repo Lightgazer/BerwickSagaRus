@@ -1,0 +1,5 @@
+32 AngrZiel wählen
+48 Reparatur-Ziel wählen
+32 RettZiel wählen
+30 Zielort wählen
+

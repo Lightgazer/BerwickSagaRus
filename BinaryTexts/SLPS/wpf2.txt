@@ -1,0 +1,31 @@
+8 Level 
+16 MaxLP
+8 Stärke 
+8 Verteidigung 
+8 Geschw.
+8 Magie
+8 Dolch
+8 Schwert
+8 Speer
+8 Axt
+8 Bogen
+8 Armbrust
+8 Feuer
+8 Donner
+8 Wind
+16 Heilig
+16 Dunkel
+8 Schild S
+8 Schild M
+8 Schild L
+32 %s ist um %s gestiegen!⏎
+32 %s ist auf %s gestiegen!⏎
+32 %s ist um %s gefallen!⏎
+32 %s Fähigkeit ist jetzt %s.⏎
+32 %n ist jetzt %C%h.%C⏎
+32 %n ist besser geworden!⏎
+32 %n hat ein Level verloren!⏎
+32 %n hat jetzt mehr Glück!⏎
+32 Fähigkeit %C%a%C erlernt!⏎
+48 Fähigkeit %C%a%C ist %Cabgeklungen!%C⏎
+24 Bewegung um 1 gestiegen.⏎
