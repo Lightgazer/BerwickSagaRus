@@ -37,12 +37,12 @@
 Минимальная конфигурация имеет следующий вид:
 
 ```text
-Input Iso=BerwickSaga_English.iso
-Output Iso=BerwickSaga_Russian.iso
+Input Iso=SLPS_254.97.trs2.iso
+Output Iso=NEWSLPS_254.97.trs2.iso
 Iso Type=English
 ```
 
-В этом примере `BerwickSaga_English.iso` лежит в рабочей папке программы. Выходной файл `BerwickSaga_Russian.iso` программа создаст в той же папке.
+В этом примере `SLPS_254.97.trs2.iso` лежит в рабочей папке программы. Выходной файл `NEWSLPS_254.97.trs2.iso` программа создаст в той же папке.
 
 Для описанного здесь рабочего процесса указывайте `Iso Type=English`: тогда `Unpack` читает текст по таблицам символов английского перевода.
 `Iso Type=Japanese` можно использовать если хотите получить японские тексты, но в целом отталкиваемся от английской версии. 
