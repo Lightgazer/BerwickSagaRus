@@ -56,5 +56,14 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 
+/SLPS_254.97
+/DATA3/*
+!/DATA3/2465
+!/DATA3/2466
+
 *.iso
 *.ISO
+cDATA3
+lDATA3
+pDATA3
+*.tracked_files.txt
