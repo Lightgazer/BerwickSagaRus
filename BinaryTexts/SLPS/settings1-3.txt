@@ -1,1 +1,1 @@
-152 Textgeschwindigkeit: Max. 1 Sek. Verzögerung, Pause wartet auf Knopfdruck.
+152 メッセージウェイト設定をします。最高速の場合、メッセージウェイト時に１秒で次のメッセージに進みます。ポーズは○ボタンが入力されるまでウェイトします

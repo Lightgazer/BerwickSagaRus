@@ -1,4 +1,4 @@
-48 Tasche benennen⏎7 Bst.
-8 Tas
+48 携帯袋に名前を付けてください⏎７文字まで可能です
+8 携帯袋
 8 　
-48 Zielperson auswählen
+48 名前をつけてください⏎７文字まで入力が可能です。

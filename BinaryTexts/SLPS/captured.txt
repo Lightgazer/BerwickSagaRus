@@ -1,2 +1,2 @@
-144 Durchgestrichen heißt getötet, links & rechts umblättern, x: Ende
-112 Helles ist schon da, links & rechts umblättern, x: Ende
+144 赤いバツマークの場合には死亡、Ｃａｐｔｕｒｅｄの場合には捕縛したことを表します。×：この画面を終了します。方向キー左右：スクロール
+112 明るくなっているアイテムは、既に納品したアイテムです。×：この画面を終了します。方向キー左右：スクロール

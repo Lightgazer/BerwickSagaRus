@@ -1,1 +1,1 @@
-64 Geben Sie der Systemdatei einen Namen.⏎(max. 10 Zeichen)
+64 システムファイルに名前を付けてください⏎（最大１０文字）

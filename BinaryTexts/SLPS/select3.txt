@@ -1,14 +1,14 @@
-32 Wen schützen?
-32 Ziel wählen
-32 Ziel wählen
-32 Wen festnehmen
-48 Wen ansprechen?
-32 Welches Pferd?
-32 Welches Pferd?
-32 Wen ansprechen?
-32 Was zerstören?
-48 Wo Brücke bauen?
-32 Was schließen?
-32 Was öffnen?
-48 Zielperson wählen
-30 Zielort wählen
+32 護衛する相手を選択してください
+32 威嚇する相手を選択してください
+32 挑発する相手を選択してください
+32 捕縛する相手を選択してください
+48 馬を交換する相手を選択してください
+32 捕獲する馬を選択してください
+32 入手する馬を選択してください
+32 話す相手を選択してください
+32 破壊する場所を選択してください
+48 橋を架ける場所を選択してください
+32 閉じる場所を選択してください
+32 開ける場所を選択してください
+48 オーブを使用する相手を選択してください
+30 ワープ先を選択してください

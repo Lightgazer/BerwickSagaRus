@@ -1,2 +1,2 @@
-64 ＳＴＡＲＴ Bestät.　○ Ggst.　× Abbruch
-64 ○ Ggst-Wahl　× Abbruch　△ Details
+64 ＳＴＡＲＴ：決定　○：アイテム選択　×：キャンセル
+64 ○：アイテム選択　×：キャンセル　△：アイテム詳細

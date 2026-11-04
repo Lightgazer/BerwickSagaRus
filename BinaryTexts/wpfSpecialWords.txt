@@ -42,7 +42,6 @@ effekt!
  ging 
 ucht.
 ochen!
-zerstört!
 gangen!
 Fluch 
 gung 
@@ -73,7 +72,6 @@ rteidigung
 schw.
 gie
 Dunkel
-Fähigkeit 
 jetzt 
 gestiegen!
 ein.
@@ -95,10 +93,8 @@ tag:comr|size:comr=78|agana]
 tag:comr|size:comr=67|kana]
 tag:comr|size:comr=85|abet]
 tag:comr|nji]
-tag:comr|size:comr=47|ück 
 size:comr=76|vor 
 tag:comr|size:comr=90|schen 
-tag:comr|size:comr=96|s löschen 
 tag:comr|emdatei 
 tag:comr|size:comr=55|Geben 
 tag:comr|size:comr=66|Namen.
