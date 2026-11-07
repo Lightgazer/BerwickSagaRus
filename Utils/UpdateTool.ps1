@@ -76,6 +76,7 @@ try {
 }
 catch {
     Write-Error $_ -ErrorAction Continue
+    Read-Host 'Press Enter to close'
     exit 1
 }
 finally {

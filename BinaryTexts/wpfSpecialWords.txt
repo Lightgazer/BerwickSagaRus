@@ -58,7 +58,6 @@ ten.
 gestohlen!
 blockiert 
 leuchtet auf!
-Glück 
 Wunderamulett 
 fallen!
 erlitten!
@@ -67,7 +66,6 @@ schaden
 Kritischer 
 Angriff!
 Level 
-Stärke 
 rteidigung 
 schw.
 gie

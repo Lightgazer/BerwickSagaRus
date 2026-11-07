@@ -1,0 +1,1173 @@
+#### File 1: 2 ####
+#Upper Window; Size: 6; Elbert
+■■■■■■■Well,　this　is　the　place　where　Lord
+Reese　said　we　should　rendezvous...
+-----------------------
+#Upper Window; Size: 6; Elbert
+■Oh,●[30]　is　that　a　message?
+-----------------------
+#Lower Window; Size: 6; Christine
+■■■■Yes,●[30]　it's　from　General　Ward.
+-----------------------
+#Lower Window; Size: 6; Christine
+■"We　have　come　across　a　group　of
+Narvian　deserters　nearby.
+-----------------------
+#Lower Window; Size: 6; Christine
+
+Please　ride　out　to　aid　us　in
+defending　the　village　to　the　east."
+-----------------------
+#Upper Window; Size: 6; Elbert
+■■■Well,●[30]　if　those　are　your　dear　daddy's
+orders,●[30]　we'd　better　get　going!
+-----------------------
+#Lower Window; Size: 6; Christine
+■■■Elbert,●[20]　be　serious.●[60]
+He　may　my　father,●[20]　but　he's
+Lord　Reese's　adjutant　first.
+-----------------------
+#Upper Window; Size: 6; Elbert
+■■■Ha　ha　ha,●[40]　I'm　only　teasing.●[60]
+Yes,●[30]　let's　head　out.
+-----------------------
+#Upper Window; Size: 6; Elbert
+■Although,●[15]　if　the　General　is　leading,●[30]
+the　battle　will　probably　be　over
+before　we　even　make　it　there.
+-----------------------
+#Upper Window; Size: 6; Elbert
+■I　can't　imagine　him　leaving　behind
+any　stragglers　just　for　us.
+-----------------------
+#Lower Window; Size: 6; Christine
+■■■...●[10]...
+-----------------------
+###### End ######
+
+#### File 3: 3 ####
+#Upper Window; Size: 6; Ritchens
+■■■■■■■Gah...●[30]
+Don't　act　like　you've　won...
+-----------------------
+#Upper Window; Size: 6; Ritchens
+
+In　the　end,●[10]　you'll　end　up　in　the
+same　rotten　pits　as　the　rest　of　us...
+-----------------------
+■■
+###### End ######
+
+#### File 4: 4 ####
+#Upper Window; Size: 6; Ritchens
+■■■■■■■■Gah,　get　your　filthy　hands　off　me!●[30]
+You　won't　get　away　with　this...!
+-----------------------
+■■
+###### End ######
+
+#### File 5: 5 ####
+#Upper Window; Size: 6; Reese
+■■■■■■■Are　you　Sister　Izerna?
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■■■■Yes,●[30]　I　am...
+-----------------------
+#Upper Window; Size: 6; Reese
+■■■■■■The　Father　is　worried　about　you.●[60]
+I　will　have　one　of　my　knights
+escort　you　back　to　the　abbey.
+-----------------------
+#Upper Window; Size: 4; Izerna
+■■■■■■The　Father...?●[60]
+Has　something　happened?
+-----------------------
+#Upper Window; Size: 6; Reese
+■■■■■■I'll　let　him　explain　the　situation,●[60]
+as　I　must　attend　to　the　battle.●[60]
+Do　excuse　me,　Sister.
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■■■■You're　here　to　save　the　town?!
+-----------------------
+#Upper Window; Size: 6; Izerna
+■Thank　goodness...●[30]
+I'd　heard　from　the　Father　that
+there　wouldn't　be　any　help...
+-----------------------
+#Upper Window; Size: 6; Izerna
+■In　that　case,　I　will　accompany　you.
+-----------------------
+#Upper Window; Size: 6; Reese
+■■■■■■Accompany　me?●[60]
+I'm　afraid　I　can't　allow　that.
+-----------------------
+#Upper Window; Size: 6; Reese
+■As　I　said,　you　must　return
+to　the　abbey　in　your　village.
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■■■■If　I　am　to　live　in　accordance　with
+the　teachings　of　Veria,●[30]　I　can't　simply
+run　away　from　this!
+-----------------------
+#Upper Window; Size: 6; Izerna
+■I　can　help　save　the　lives　of
+your　soldiers,　sir　knight!
+-----------------------
+#Upper Window; Size: 6; Izerna
+■I　beg　of　you,　don't　simply
+send　me　away!
+-----------------------
+#Upper Window; Size: 6; Reese
+■■■■■■I　wouldn't　want　to　hinder　your
+clerical　duties...●[60]　However...●[60]
+...I'll　leave　it　to　your　discretion.
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■■■■Thank　you　very　much!●[60]
+May　I　have　your　name,　good　sir?
+-----------------------
+#Upper Window; Size: 6; Reese
+■■■■■■I'm　Reese,●[30]　heir　to　the　March　of　Sinon.
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■■■■What?●[30]　You're　Lord　Reese
+of　Sinon?!
+-----------------------
+#Upper Window; Size: 6; Reese
+■■■■■■Is　something　the　matter?
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■■■■Ah...●[30]　No,　milord...●[60]
+-----------------------
+#Upper Window; Size: 6; Izerna
+
+I　fear　I　may　have　spoken　too
+brazenly　to　you　earlier...●[60]
+-----------------------
+#Upper Window; Size: 6; Izerna
+
+I　beg　your　forgiveness!
+-----------------------
+#Upper Window; Size: 6; Reese
+■■■■■■I-It's　really　not　a　problem...
+-----------------------
+■■
+###### End ######
+
+#### File 6: 6 ####
+#Upper Window; Size: 6; Reese
+■■■■■■■It　seems　most　of　the　deserters
+have　been　cleared　out.
+-----------------------
+#Upper Window; Size: 6; Ward
+■■■■■■With　their　leader　dead,
+the　remnants　should　scatter.●[60]
+The　villagers　will　be　safe　now.
+-----------------------
+#Upper Window; Size: 5; Reese
+■■■■The　Father　should　be　able　to
+take　care　of　the　rest,　then.●[60]
+Come,　let's　hurry　onward.
+-----------------------
+#Upper Window; Size: 5; Reese
+■If　we　linger　for　much　longer,
+the　sun　will　set　on　us.
+-----------------------
+#Upper Window; Size: 4; Ward
+■■■■■■As　you　command,　milord.
+-----------------------
+■■
+###### End ######
+
+#### File 7: 7 ####
+#Upper Window; Size: 6; Reese
+■■■■■■■It　seems　most　of　the　deserters
+have　been　cleared　out.
+-----------------------
+#Upper Window; Size: 6; Ward
+■■■■■■With　their　leader　dead,
+the　remnants　should　scatter.●[60]
+The　villagers　will　be　safe　now.
+-----------------------
+#Upper Window; Size: 5; Reese
+■■■■The　Father　should　be　able　to
+take　care　of　the　rest,　then.●[60]
+Come,　let's　hurry　onward.
+-----------------------
+#Upper Window; Size: 5; Reese
+■If　we　linger　for　much　longer,
+the　sun　will　set　on　us.
+-----------------------
+#Upper Window; Size: 4; Ward
+■■■■■■As　you　command,　milord.
+-----------------------
+#Upper Window; Size: 6; Reese
+■■■■■■As　for　you,　Sister　Izerna,●[30]
+I　am　relieved　that　we　were　able
+to　reach　you　safely　in　time.
+-----------------------
+#Upper Window; Size: 5; Izerna
+■■■■■■I'm　terribly　sorry　to　have
+inconvenienced　you　so...
+-----------------------
+#Upper Window; Size: 5; Izerna
+■You　and　all　the　Sinon　Knights
+have　done　a　great　deed　this　day.
+-----------------------
+#Upper Window; Size: 6; Reese
+■■■■■■You　flatter　me,　Sister.●[60]
+Now　then,●[30]　I　trust　you'll　let　us
+escort　you　as　far　as　Navaron?
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■■■■That　would　be　very　kind　of　you.●[60]
+I　am　anxious　to　rejoin　the　Father
+and　the　rest　of　my　order...
+-----------------------
+#Upper Window; Size: 6; Reese
+■■■■■■I'll　see　to　it　that　you　do.
+-----------------------
+#Upper Window; Size: 6; Reese
+
+We'll　be　stationed　in　Navaron　for
+some　time,　I　imagine,●[30]　so　we　may　be
+seeing　more　of　you　in　the　future.
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■■I　see!●[60]
+I　pray　that　is　the　case.
+-----------------------
+■■
+###### End ######
+
+#### File 8: 8 ####
+#Upper Window; Size: 6; Dean
+■■■■■■■Members　of　the　League?●[60]
+Whew...●[60]　Now　that　you're　here,
+this'll　be　much　easier.
+-----------------------
+###### End ######
+
+#### File 9: 10 ####
+#Lower Window; Size: 6; Dean
+■■■■■■■Sorry　for　the　wait.
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■■What　did　you　do　to　that　man?
+-----------------------
+#Lower Window; Size: 6; Dean
+■■■...Can't　you　see　the　blood　all
+over　my　clothes?
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■No...●[60]
+You　mean...●[45]　you　killed　him?!
+-----------------------
+#Lower Window; Size: 6; Dean
+■■■Of　course　I　did.●[50]
+If　I　hadn't,●[15]　he　would've　just　gone
+on　causing　trouble　for　everyone.
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■Oh　Goddess...●[45]
+Please　forgive　this　terrible　sinner...
+-----------------------
+#Lower Window; Size: 6; Dean
+■■■...●[10]...
+-----------------------
+#Lower Window; Size: 6; Dean
+■...Look,●[15]　Sister.●[50]
+This　place　is　dangerous.●[60]
+You　should　get　out　of　here.
+-----------------------
+#Lower Window; Size: 6; Dean
+■Cross　the　river　to　the　north,●[10]
+then　go　west　till　you　find　a　road.●[60]
+Follow　it　to　get　to　a　village.
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■Okay...●[60]
+Ah...●[10]　Your　shoulder...●[60]
+Are　you　wounded?
+-----------------------
+#Lower Window; Size: 6; Dean
+■■■Oh,　this?●[30]　Don't　worry.●[60]
+It's　not　that　bad.
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■Yes,●[15]　it　is!●[60]
+Hold　still,●[35]　I'll　heal　you!
+-----------------------
+#Upper Window; Size: 6; Izerna
+■O　Compassionate　Mother,●[30]　please
+hear　the　plea　of　thy　loyal　servant...
+-----------------------
+#Upper Window; Size: 6; Izerna
+■Let　thy　light　bring　renewed
+life　to　this　man...
+-----------------------
+###### End ######
+
+#### File 10: 9 ####
+#Upper Window; Size: 6; Ritchens
+■■■■■■■And　just　who　are　you?
+-----------------------
+#Upper Window; Size: 6; Ritchens
+
+...The　Berwick　League,　eh?●[60]
+The　League　can　rot　for　all　I　care!
+-----------------------
+■■
+###### End ######
+
+#### File 11: 11 ####
+#Lower Window; Size: 5; Dean
+■■■■■■■Thanks,●[15]　Sister...
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■■No,●[15]　it　is　I　who　should　be
+thanking　you,●[15]　kind　sir.
+-----------------------
+#Upper Window; Size: 6; Izerna
+■Pardon　my　outburst　earlier...●[60]
+I　am　very　grateful　to　you
+for　rescuing　me.
+-----------------------
+#Lower Window; Size: 5; Dean
+■■■Don't　mention　it.
+-----------------------
+###### End ######
+
+#### File 12: 12 ####
+#Upper Window; Size: 5; Izerna
+■■■■■■■Aaah...●[30]　Mother　Veria...●[10]
+-----------------------
+■■
+###### End ######
+
+#### File 13: 13 ####
+#Upper Window; Size: 6; Benner
+■■■■■■■What,　you　backwater　hicks
+think　you　can　take　us　on?●[60]
+Don't　kid　yourself!
+-----------------------
+■■
+###### End ######
+
+#### File 14: 14 ####
+#Upper Window; Size: 6; Benner
+■■■■■■■Sorry...●[30]
+Commander　Ritchens...
+-----------------------
+■■
+###### End ######
+
+#### File 15: 101 ####
+#Upper Window; Size: 6; Priest
+■■■■■■■■А,　так　вы　пришли　по　призыву
+короля　к　оружию...●[60]
+Держите　путь　в　Наварон?
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■■■Да,●[30]　путь　сюда　был
+нелёгким.●[60]　Шесть　месяцев
+в　дороге,　день　и　ночь.
+-----------------------
+#Upper Window; Size: 6; Priest
+■■■■All　the　way　from　Sinon...●[60]
+Forgive　me,　sir　knight,●[20]　but　I'm
+rather　shocked　the　Margrave
+sent　someone　so...●[40]　inexperienced,
+shall　we　say?
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■I　am　the　Margrave's　own　son.●[60]
+You　needn't　worry　about　me.
+-----------------------
+#Upper Window; Size: 6; Priest
+■■■O-Oh!●[60]　Please　forgive　my　ignorance!●[60]
+I　had　no　idea,　Lord　Reese!
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■Forget　about　it...●[60]
+Please,　tell　me,●[30]　what　has　everyone
+in　this　town　so　panicked?
+-----------------------
+#Upper Window; Size: 6; Priest
+■■■Ah,　you　noticed?●[60]
+Yes,　it's　rather　unfortunate.●[60]
+We're　in　a　bit　of　a　tight　spot.
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■A　ht　spot?●[60]
+Please　explain.
+-----------------------
+#Upper Window; Size: 6; Priest
+■■■The　truth　is,●[30]　some　soldiers　have
+taken　over　the　town　east　of　here.
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■Soldiers?●[30]
+From　the　Empire?!
+-----------------------
+#Upper Window; Size: 6; Priest
+■■■Good　heavens,　no!●[60]
+They're　actually　soldiers　from　the
+League,●[10]　much　like　yourselves...
+-----------------------
+#Upper Window; Size: 6; Priest
+■Or　at　least　they　were,●[30]　until
+Duke　Roswick　barred　their　unit
+from　the　city　due　to　troublemakers.
+-----------------------
+#Upper Window; Size: 6; Priest
+■A　great　number　of　the　soldiers　were
+furious,　and　they　deserted　the　army.●[60]
+It　all　went　downhill　from　there.
+-----------------------
+#Upper Window; Size: 6; Priest
+■Now　they're　just　bandits,●[30]
+raiding　and　looting　the　countryside.
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■Despicable...●[60]
+What　about　the　city's　knights?●[50]
+Why　haven't　they　taken　action?
+-----------------------
+#Upper Window; Size: 6; Priest
+■■■I　petitioned　the　city　for　aid,●[30]
+but　my　request　was　denied.●[60]
+They've　already　got　their　hands　full.
+-----------------------
+#Upper Window; Size: 6; Priest
+■With　the　war　going　on,●[20]　they　can't
+spare　any　troops　just　to　help　out
+backwater　towns　like　ours.
+-----------------------
+■■
+###### End ######
+
+#### File 16: 102 ####
+#Lower Window; Size: 6; Villager
+■■■■■■■■Father,●[30]　we　must　flee!●[60]
+The　deserters　are　headed
+straight　for　us!
+-----------------------
+#Upper Window; Size: 6; Priest
+■■■■■So,　it's　come　to　this...
+-----------------------
+#Upper Window; Size: 6; Priest
+■We'll　have　to　evacuate...●[30]
+Tell　the　people　to　head　for　Navaron.●[60]
+And　do　call　Sister　Izerna　for　me.
+-----------------------
+#Lower Window; Size: 6; Villager
+■■■■But　she's　not　here,　Father!●[60]
+She　already　left　earlier　today
+for　the　eastern　village...
+-----------------------
+#Upper Window; Size: 6; Priest
+■■■■W-●[20]What?!●[30]
+Why　would　she　go　there?
+-----------------------
+#Lower Window; Size: 6; Villager
+■■■Earlier　today,●[30]　she　received　news
+of　a　sudden　disease　outbreak　there.
+-----------------------
+#Lower Window; Size: 6; Villager
+■We　told　her　it　was　too　dangerous
+to　go,●[30]　but　she　refused　to　listen...
+-----------------------
+#Lower Window; Size: 6; Villager
+
+She　set　out　on　her　own　when
+no　one　was　watching.
+-----------------------
+#Upper Window; Size: 6; Priest
+■■■■■No...!●[60]
+-----------------------
+#Upper Window; Size: 6; Priest
+
+If　anything　happened　to　Sister　Izerna,●[30]
+I　couldn't　bear　to　show　my　face　to
+Mother　Quescria　ever　again...
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■■Father,●[30]　please　leave　this　to　me.●[60]
+-----------------------
+#Lower Window; Size: 6; Reese
+
+My　knights　and　I　will　take　care
+of　these　cowardly　traitors,●[30]　and
+we'll　search　for　Sister　Izerna.
+-----------------------
+#Upper Window; Size: 6; Priest
+■■●[60]■■■D-●[30]Do　you　really　mean　it?●[60]
+Veria's　blessings　upon　you,　Lord　Reese!
+-----------------------
+#Upper Window; Size: 6; Priest
+■I　beg　of　you,●[30]　please　do
+whatever　you　can　to　help　her!
+-----------------------
+■■
+###### End ######
+
+#### File 17: 103 ####
+#Lower Window; Size: 6; Reese
+■■■■■■■■Ward,●[30]　alert　the　troops
+and　prepare　them　for　battle.
+-----------------------
+#Lower Window; Size: 6; Reese
+■If　we　can　capture　the　center　of
+town　from　these　deserters,●[30]　they
+should　disperse　easily　enough.
+-----------------------
+#Upper Window; Size: 6; Ward
+■■■■Are　you　sure　about　this,　milord?●[30]
+The　rear　guard　has　yet　to　arrive
+here　in　the　village.
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■We'll　be　fine　without　them.●[60]
+The　only　difficult　part　should　be
+locating　this　priestess.
+-----------------------
+#Upper Window; Size: 6; Ward
+■■■Understood,　Lord　Reese.●[60]
+By　your　command.
+-----------------------
+■■
+###### End ######
+
+#### File 18: 104 ####
+#Upper Window; Size: 6; Priest
+■■■■■■■■Lord　Reese,●[20]　if　you　do　find　her,●[30]
+please　tell　her　to　meet　up　with
+us　as　soon　as　possible.
+-----------------------
+#Upper Window; Size: 6; Priest
+■We'll　all　be　anxiously　awaiting
+news　from　you　in　Navaron.
+-----------------------
+#Upper Window; Size: 6; Reese
+■■■■Naturally,　Father.●[30]
+Take　care　of　yourself.
+-----------------------
+■■
+###### End ######
+
+#### File 19: 201 ####
+#Upper Window; Size: 6; Deserter
+■■■■■■■You're　Izerna,　right?
+-----------------------
+#Lower Window; Size: 6; Izerna
+■■■■Yes,　I　am...●[50]
+Is　there　something　you　need
+from　me,　sir?
+-----------------------
+#Upper Window; Size: 6; Deserter
+■■■■We've　been　waiting　for　you.●[60]
+We　were　told　you'd　come　running
+if　we　spread　rumors　of　a　disease...
+-----------------------
+#Lower Window; Size: 6; Izerna
+■■■What?!●[30]
+Then　the　terrible　news　I　heard
+this　morning　wasn't　true...?
+-----------------------
+#Upper Window; Size: 6; Deserter
+■■■■When　we　heard　there　was　a
+beautiful　cleric　in　the　western　town,●[30]
+we　just　had　to　see　for　ourselves!
+-----------------------
+#Upper Window; Size: 6; Deserter
+■And　boy,●[20]　you　are　a　beauty...
+-----------------------
+#Lower Window; Size: 6; Izerna
+■■■■Enough!●[60]
+I　have　no　time　for　this　nonsense.●[60]
+I　must　return　to　the　abbey.
+-----------------------
+###### End ######
+
+#### File 20: 202 ####
+#Upper Window; Size: 6; Deserter
+■■■■■■■What's　the　hurry,　sweet　thing?●[60]
+You　came　all　this　way　for　us,●[30]
+why　not　have　a　drink　or　two?
+-----------------------
+###### End ######
+
+#### File 21: 203 ####
+#Lower Window; Size: 5; Izerna
+■■■■■■■N-No...●[30]　Get　away...!
+-----------------------
+###### End ######
+
+#### File 22: 204 ####
+#Upper Window; Size: 4; Dean
+■■■■■■■...●[10]...
+-----------------------
+■■
+###### End ######
+
+#### File 23: 205 ####
+#Upper Window; Size: 4; Deserter
+■■■■■■■■What　the...●[60]
+Who　are　you,●[15]　boy?!
+-----------------------
+#Lower Window; Size: 6; Dean
+■■■■■Truly　astonishing...●[60]
+I　had　no　idea　this　part　of　the
+country　had　talking　beasts...
+-----------------------
+#Upper Window; Size: 4; Deserter
+■■■How　dare　you!
+-----------------------
+#Lower Window; Size: 6; Dean
+■■■Sister!●[60]
+You　wait　outside!
+-----------------------
+###### End ######
+
+#### File 24: 206 ####
+#Lower Window; Size: 4; Izerna
+■■■■■■■But...
+-----------------------
+#Upper Window; Size: 4; Dean
+■■■■■Do　it!●[60]　Now!
+-----------------------
+#Lower Window; Size: 4; Izerna
+■■■■A-All　right...
+-----------------------
+###### End ######
+
+#### File 25: 207 ####
+#Upper Window; Size: 5; Deserter
+■■■■■■■Now　you've　gone　and
+ruined　all　the　fun!
+-----------------------
+#Upper Window; Size: 5; Deserter
+■Hope　you're　ready　for　a
+shallow　grave,●[15]　boy!
+-----------------------
+#Lower Window; Size: 6; Dean
+■■■■■■And　here　I've　been　trying　not　to
+kill　random　strangers,●[20]　but　I　guess
+it　just　wasn't　to　be...
+-----------------------
+###### End ######
+
+#### File 26: 208 ####
+#Upper Window; Size: 4; Deserter
+■■■■■■■Gwah...!
+-----------------------
+###### End ######
+
+#### File 27: 301 ####
+#Upper Window; Size: 6; Deserter
+■■■■■■■Enough　with　your　blubbering!●[60]
+Hand　over　your　denarii　and　whatever
+else　you　have　that's　valuable!
+-----------------------
+#Upper Window; Size: 6; Lazlo
+■■■■I　beg　of　you,　please!●[60]
+You've　already　taken　so　much,
+we　won't　be　able　to　feed　ourselves!
+-----------------------
+#Lower Window; Size: 4; Deserter
+■■■■Shut　your　yap!●[60]
+If　you　don't　want　to　die,●[25]
+you'll　do　as　you're　told!
+-----------------------
+#Upper Window; Size: 6; Lazlo
+■■■■■...●[10]...
+-----------------------
+■■
+###### End ######
+
+#### File 28: 302 ####
+#Upper Window; Size: 4; Katya
+■■■■■■■Father...
+-----------------------
+#Upper Window; Size: 5; Deserter
+■■■■■■I　see,●[15]　the　rest　is　scattered
+all　around　the　house,●[15]　eh?●[60]
+Fine,●[15]　I'm　feeling　generous.
+-----------------------
+#Lower Window; Size: 6; Deserter
+■■■■■■Go　grab　it●[15]　and　put　it　in　a
+nice　little　pile　for　us.●[60]
+We'll　be　back　soon.　<[0,0,80](Turn　15)>
+-----------------------
+■■
+###### End ######
+
+#### File 29: 401 ####
+#Lower Window; Size: 5; Deserter
+■■■■■■■We're　back　to　collect!●[60]
+You　done　yet,●[20]　whelps?
+-----------------------
+#Upper Window; Size: 6; Lazlo
+■■■■■■I　told　you　before,●[30]　we　don't　have
+any　more　to　give　you!●[60]
+You've　already　taken　it　all!
+-----------------------
+#Lower Window; Size: 6; Deserter
+■■■■■■No,●[20]　you've　still　got　something
+worth　a　lot　of　money　here...
+-----------------------
+#Lower Window; Size: 6; Deserter
+
+I　know　some　friends　who'll　pay　a
+pretty　penny　for　this　lovely　lady!
+-----------------------
+■■
+###### End ######
+
+#### File 30: 402 ####
+#Upper Window; Size: 5; Lazlo
+■■■■■■■Get　your　hands　off　my　daughter!
+-----------------------
+#Upper Window; Size: 4; Katya
+■■■■■■Father,　help　me!
+-----------------------
+■■
+###### End ######
+
+#### File 31: 406 ####
+#Lower Window; Size: 4; Deserter
+■■■■■■■Get　moving,●[15]　girl!
+-----------------------
+#Upper Window; Size: 5; Katya
+■■■■■■Somebody,●[20]　please―!
+-----------------------
+■■
+###### End ######
+
+#### File 32: 407 ####
+#Upper Window; Size: 4; Lazlo
+■■■■■■■W●[20]-What...?
+-----------------------
+■■
+###### End ######
+
+#### File 33: 501 ####
+#Upper Window; Size: 5; Lazlo
+■■■■■■■You　saved　my　daughter!●[60]
+I　can't　thank　you　enough!
+-----------------------
+#Upper Window; Size: 5; Katya
+■■■■■■Thank　you　so　very　much
+for　stopping　those　men.
+-----------------------
+#Upper Window; Size: 6; Lazlo
+■■■■■■Those　rotten　deserters
+are　all　the　same...
+-----------------------
+#Upper Window; Size: 6; Lazlo
+■I'm　just　a　poor　logger,●[15]　you　see,●[30]
+so　I　can't　offer　much　as　a　reward
+to　you　kind　people...
+-----------------------
+#Upper Window; Size: 6; Lazlo
+■But　if　you　have　room　for　it,●[30]
+this　is　the　highest-quality　lumber
+that　I　have　in　stock.●[60]
+-----------------------
+#Upper Window; Size: 6; Lazlo
+
+Please,●[15]　take　it　with　my　thanks!
+-----------------------
+■■
+###### End ######
+
+#### File 34: 601 ####
+#Lower Window; Size: 5; Deserter
+■■■■■■■We're　back　to　collect!●[60]
+You　done　yet,●[20]　whelps?
+-----------------------
+#Upper Window; Size: 6; Lazlo
+■■■■■■I　told　you　before,●[30]　we　don't　have
+any　more　to　give　you!●[60]
+You've　already　taken　it　all!
+-----------------------
+#Lower Window; Size: 6; Deserter
+■■■■■■No,●[20]　you've　still　got　something
+worth　a　lot　of　money　here...
+-----------------------
+#Lower Window; Size: 6; Deserter
+■I　know　some　friends　who'll　pay　a
+pretty　penny　for　this　lovely　lady!
+-----------------------
+■■
+###### End ######
+
+#### File 35: 602 ####
+#Upper Window; Size: 5; Lazlo
+■■■■■■■Get　your　hands　off　my　daughter!
+-----------------------
+#Upper Window; Size: 4; Katya
+■■■■■■Father,●[15]　help　me!
+-----------------------
+■■
+###### End ######
+
+#### File 36: 603 ####
+#Lower Window; Size: 4; Deserter
+■■■■■■■Shut　that　girl's　trap!
+-----------------------
+■■
+###### End ######
+
+#### File 37: 604 ####
+#Upper Window; Size: 4; Lazlo
+■■■■■■■K-●[10]Katya...
+-----------------------
+■■
+###### End ######
+
+#### File 38: 605 ####
+#Upper Window; Size: 6; Katya
+■■■■■■■■No...!●[60]　Father!!
+-----------------------
+#Lower Window; Size: 4; Deserter
+■■■■■■■Get　her　out　of　here!
+-----------------------
+■■
+###### End ######
+
+#### File 39: 606 ####
+#Lower Window; Size: 4; Deserter
+■■■■■■■Get　moving,　girl!
+-----------------------
+#Upper Window; Size: 5; Katya
+■■■■■■Somebody,●[20]　please―!
+-----------------------
+■■
+###### End ######
+
+#### File 40: 607 ####
+#Upper Window; Size: 4; Lazlo
+■■■■■■■S●[20]-Stop　this...!
+-----------------------
+■■
+###### End ######
+
+#### File 41: 1001 ####
+#Upper Window; Size: 6; Reese
+■■■■■■■It　seems　most　of　the　deserters
+have　been　cleared　out.
+-----------------------
+#Lower Window; Size: 6; Ward
+■■■■With　their　leader　dead,●[15]
+the　remnants　should　scatter.●[60]
+The　villagers　will　be　safe　now.
+-----------------------
+#Upper Window; Size: 5; Reese
+■■■The　Father　should　be　able　to
+take　care　of　the　rest,●[15]　then.●[60]
+Come,●[15]　let's　hurry　onward.
+-----------------------
+#Lower Window; Size: 4; Ward
+■■■As　you　command,●[15]　milord.
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■■■■■■■As　for　you,●[15]　Sister　Izerna,●[30]
+I　am　relieved　that　we　were　able
+to　reach　you　safely　in　time.
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■■I'm　terribly　sorry　to　have
+inconvenienced　you　so...
+-----------------------
+#Upper Window; Size: 6; Izerna
+■You　and　all　the　Sinon　Knights
+have　done　a　great　deed　this　day.
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■You　flatter　me,●[15]　Sister.●[60]
+Now　then,●[30]　I　trust　you'll　let　us
+escort　you　as　far　as　Navaron?
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■That　would　be　very　kind　of　you.●[60]
+I　am　anxious　to　rejoin　the　Father
+and　the　rest　of　my　order...
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■I'll　see　to　it　that　you　do.
+-----------------------
+#Lower Window; Size: 6; Reese
+
+We'll　be　stationed　in　Navaron　for
+some　time,　I　imagine,●[30]　so　we　may　be
+seeing　more　of　you　in　the　future.
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■I　see...●[60]
+I　pray　that　is　the　case.
+-----------------------
+###### End ######
+
+#### File 42: 1002 ####
+#Upper Window; Size: 6; Reese
+■■■■■■■It　seems　most　of　the　deserters
+have　been　cleared　out.
+-----------------------
+#Lower Window; Size: 6; Ward
+■■■■With　their　leader　captured,●[15]
+the　remnants　should　scatter.●[60]
+The　villagers　will　be　safe　now.
+-----------------------
+#Upper Window; Size: 5; Reese
+■■■The　Father　should　be　able　to
+take　care　of　the　rest,●[15]　then.●[60]
+Come,●[15]　let's　hurry　onward.
+-----------------------
+#Lower Window; Size: 4; Ward
+■■■As　you　command,●[15]　milord.
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■■■■■■■As　for　you,●[15]　Sister　Izerna,●[30]
+I　am　relieved　that　we　were　able
+to　reach　you　safely　in　time.
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■■I'm　terribly　sorry　to　have
+inconvenienced　you　so...
+-----------------------
+#Upper Window; Size: 6; Izerna
+■You　and　all　the　Sinon　Knights
+have　done　a　great　deed　this　day.
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■You　flatter　me,●[15]　Sister.●[60]
+Now　then,●[30]　I　trust　you'll　let　us
+escort　you　as　far　as　Navaron?
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■That　would　be　very　kind　of　you.●[60]
+I　am　anxious　to　rejoin　the　Father
+and　the　rest　of　my　order...
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■I'll　see　to　it　that　you　do.
+-----------------------
+#Lower Window; Size: 6; Reese
+
+We'll　be　stationed　in　Navaron　for
+some　time,　I　imagine,●[30]　so　we　may　be
+seeing　more　of　you　in　the　future.
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■I　see...●[60]
+I　pray　that　is　the　case.
+-----------------------
+###### End ######
+
+#### File 43: 1101 ####
+#Upper Window; Size: 6; Reese
+■■■■■■■It　seems　most　of　the　deserters
+have　been　cleared　out.
+-----------------------
+#Lower Window; Size: 6; Ward
+■■■■With　their　leader　dead,●[15]
+the　remnants　should　scatter.●[60]
+The　villagers　will　be　safe　now.
+-----------------------
+#Upper Window; Size: 5; Reese
+■■■The　Father　should　be　able　to
+take　care　of　the　rest,●[15]　then.●[60]
+Come,●[15]　let's　hurry　onward.
+-----------------------
+#Lower Window; Size: 4; Ward
+■■■As　you　command,●[15]　milord.
+-----------------------
+###### End ######
+
+#### File 44: 1102 ####
+#Upper Window; Size: 6; Reese
+■■■■■■■It　seems　most　of　the　deserters
+have　been　cleared　out.
+-----------------------
+#Lower Window; Size: 6; Ward
+■■■■With　their　leader　captured,
+the　remnants　should　scatter.●[60]
+The　villagers　will　be　safe　now.
+-----------------------
+#Upper Window; Size: 5; Reese
+■■■The　Father　should　be　able　to
+take　care　of　the　rest,●[15]　then.●[60]
+Come,●[15]　let's　hurry　onward.
+-----------------------
+#Lower Window; Size: 4; Ward
+■■■As　you　command,　milord.
+-----------------------
+###### End ######
+
+#### File 45: 1201 ####
+#Lower Window; Size: 6; Reese
+■■■■■■■Are　you　Sister　Izerna?
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■■Yes,●[30]　I　am...
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■The　Father　is　worried　about　you.●[60]
+I　will　have　one　of　my　knights
+escort　you　back　to　the　abbey.
+-----------------------
+#Upper Window; Size: 4; Izerna
+■■■The　Father...?●[60]
+Has　something　happened?
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■I'll　let　him　explain　the　situation,●[60]
+as　I　must　attend　to　the　battle.●[60]
+Do　excuse　me,　Sister.
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■Wait,●[15]　sir!●[60]
+If　you're　here　to　help　the　town,●[30]
+then　let　me　accompany　you!
+-----------------------
+#Upper Window; Size: 6; Izerna
+■I　can　help　heal　your　soldiers
+and　any　wounded　villagers.
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■I　appreciate　the　offer,●[30]　but　you
+really　should　return　to　your　abbey.
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■If　I　am　to　live　in　accordance　with
+the　teachings　of　Veria,●[30]　I　can't　simply
+run　away　from　this!
+-----------------------
+#Upper Window; Size: 6; Izerna
+■Or　are　you　telling　me
+to　give　up　my　faith?
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■I'm　telling　you　to　be　reasonable.●[60]
+Is　self-protection　not　also
+one　of　your　precepts,　Sister?
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■We　must　always　be　willing　to
+sacrifice　ourselves　in　service　of
+our　fellow　man.●[90]
+-----------------------
+#Upper Window; Size: 6; Izerna
+
+Do　you　not　feel　the　same,●[15]　sir,●[25]
+as　a　knight?
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■...Fine.●[60]
+I　can　tell　you　won't　be　convinced
+by　the　likes　of　me.
+-----------------------
+#Lower Window; Size: 6; Reese
+■You　may　accompany　us,●[30]　but
+please　stay　close　to　one　of　my
+soldiers　at　all　times.
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■Thank　you,●[15]　good　sir.●[60]
+And　I'm　sorry　for　speaking
+so　sternly　to　you...
+-----------------------
+#Upper Window; Size: 6; Izerna
+■May　I　have　your　name?
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■I'm　Reese,●[30]　heir　to　the　March　of　Sinon.
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■Sinon...
+Well　met,　then,●[30]　Lord　Reese.●[60]
+-----------------------
+###### End ######
+
+#### File 46: 1301 ####
+#Lower Window; Size: 6; Reese
+■■■■■■■It　seems　most　of　the　deserters
+have　been　cleared　out.
+-----------------------
+#Upper Window; Size: 6; Ward
+■■■■■■With　their　leader　dead,●[15]
+the　remnants　should　scatter.●[60]
+The　villagers　will　be　safe　now.
+-----------------------
+#Upper Window; Size: 6; Ward
+■Speaking　of　which,●[15]　we　haven't
+spoken　to　that　priestess　yet...
+-----------------------
+#Upper Window; Size: 6; Ward
+■■■■■■■Sister　Izerna,●[30]　this　way,●[15]　please...
+-----------------------
+###### End ######
+
+#### File 47: 1302 ####
+#Upper Window; Size: 6; Izerna
+■■■■■■■It's　an　honor　to　meet　you,●[30]
+Lord　Reese.
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■■You　are　Sister　Izerna,●[15]　indeed?
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■I　am,●[15]　yes.●[60]
+I'm　terribly　sorry　to　have
+inconvenienced　you　so...
+-----------------------
+#Upper Window; Size: 6; Izerna
+■You　and　all　the　Sinon　Knights
+have　done　a　great　deed　this　day.
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■You　flatter　me,●[15]　Sister.●[60]
+Now　then,●[30]　I　trust　you'll　let　us
+escort　you　as　far　as　Navaron?●[60]
+The　Father　is　waiting　for　you.
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■The　Father　is?●[60]
+I　see...●[45]　That　would　be　very　kind
+of　you,　Lord　Reese.
+-----------------------
+#Lower Window; Size: 6; Reese
+■■■Think　nothing　of　it.●[60]
+We'll　be　stationed　in　Navaron　for
+some　time,●[15]　I　imagine,●[30]　so　we　may　
+see　you　again　in　the　future,●[15]　too.
+-----------------------
+#Upper Window; Size: 6; Izerna
+■■■I　see...●[60]
+I　pray　that　is　the　case.
+-----------------------
+###### End ######
+
+#### File 48: 1303 ####
+#Lower Window; Size: 6; Reese
+■■■■■■■It　seems　most　of　the　deserters
+have　been　cleared　out.
+-----------------------
+#Upper Window; Size: 6; Ward
+■■■■■■With　their　leader　captured,●[15]
+the　remnants　should　scatter.●[60]
+The　villagers　will　be　safe　now.
+-----------------------
+#Upper Window; Size: 6; Ward
+■Speaking　of　which,●[15]　we　haven't
+spoken　to　that　priestess　yet...
+-----------------------
+#Upper Window; Size: 6; Ward
+■■■■■■■Sister　Izerna,●[30]　this　way,　please...
+-----------------------
+###### End ######
+

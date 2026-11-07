@@ -1,4 +1,5 @@
 Input Iso=SLPS_254.97.trs2.iso
 Output Iso=NEWSLPS_254.97.trs2.iso
 ELF=SLPS_254.97
-Iso Type=English
+InputLang=English
+OutputLang=Russian

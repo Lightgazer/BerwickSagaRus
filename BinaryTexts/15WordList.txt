@@ -20,4 +20,3 @@ Gefallen
 size:comm=124|Ansehen:
 size:comm=124|Erledigungen:
 size:comm=124|Zufriedenheit:
-size:comm=124|Kriegsführung:

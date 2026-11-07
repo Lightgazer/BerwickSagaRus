@@ -1,10 +1,10 @@
 ﻿{
     "schemaVersion":  1,
-    "commit":  "716ed44bbff0f33e95ef1a944da32cdceeefcb35",
-    "sha256":  "3C0541B7DD4D88D916DF13197A6A1300037F08283732D3476990902205E38BE1",
+    "commit":  "844b5defcdac269486b41f748e27fa21d2beeb06",
+    "sha256":  "2061CE6B04AED9AAEAD93C3252DC25BE4A570A029B3388E45D870B6E315838FF",
     "sdk":  "10.0.401",
     "runtime":  "win-x64",
     "configuration":  "Release",
     "selfContained":  false,
-    "builtAtUtc":  "2026-10-23T13:33:04.8610854Z"
+    "builtAtUtc":  "2026-11-07T17:18:43.4774813Z"
 }
