@@ -1,42 +1,2730 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <wxHexEditor_XML_TAG>
-  <filename path="D:\bs\TuBS\TuBS\TuBS\bin\Debug\SLPS_254.97">
+  <filename path="D:\bs\BerwickSagaRus\SLPS_254.97">
     <TAG id="0">
+      <start_offset>964860</start_offset>
+      <end_offset>964863</end_offset>
+      <tag_text>wpf2.txt:1 (original line 21) | lui | string 0x003A9290 | pair 0x000EB904 | %s が %s 上がった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="1">
+      <start_offset>964868</start_offset>
+      <end_offset>964871</end_offset>
+      <tag_text>wpf2.txt:1 (original line 21) | addiu | string 0x003A9290 | pair 0x000EB8FC | %s が %s 上がった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="2">
+      <start_offset>964904</start_offset>
+      <end_offset>964907</end_offset>
+      <tag_text>wpf2.txt:2 (original line 22) | lui | string 0x003A92B0 | pair 0x000EB930 | %s が %s になった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="3">
+      <start_offset>964912</start_offset>
+      <end_offset>964915</end_offset>
+      <tag_text>wpf2.txt:2 (original line 22) | addiu | string 0x003A92B0 | pair 0x000EB928 | %s が %s になった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="4">
+      <start_offset>964952</start_offset>
+      <end_offset>964955</end_offset>
+      <tag_text>wpf2.txt:3 (original line 23) | lui | string 0x003A92D0 | pair 0x000EB960 | %s が %s に下がってしまった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="5">
+      <start_offset>964960</start_offset>
+      <end_offset>964963</end_offset>
+      <tag_text>wpf2.txt:3 (original line 23) | addiu | string 0x003A92D0 | pair 0x000EB958 | %s が %s に下がってしまった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="6">
+      <start_offset>965012</start_offset>
+      <end_offset>965015</end_offset>
+      <tag_text>wpf2.txt:4 (original line 24) | lui | string 0x003A92F0 | pair 0x000EB9A0 | %s技能が %s になった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="7">
+      <start_offset>965024</start_offset>
+      <end_offset>965027</end_offset>
+      <tag_text>wpf2.txt:4 (original line 24) | addiu | string 0x003A92F0 | pair 0x000EB994 | %s技能が %s になった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="8">
+      <start_offset>966660</start_offset>
+      <end_offset>966663</end_offset>
+      <tag_text>wpf2.txt:5 (original line 25) | lui | string 0x003A9310 | pair 0x000EC010 | %n は %C%h%C になった！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="9">
+      <start_offset>966672</start_offset>
+      <end_offset>966675</end_offset>
+      <tag_text>wpf2.txt:5 (original line 25) | addiu | string 0x003A9310 | pair 0x000EC004 | %n は %C%h%C になった！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="10">
+      <start_offset>966728</start_offset>
+      <end_offset>966731</end_offset>
+      <tag_text>wpf2.txt:6 (original line 26) | lui | string 0x003A9330 | pair 0x000EC054 | %n はレベルが上がった！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="11">
+      <start_offset>966740</start_offset>
+      <end_offset>966743</end_offset>
+      <tag_text>wpf2.txt:6 (original line 26) | addiu | string 0x003A9330 | pair 0x000EC048 | %n はレベルが上がった！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="12">
+      <start_offset>966756</start_offset>
+      <end_offset>966759</end_offset>
+      <tag_text>wpf2.txt:7 (original line 27) | lui | string 0x003A9350 | pair 0x000EC070 | %n はレベルが下がってしまった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="13">
+      <start_offset>966768</start_offset>
+      <end_offset>966771</end_offset>
+      <tag_text>wpf2.txt:7 (original line 27) | addiu | string 0x003A9350 | pair 0x000EC064 | %n はレベルが下がってしまった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="14">
+      <start_offset>967484</start_offset>
+      <end_offset>967487</end_offset>
+      <tag_text>wpf2.txt:2 (original line 22) | lui | string 0x003A92B0 | pair 0x000EC348 | %s が %s になった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="15">
+      <start_offset>967496</start_offset>
+      <end_offset>967499</end_offset>
+      <tag_text>wpf2.txt:2 (original line 22) | addiu | string 0x003A92B0 | pair 0x000EC33C | %s が %s になった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="16">
+      <start_offset>968196</start_offset>
+      <end_offset>968199</end_offset>
+      <tag_text>wpf2.txt:8 (original line 28) | lui | string 0x003A9370 | pair 0x000EC614 | %n は運がよくなった！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="17">
+      <start_offset>968212</start_offset>
+      <end_offset>968215</end_offset>
+      <tag_text>wpf2.txt:8 (original line 28) | addiu | string 0x003A9370 | pair 0x000EC604 | %n は運がよくなった！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="18">
+      <start_offset>968580</start_offset>
+      <end_offset>968583</end_offset>
+      <tag_text>wpf2.txt:9 (original line 29) | lui | string 0x003A9390 | pair 0x000EC790 | スキル %C%a%C を身に付けた！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="19">
+      <start_offset>968592</start_offset>
+      <end_offset>968595</end_offset>
+      <tag_text>wpf2.txt:9 (original line 29) | addiu | string 0x003A9390 | pair 0x000EC784 | スキル %C%a%C を身に付けた！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="20">
+      <start_offset>968768</start_offset>
+      <end_offset>968771</end_offset>
+      <tag_text>wpf2.txt:10 (original line 30) | lui | string 0x003A93B0 | pair 0x000EC848 | スキル %C%a%C は%C無効%Cになった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="21">
+      <start_offset>968776</start_offset>
+      <end_offset>968779</end_offset>
+      <tag_text>wpf2.txt:10 (original line 30) | addiu | string 0x003A93B0 | pair 0x000EC840 | スキル %C%a%C は%C無効%Cになった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="22">
+      <start_offset>968892</start_offset>
+      <end_offset>968895</end_offset>
+      <tag_text>wpf2.txt:11 (original line 31) | lui | string 0x003A93E0 | pair 0x000EC8C4 | 移動力が１上がった！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="23">
+      <start_offset>968900</start_offset>
+      <end_offset>968903</end_offset>
+      <tag_text>wpf2.txt:11 (original line 31) | addiu | string 0x003A93E0 | pair 0x000EC8BC | 移動力が１上がった！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="24">
+      <start_offset>1534804</start_offset>
+      <end_offset>1534807</end_offset>
+      <tag_text>wpf1 empty string in padding | lui | string 0x003AB768 | pair 0x00176B64</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="25">
+      <start_offset>1534820</start_offset>
+      <end_offset>1534823</end_offset>
+      <tag_text>wpf1 empty string in padding | addiu | string 0x003AB768 | pair 0x00176B54</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="26">
+      <start_offset>1535008</start_offset>
+      <end_offset>1535011</end_offset>
+      <tag_text>wpf1.txt:1 (original line 15) | lui | string 0x003AB770 | pair 0x00176C28 | %C目覚めた%C！</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="27">
+      <start_offset>1535016</start_offset>
+      <end_offset>1535019</end_offset>
+      <tag_text>wpf1.txt:1 (original line 15) | addiu | string 0x003AB770 | pair 0x00176C20 | %C目覚めた%C！</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="28">
+      <start_offset>1535024</start_offset>
+      <end_offset>1535027</end_offset>
+      <tag_text>wpf1.txt:2 (original line 16) | lui | string 0x003AB780 | pair 0x00176C38 | %C正気に戻った%C！</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="29">
+      <start_offset>1535032</start_offset>
+      <end_offset>1535035</end_offset>
+      <tag_text>wpf1.txt:2 (original line 16) | addiu | string 0x003AB780 | pair 0x00176C30 | %C正気に戻った%C！</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="30">
+      <start_offset>1535040</start_offset>
+      <end_offset>1535043</end_offset>
+      <tag_text>wpf1.txt:3 (original line 17) | lui | string 0x003AB7A0 | pair 0x00176C48 | %C毒状態から回復した%C！</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="31">
+      <start_offset>1535048</start_offset>
+      <end_offset>1535051</end_offset>
+      <tag_text>wpf1.txt:3 (original line 17) | addiu | string 0x003AB7A0 | pair 0x00176C40 | %C毒状態から回復した%C！</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="32">
+      <start_offset>1535136</start_offset>
+      <end_offset>1535139</end_offset>
+      <tag_text>wpf1.txt:4 (original line 18) | lui | string 0x003AB7C0 | pair 0x00176CB0 | %nは%C眠ってしまった！！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="33">
+      <start_offset>1535152</start_offset>
+      <end_offset>1535155</end_offset>
+      <tag_text>wpf1.txt:4 (original line 18) | addiu | string 0x003AB7C0 | pair 0x00176CA0 | %nは%C眠ってしまった！！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="34">
+      <start_offset>1535256</start_offset>
+      <end_offset>1535259</end_offset>
+      <tag_text>wpf1.txt:5 (original line 19) | lui | string 0x003AB7E0 | pair 0x00176D28 | %nは%C狂乱状態になった！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="35">
+      <start_offset>1535272</start_offset>
+      <end_offset>1535275</end_offset>
+      <tag_text>wpf1.txt:5 (original line 19) | addiu | string 0x003AB7E0 | pair 0x00176D18 | %nは%C狂乱状態になった！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="36">
+      <start_offset>1535296</start_offset>
+      <end_offset>1535299</end_offset>
+      <tag_text>wpf1.txt:6 (original line 20) | lui | string 0x003AB800 | pair 0x00176D48 | %C戦場を離脱%Cした！</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="37">
+      <start_offset>1535304</start_offset>
+      <end_offset>1535307</end_offset>
+      <tag_text>wpf1.txt:6 (original line 20) | addiu | string 0x003AB800 | pair 0x00176D40 | %C戦場を離脱%Cした！</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="38">
+      <start_offset>1535312</start_offset>
+      <end_offset>1535315</end_offset>
+      <tag_text>wpf1.txt:7 (original line 21) | lui | string 0x003AB820 | pair 0x00176D58 | %C魔法防御%Cが７上がった</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="39">
+      <start_offset>1535320</start_offset>
+      <end_offset>1535323</end_offset>
+      <tag_text>wpf1.txt:7 (original line 21) | addiu | string 0x003AB820 | pair 0x00176D50 | %C魔法防御%Cが７上がった</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="40">
+      <start_offset>1535408</start_offset>
+      <end_offset>1535411</end_offset>
+      <tag_text>wpf1.txt:8 (original line 22) | lui | string 0x003AB840 | pair 0x00176DC0 | %nは%C魔法禁止%Cの状態になった！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="41">
+      <start_offset>1535424</start_offset>
+      <end_offset>1535427</end_offset>
+      <tag_text>wpf1.txt:8 (original line 22) | addiu | string 0x003AB840 | pair 0x00176DB0 | %nは%C魔法禁止%Cの状態になった！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="42">
+      <start_offset>1535448</start_offset>
+      <end_offset>1535451</end_offset>
+      <tag_text>wpf1.txt:9 (original line 23) | lui | string 0x003AB870 | pair 0x00176DE0 | %C行動可能%C状態になった</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="43">
+      <start_offset>1535456</start_offset>
+      <end_offset>1535459</end_offset>
+      <tag_text>wpf1.txt:9 (original line 23) | addiu | string 0x003AB870 | pair 0x00176DD8 | %C行動可能%C状態になった</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="44">
+      <start_offset>1535560</start_offset>
+      <end_offset>1535563</end_offset>
+      <tag_text>wpf1.txt:10 (original line 24) | lui | string 0x003AB890 | pair 0x00176E60 | %iの%C耐久値%Cが回復した！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="45">
+      <start_offset>1535584</start_offset>
+      <end_offset>1535587</end_offset>
+      <tag_text>wpf1.txt:10 (original line 24) | addiu | string 0x003AB890 | pair 0x00176E48 | %iの%C耐久値%Cが回復した！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="46">
+      <start_offset>1535600</start_offset>
+      <end_offset>1535603</end_offset>
+      <tag_text>wpf1.txt:11 (original line 25) | lui | string 0x003AB8B0 | pair 0x00176E78 | %C戦闘不能状態から回復した%C！</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="47">
+      <start_offset>1535608</start_offset>
+      <end_offset>1535611</end_offset>
+      <tag_text>wpf1.txt:11 (original line 25) | addiu | string 0x003AB8B0 | pair 0x00176E70 | %C戦闘不能状態から回復した%C！</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="48">
+      <start_offset>1535616</start_offset>
+      <end_offset>1535619</end_offset>
+      <tag_text>wpf1.txt:12 (original line 26) | lui | string 0x003AB8D0 | pair 0x00176E88 | %Cワープ%Cした</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="49">
+      <start_offset>1535624</start_offset>
+      <end_offset>1535627</end_offset>
+      <tag_text>wpf1.txt:12 (original line 26) | addiu | string 0x003AB8D0 | pair 0x00176E80 | %Cワープ%Cした</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="50">
+      <start_offset>1535632</start_offset>
+      <end_offset>1535635</end_offset>
+      <tag_text>wpf1.txt:13 (original line 27) | lui | string 0x003AB8E0 | pair 0x00176E98 | %C筋力%Cが上がった</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="51">
+      <start_offset>1535640</start_offset>
+      <end_offset>1535643</end_offset>
+      <tag_text>wpf1.txt:13 (original line 27) | addiu | string 0x003AB8E0 | pair 0x00176E90 | %C筋力%Cが上がった</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="52">
+      <start_offset>1535648</start_offset>
+      <end_offset>1535651</end_offset>
+      <tag_text>wpf1.txt:14 (original line 28) | lui | string 0x003AB900 | pair 0x00176EA8 | %C防御力%Cが上がった</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="53">
+      <start_offset>1535656</start_offset>
+      <end_offset>1535659</end_offset>
+      <tag_text>wpf1.txt:14 (original line 28) | addiu | string 0x003AB900 | pair 0x00176EA0 | %C防御力%Cが上がった</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="54">
+      <start_offset>1535756</start_offset>
+      <end_offset>1535759</end_offset>
+      <tag_text>wpf1.txt:15 (original line 29) | lui | string 0x003AB920 | pair 0x00176F1C | %C魔法防御%Cが７上がった！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="55">
+      <start_offset>1535772</start_offset>
+      <end_offset>1535775</end_offset>
+      <tag_text>wpf1.txt:15 (original line 29) | addiu | string 0x003AB920 | pair 0x00176F0C | %C魔法防御%Cが７上がった！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="56">
+      <start_offset>1535792</start_offset>
+      <end_offset>1535795</end_offset>
+      <tag_text>wpf1.txt:16 (original line 30) | lui | string 0x003AB940 | pair 0x00176F40 | %%nは%s！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="57">
+      <start_offset>1535808</start_offset>
+      <end_offset>1535811</end_offset>
+      <tag_text>wpf1.txt:16 (original line 30) | addiu | string 0x003AB940 | pair 0x00176F30 | %%nは%s！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="58">
+      <start_offset>1536080</start_offset>
+      <end_offset>1536083</end_offset>
+      <tag_text>wpf1.txt:17 (original line 31) | lui | string 0x003AB950 | pair 0x00177060 | %nには%C効かなかった！！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="59">
+      <start_offset>1536096</start_offset>
+      <end_offset>1536099</end_offset>
+      <tag_text>wpf1.txt:17 (original line 31) | addiu | string 0x003AB950 | pair 0x00177050 | %nには%C効かなかった！！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="60">
+      <start_offset>1536280</start_offset>
+      <end_offset>1536283</end_offset>
+      <tag_text>wpf1.txt:18 (original line 32) | lui | string 0x003AB970 | pair 0x0017712C | %nのＨＰが%C%D回復%Cした！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="61">
+      <start_offset>1536300</start_offset>
+      <end_offset>1536303</end_offset>
+      <tag_text>wpf1.txt:18 (original line 32) | addiu | string 0x003AB970 | pair 0x00177118 | %nのＨＰが%C%D回復%Cした！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="62">
+      <start_offset>1536360</start_offset>
+      <end_offset>1536363</end_offset>
+      <tag_text>wpf1.txt:19 (original line 33) | lui | string 0x003AB990 | pair 0x00177170 | %nの%i！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="63">
+      <start_offset>1536368</start_offset>
+      <end_offset>1536371</end_offset>
+      <tag_text>wpf1.txt:19 (original line 33) | addiu | string 0x003AB990 | pair 0x00177168 | %nの%i！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="64">
+      <start_offset>1536552</start_offset>
+      <end_offset>1536555</end_offset>
+      <tag_text>wpf1.txt:20 (original line 34) | lui | string 0x003AB9A0 | pair 0x00177248 | %s技能が%C%D%Cになった！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="65">
+      <start_offset>1536584</start_offset>
+      <end_offset>1536587</end_offset>
+      <tag_text>wpf1.txt:20 (original line 34) | addiu | string 0x003AB9A0 | pair 0x00177228 | %s技能が%C%D%Cになった！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="66">
+      <start_offset>1536744</start_offset>
+      <end_offset>1536747</end_offset>
+      <tag_text>wpf1.txt:21 (original line 35) | lui | string 0x003AB9C0 | pair 0x001772F4 | %nのスキル%C%a%Cの技！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="67">
+      <start_offset>1536756</start_offset>
+      <end_offset>1536759</end_offset>
+      <tag_text>wpf1.txt:21 (original line 35) | addiu | string 0x003AB9C0 | pair 0x001772E8 | %nのスキル%C%a%Cの技！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="68">
+      <start_offset>1536772</start_offset>
+      <end_offset>1536775</end_offset>
+      <tag_text>wpf1.txt:22 (original line 36) | lui | string 0x003AB9E0 | pair 0x0017730C | %nは武器で攻撃を防いだ！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="69">
+      <start_offset>1536780</start_offset>
+      <end_offset>1536783</end_offset>
+      <tag_text>wpf1.txt:22 (original line 36) | addiu | string 0x003AB9E0 | pair 0x00177304 | %nは武器で攻撃を防いだ！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="70">
+      <start_offset>1536788</start_offset>
+      <end_offset>1536791</end_offset>
+      <tag_text>wpf1.txt:23 (original line 37) | lui | string 0x003ABA00 | pair 0x0017731C | %nは盾で攻撃を防いだ！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="71">
+      <start_offset>1536796</start_offset>
+      <end_offset>1536799</end_offset>
+      <tag_text>wpf1.txt:23 (original line 37) | addiu | string 0x003ABA00 | pair 0x00177314 | %nは盾で攻撃を防いだ！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="72">
+      <start_offset>1536912</start_offset>
+      <end_offset>1536915</end_offset>
+      <tag_text>wpf1.txt:24 (original line 38) | lui | string 0x003ABA20 | pair 0x001773A8 | %C追加効果！%Dのダメージ%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="73">
+      <start_offset>1536936</start_offset>
+      <end_offset>1536939</end_offset>
+      <tag_text>wpf1.txt:24 (original line 38) | addiu | string 0x003ABA20 | pair 0x00177390 | %C追加効果！%Dのダメージ%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="74">
+      <start_offset>1537040</start_offset>
+      <end_offset>1537043</end_offset>
+      <tag_text>wpf1.txt:26 (original line 40) | lui | string 0x003ABA58 | pair 0x00177418 | 天馬</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="75">
+      <start_offset>1537048</start_offset>
+      <end_offset>1537051</end_offset>
+      <tag_text>wpf1.txt:26 (original line 40) | addiu | string 0x003ABA58 | pair 0x00177410 | 天馬</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="76">
+      <start_offset>1537080</start_offset>
+      <end_offset>1537083</end_offset>
+      <tag_text>wpf1.txt:27 (original line 41) | lui | string 0x003ABA60 | pair 0x00177440 | 飛竜</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="77">
+      <start_offset>1537088</start_offset>
+      <end_offset>1537091</end_offset>
+      <tag_text>wpf1.txt:27 (original line 41) | addiu | string 0x003ABA60 | pair 0x00177438 | 飛竜</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="78">
+      <start_offset>1537096</start_offset>
+      <end_offset>1537099</end_offset>
+      <tag_text>wpf1.txt:28 (original line 42) | lui | string 0x003ABA68 | pair 0x0017744C | 騎馬</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="79">
+      <start_offset>1537100</start_offset>
+      <end_offset>1537103</end_offset>
+      <tag_text>wpf1.txt:28 (original line 42) | addiu | string 0x003ABA68 | pair 0x00177448 | 騎馬</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="80">
+      <start_offset>1537184</start_offset>
+      <end_offset>1537187</end_offset>
+      <tag_text>wpf1.txt:29 (original line 43) | lui | string 0x003ABA70 | pair 0x001774B4 | %nは%C%sを失った%C！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="81">
+      <start_offset>1537204</start_offset>
+      <end_offset>1537207</end_offset>
+      <tag_text>wpf1.txt:29 (original line 43) | addiu | string 0x003ABA70 | pair 0x001774A0 | %nは%C%sを失った%C！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="82">
+      <start_offset>1537424</start_offset>
+      <end_offset>1537427</end_offset>
+      <tag_text>wpf1.txt:30 (original line 44) | lui | string 0x003ABA90 | pair 0x001775A0 | %nは武器を%Cうまく扱えなかった！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="83">
+      <start_offset>1537440</start_offset>
+      <end_offset>1537443</end_offset>
+      <tag_text>wpf1.txt:30 (original line 44) | addiu | string 0x003ABA90 | pair 0x00177590 | %nは武器を%Cうまく扱えなかった！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="84">
+      <start_offset>1537544</start_offset>
+      <end_offset>1537547</end_offset>
+      <tag_text>wpf1.txt:31 (original line 45) | lui | string 0x003ABAC0 | pair 0x00177618 | %nは武器を⏎%Cうまく扱えなかった！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="85">
+      <start_offset>1537560</start_offset>
+      <end_offset>1537563</end_offset>
+      <tag_text>wpf1.txt:31 (original line 45) | addiu | string 0x003ABAC0 | pair 0x00177608 | %nは武器を⏎%Cうまく扱えなかった！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="86">
+      <start_offset>1537672</start_offset>
+      <end_offset>1537675</end_offset>
+      <tag_text>wpf1.txt:32 (original line 46) | lui | string 0x003ABAF0 | pair 0x00177698 | %nは魔法の%C詠唱に失敗した！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="87">
+      <start_offset>1537688</start_offset>
+      <end_offset>1537691</end_offset>
+      <tag_text>wpf1.txt:32 (original line 46) | addiu | string 0x003ABAF0 | pair 0x00177688 | %nは魔法の%C詠唱に失敗した！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="88">
+      <start_offset>1537792</start_offset>
+      <end_offset>1537795</end_offset>
+      <tag_text>wpf1.txt:33 (original line 47) | lui | string 0x003ABB10 | pair 0x00177710 | %nは魔法の⏎%C詠唱に失敗した！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="89">
+      <start_offset>1537808</start_offset>
+      <end_offset>1537811</end_offset>
+      <tag_text>wpf1.txt:33 (original line 47) | addiu | string 0x003ABB10 | pair 0x00177700 | %nは魔法の⏎%C詠唱に失敗した！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="90">
+      <start_offset>1537920</start_offset>
+      <end_offset>1537923</end_offset>
+      <tag_text>wpf1.txt:34 (original line 48) | lui | string 0x003ABB40 | pair 0x00177790 | %nは魔法を%C唱えられなかった！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="91">
+      <start_offset>1537936</start_offset>
+      <end_offset>1537939</end_offset>
+      <tag_text>wpf1.txt:34 (original line 48) | addiu | string 0x003ABB40 | pair 0x00177780 | %nは魔法を%C唱えられなかった！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="92">
+      <start_offset>1538040</start_offset>
+      <end_offset>1538043</end_offset>
+      <tag_text>wpf1.txt:35 (original line 49) | lui | string 0x003ABB70 | pair 0x00177808 | %nは魔法を⏎%C唱えられなかった！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="93">
+      <start_offset>1538056</start_offset>
+      <end_offset>1538059</end_offset>
+      <tag_text>wpf1.txt:35 (original line 49) | addiu | string 0x003ABB70 | pair 0x001777F8 | %nは魔法を⏎%C唱えられなかった！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="94">
+      <start_offset>1538168</start_offset>
+      <end_offset>1538171</end_offset>
+      <tag_text>wpf1.txt:36 (original line 50) | lui | string 0x003ABBA0 | pair 0x00177888 | %nは盾を%Cうまく扱えなかった！！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="95">
+      <start_offset>1538184</start_offset>
+      <end_offset>1538187</end_offset>
+      <tag_text>wpf1.txt:36 (original line 50) | addiu | string 0x003ABBA0 | pair 0x00177878 | %nは盾を%Cうまく扱えなかった！！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="96">
+      <start_offset>1538288</start_offset>
+      <end_offset>1538291</end_offset>
+      <tag_text>wpf1.txt:37 (original line 51) | lui | string 0x003ABBD0 | pair 0x00177900 | %nは盾を⏎%Cうまく扱えなかった！！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="97">
+      <start_offset>1538304</start_offset>
+      <end_offset>1538307</end_offset>
+      <tag_text>wpf1.txt:37 (original line 51) | addiu | string 0x003ABBD0 | pair 0x001778F0 | %nは盾を⏎%Cうまく扱えなかった！！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="98">
+      <start_offset>1538488</start_offset>
+      <end_offset>1538491</end_offset>
+      <tag_text>wpf1.txt:38 (original line 52) | lui | string 0x003ABC00 | pair 0x001779D0 | %C%i%Cの追加効果！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="99">
+      <start_offset>1538512</start_offset>
+      <end_offset>1538515</end_offset>
+      <tag_text>wpf1.txt:38 (original line 52) | addiu | string 0x003ABC00 | pair 0x001779B8 | %C%i%Cの追加効果！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="100">
+      <start_offset>1538704</start_offset>
+      <end_offset>1538707</end_offset>
+      <tag_text>wpf1.txt:39 (original line 53) | lui | string 0x003ABC20 | pair 0x00177AA8 | %C%i%Cは無くなった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="101">
+      <start_offset>1538728</start_offset>
+      <end_offset>1538731</end_offset>
+      <tag_text>wpf1.txt:39 (original line 53) | addiu | string 0x003ABC20 | pair 0x00177A90 | %C%i%Cは無くなった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="102">
+      <start_offset>1538824</start_offset>
+      <end_offset>1538827</end_offset>
+      <tag_text>wpf1.txt:40 (original line 54) | lui | string 0x003ABC40 | pair 0x00177B20 | %C%i%Cを使い果たした⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="103">
+      <start_offset>1538848</start_offset>
+      <end_offset>1538851</end_offset>
+      <tag_text>wpf1.txt:40 (original line 54) | addiu | string 0x003ABC40 | pair 0x00177B08 | %C%i%Cを使い果たした⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="104">
+      <start_offset>1538944</start_offset>
+      <end_offset>1538947</end_offset>
+      <tag_text>wpf1.txt:41 (original line 55) | lui | string 0x003ABC60 | pair 0x00177B98 | %C%i%Cは壊れてしまった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="105">
+      <start_offset>1538968</start_offset>
+      <end_offset>1538971</end_offset>
+      <tag_text>wpf1.txt:41 (original line 55) | addiu | string 0x003ABC60 | pair 0x00177B80 | %C%i%Cは壊れてしまった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="106">
+      <start_offset>1539064</start_offset>
+      <end_offset>1539067</end_offset>
+      <tag_text>wpf1.txt:42 (original line 56) | lui | string 0x003ABC78 | pair 0x00177C04 | %nを倒した！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="107">
+      <start_offset>1539076</start_offset>
+      <end_offset>1539079</end_offset>
+      <tag_text>wpf1.txt:42 (original line 56) | addiu | string 0x003ABC78 | pair 0x00177BF8 | %nを倒した！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="108">
+      <start_offset>1539092</start_offset>
+      <end_offset>1539095</end_offset>
+      <tag_text>wpf1.txt:43 (original line 57) | lui | string 0x003ABC90 | pair 0x00177C20 | %nは倒れた・・・⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="109">
+      <start_offset>1539104</start_offset>
+      <end_offset>1539107</end_offset>
+      <tag_text>wpf1.txt:43 (original line 57) | addiu | string 0x003ABC90 | pair 0x00177C14 | %nは倒れた・・・⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="110">
+      <start_offset>1539124</start_offset>
+      <end_offset>1539127</end_offset>
+      <tag_text>wpf1.txt:44 (original line 58) | lui | string 0x003ABCB0 | pair 0x00177C3C | %nを破壊した！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="111">
+      <start_offset>1539132</start_offset>
+      <end_offset>1539135</end_offset>
+      <tag_text>wpf1.txt:44 (original line 58) | addiu | string 0x003ABCB0 | pair 0x00177C34 | %nを破壊した！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="112">
+      <start_offset>1539336</start_offset>
+      <end_offset>1539339</end_offset>
+      <tag_text>wpf1.txt:45 (original line 59) | lui | string 0x003ABCC0 | pair 0x00177D20 | %iが%C暴発した！！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="113">
+      <start_offset>1539360</start_offset>
+      <end_offset>1539363</end_offset>
+      <tag_text>wpf1.txt:45 (original line 59) | addiu | string 0x003ABCC0 | pair 0x00177D08 | %iが%C暴発した！！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="114">
+      <start_offset>1539472</start_offset>
+      <end_offset>1539475</end_offset>
+      <tag_text>wpf1.txt:46 (original line 60) | lui | string 0x003ABCE0 | pair 0x00177DA8 | %iの%C呪いが発動%C！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="115">
+      <start_offset>1539496</start_offset>
+      <end_offset>1539499</end_offset>
+      <tag_text>wpf1.txt:46 (original line 60) | addiu | string 0x003ABCE0 | pair 0x00177D90 | %iの%C呪いが発動%C！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="116">
+      <start_offset>1539664</start_offset>
+      <end_offset>1539667</end_offset>
+      <tag_text>wpf1.txt:47 (original line 61) | lui | string 0x003ABD00 | pair 0x00177E60 | %nはダメージを%C反射された%C！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="117">
+      <start_offset>1539680</start_offset>
+      <end_offset>1539683</end_offset>
+      <tag_text>wpf1.txt:47 (original line 61) | addiu | string 0x003ABD00 | pair 0x00177E50 | %nはダメージを%C反射された%C！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="118">
+      <start_offset>1539864</start_offset>
+      <end_offset>1539867</end_offset>
+      <tag_text>wpf1.txt:48 (original line 62) | lui | string 0x003ABD20 | pair 0x00177F2C | %nは経験値を%C%D%C得た⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="119">
+      <start_offset>1539884</start_offset>
+      <end_offset>1539887</end_offset>
+      <tag_text>wpf1.txt:48 (original line 62) | addiu | string 0x003ABD20 | pair 0x00177F18 | %nは経験値を%C%D%C得た⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="120">
+      <start_offset>1540056</start_offset>
+      <end_offset>1540059</end_offset>
+      <tag_text>wpf1.txt:49 (original line 63) | lui | string 0x003ABD40 | pair 0x00177FEC | %nは経験値を⏎%C%D吸い取られた！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="121">
+      <start_offset>1540076</start_offset>
+      <end_offset>1540079</end_offset>
+      <tag_text>wpf1.txt:49 (original line 63) | addiu | string 0x003ABD40 | pair 0x00177FD8 | %nは経験値を⏎%C%D吸い取られた！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="122">
+      <start_offset>1540240</start_offset>
+      <end_offset>1540243</end_offset>
+      <tag_text>wpf1.txt:50 (original line 64) | lui | string 0x003ABD70 | pair 0x001780A0 | %nは%C眠ってしまった%C！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="123">
+      <start_offset>1540256</start_offset>
+      <end_offset>1540259</end_offset>
+      <tag_text>wpf1.txt:50 (original line 64) | addiu | string 0x003ABD70 | pair 0x00178090 | %nは%C眠ってしまった%C！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="124">
+      <start_offset>1540416</start_offset>
+      <end_offset>1540419</end_offset>
+      <tag_text>wpf1.txt:51 (original line 65) | lui | string 0x003ABD90 | pair 0x00178150 | %nは%C毒%Cに侵された！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="125">
+      <start_offset>1540432</start_offset>
+      <end_offset>1540435</end_offset>
+      <tag_text>wpf1.txt:51 (original line 65) | addiu | string 0x003ABD90 | pair 0x00178140 | %nは%C毒%Cに侵された！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="126">
+      <start_offset>1540556</start_offset>
+      <end_offset>1540559</end_offset>
+      <tag_text>wpf1.txt:52 (original line 66) | lui | string 0x003ABDA8 | pair 0x001781D4 | %nの攻撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="127">
+      <start_offset>1540564</start_offset>
+      <end_offset>1540567</end_offset>
+      <tag_text>wpf1.txt:52 (original line 66) | addiu | string 0x003ABDA8 | pair 0x001781CC | %nの攻撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="128">
+      <start_offset>1540680</start_offset>
+      <end_offset>1540683</end_offset>
+      <tag_text>wpf1.txt:53 (original line 67) | lui | string 0x003ABDC0 | pair 0x00178258 | %nの%C切り込み%C反撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="129">
+      <start_offset>1540696</start_offset>
+      <end_offset>1540699</end_offset>
+      <tag_text>wpf1.txt:53 (original line 67) | addiu | string 0x003ABDC0 | pair 0x00178248 | %nの%C切り込み%C反撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="130">
+      <start_offset>1540724</start_offset>
+      <end_offset>1540727</end_offset>
+      <tag_text>wpf1.txt:54 (original line 68) | lui | string 0x003ABDD8 | pair 0x0017827C | %nの反撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="131">
+      <start_offset>1540732</start_offset>
+      <end_offset>1540735</end_offset>
+      <tag_text>wpf1.txt:54 (original line 68) | addiu | string 0x003ABDD8 | pair 0x00178274 | %nの反撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="132">
+      <start_offset>1540748</start_offset>
+      <end_offset>1540751</end_offset>
+      <tag_text>wpf1.txt:55 (original line 69) | lui | string 0x003ABDE8 | pair 0x00178294 | %nの再攻撃⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="133">
+      <start_offset>1540756</start_offset>
+      <end_offset>1540759</end_offset>
+      <tag_text>wpf1.txt:55 (original line 69) | addiu | string 0x003ABDE8 | pair 0x0017828C | %nの再攻撃⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="134">
+      <start_offset>1540864</start_offset>
+      <end_offset>1540867</end_offset>
+      <tag_text>wpf1.txt:56 (original line 70) | lui | string 0x003ABE00 | pair 0x00178310 | %nの%C致命攻撃！！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="135">
+      <start_offset>1540880</start_offset>
+      <end_offset>1540883</end_offset>
+      <tag_text>wpf1.txt:56 (original line 70) | addiu | string 0x003ABE00 | pair 0x00178300 | %nの%C致命攻撃！！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="136">
+      <start_offset>1541056</start_offset>
+      <end_offset>1541059</end_offset>
+      <tag_text>wpf1.txt:57 (original line 71) | lui | string 0x003ABE20 | pair 0x001783D0 | %nは武器で%C受け流した%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="137">
+      <start_offset>1541072</start_offset>
+      <end_offset>1541075</end_offset>
+      <tag_text>wpf1.txt:57 (original line 71) | addiu | string 0x003ABE20 | pair 0x001783C0 | %nは武器で%C受け流した%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="138">
+      <start_offset>1541124</start_offset>
+      <end_offset>1541127</end_offset>
+      <tag_text>wpf1.txt:58 (original line 72) | lui | string 0x003ABE40 | pair 0x0017840C | %nは攻撃をかわした⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="139">
+      <start_offset>1541132</start_offset>
+      <end_offset>1541135</end_offset>
+      <tag_text>wpf1.txt:58 (original line 72) | addiu | string 0x003ABE40 | pair 0x00178404 | %nは攻撃をかわした⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="140">
+      <start_offset>1541248</start_offset>
+      <end_offset>1541251</end_offset>
+      <tag_text>wpf1.txt:59 (original line 73) | lui | string 0x003ABE60 | pair 0x00178490 | %nに%Cベアーズハンドの効果%C！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="141">
+      <start_offset>1541264</start_offset>
+      <end_offset>1541267</end_offset>
+      <tag_text>wpf1.txt:59 (original line 73) | addiu | string 0x003ABE60 | pair 0x00178480 | %nに%Cベアーズハンドの効果%C！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="142">
+      <start_offset>1541440</start_offset>
+      <end_offset>1541443</end_offset>
+      <tag_text>wpf1.txt:60 (original line 74) | lui | string 0x003ABE80 | pair 0x00178550 | %nには%C効かなかった%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="143">
+      <start_offset>1541456</start_offset>
+      <end_offset>1541459</end_offset>
+      <tag_text>wpf1.txt:60 (original line 74) | addiu | string 0x003ABE80 | pair 0x00178540 | %nには%C効かなかった%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="144">
+      <start_offset>1541632</start_offset>
+      <end_offset>1541635</end_offset>
+      <tag_text>wpf1.txt:61 (original line 75) | lui | string 0x003ABEA0 | pair 0x00178610 | %nは攻撃を%Cはねかえした%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="145">
+      <start_offset>1541648</start_offset>
+      <end_offset>1541651</end_offset>
+      <tag_text>wpf1.txt:61 (original line 75) | addiu | string 0x003ABEA0 | pair 0x00178600 | %nは攻撃を%Cはねかえした%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="146">
+      <start_offset>1541832</start_offset>
+      <end_offset>1541835</end_offset>
+      <tag_text>wpf1.txt:62 (original line 76) | lui | string 0x003ABEC0 | pair 0x001786DC | %nは%C%D%CのＨＰを吸収した！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="147">
+      <start_offset>1541852</start_offset>
+      <end_offset>1541855</end_offset>
+      <tag_text>wpf1.txt:62 (original line 76) | addiu | string 0x003ABEC0 | pair 0x001786C8 | %nは%C%D%CのＨＰを吸収した！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="148">
+      <start_offset>1542032</start_offset>
+      <end_offset>1542035</end_offset>
+      <tag_text>wpf1.txt:63 (original line 77) | lui | string 0x003ABEE0 | pair 0x001787A0 | %nは暗黒魔法を%C無効化%C！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="149">
+      <start_offset>1542048</start_offset>
+      <end_offset>1542051</end_offset>
+      <tag_text>wpf1.txt:63 (original line 77) | addiu | string 0x003ABEE0 | pair 0x00178790 | %nは暗黒魔法を%C無効化%C！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="150">
+      <start_offset>1542212</start_offset>
+      <end_offset>1542215</end_offset>
+      <tag_text>wpf1.txt:64 (original line 78) | lui | string 0x003ABF00 | pair 0x00178854 | %C祈りの護符%Cが光を放っている！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="151">
+      <start_offset>1542228</start_offset>
+      <end_offset>1542231</end_offset>
+      <tag_text>wpf1.txt:64 (original line 78) | addiu | string 0x003ABF00 | pair 0x00178844 | %C祈りの護符%Cが光を放っている！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="152">
+      <start_offset>1542384</start_offset>
+      <end_offset>1542387</end_offset>
+      <tag_text>wpf1.txt:65 (original line 79) | lui | string 0x003ABF30 | pair 0x00178900 | %nの%C運が下がった%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="153">
+      <start_offset>1542400</start_offset>
+      <end_offset>1542403</end_offset>
+      <tag_text>wpf1.txt:65 (original line 79) | addiu | string 0x003ABF30 | pair 0x001788F0 | %nの%C運が下がった%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="154">
+      <start_offset>1542564</start_offset>
+      <end_offset>1542567</end_offset>
+      <tag_text>wpf1.txt:66 (original line 80) | lui | string 0x003ABF50 | pair 0x001789B4 | %C「幸運」の効果！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="155">
+      <start_offset>1542580</start_offset>
+      <end_offset>1542583</end_offset>
+      <tag_text>wpf1.txt:66 (original line 80) | addiu | string 0x003ABF50 | pair 0x001789A4 | %C「幸運」の効果！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="156">
+      <start_offset>1542752</start_offset>
+      <end_offset>1542755</end_offset>
+      <tag_text>wpf1.txt:67 (original line 81) | lui | string 0x003ABF70 | pair 0x00178A78 | %iの%C奇跡の護符%Cの効果！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="157">
+      <start_offset>1542776</start_offset>
+      <end_offset>1542779</end_offset>
+      <tag_text>wpf1.txt:67 (original line 81) | addiu | string 0x003ABF70 | pair 0x00178A60 | %iの%C奇跡の護符%Cの効果！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="158">
+      <start_offset>1542932</start_offset>
+      <end_offset>1542935</end_offset>
+      <tag_text>wpf1.txt:68 (original line 82) | lui | string 0x003ABF90 | pair 0x00178B24 | %C奇跡の護符%Cが光を放った！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="159">
+      <start_offset>1542948</start_offset>
+      <end_offset>1542951</end_offset>
+      <tag_text>wpf1.txt:68 (original line 82) | addiu | string 0x003ABF90 | pair 0x00178B14 | %C奇跡の護符%Cが光を放った！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="160">
+      <start_offset>1543104</start_offset>
+      <end_offset>1543107</end_offset>
+      <tag_text>wpf1.txt:69 (original line 83) | lui | string 0x003ABFB0 | pair 0x00178BD0 | %nの%C装備がはずれた！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="161">
+      <start_offset>1543120</start_offset>
+      <end_offset>1543123</end_offset>
+      <tag_text>wpf1.txt:69 (original line 83) | addiu | string 0x003ABFB0 | pair 0x00178BC0 | %nの%C装備がはずれた！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="162">
+      <start_offset>1543280</start_offset>
+      <end_offset>1543283</end_offset>
+      <tag_text>wpf1.txt:70 (original line 84) | lui | string 0x003ABFD0 | pair 0x00178C80 | %nの%C盾装備がはずれた！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="163">
+      <start_offset>1543296</start_offset>
+      <end_offset>1543299</end_offset>
+      <tag_text>wpf1.txt:70 (original line 84) | addiu | string 0x003ABFD0 | pair 0x00178C70 | %nの%C盾装備がはずれた！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="164">
+      <start_offset>1543456</start_offset>
+      <end_offset>1543459</end_offset>
+      <tag_text>wpf1.txt:71 (original line 85) | lui | string 0x003ABFF0 | pair 0x00178D30 | %nの%C武器装備がはずれた！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="165">
+      <start_offset>1543472</start_offset>
+      <end_offset>1543475</end_offset>
+      <tag_text>wpf1.txt:71 (original line 85) | addiu | string 0x003ABFF0 | pair 0x00178D20 | %nの%C武器装備がはずれた！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="166">
+      <start_offset>1543640</start_offset>
+      <end_offset>1543643</end_offset>
+      <tag_text>wpf1.txt:72 (original line 86) | lui | string 0x003AC010 | pair 0x00178DEC | %nは%C%Dの反撃ダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="167">
+      <start_offset>1543660</start_offset>
+      <end_offset>1543663</end_offset>
+      <tag_text>wpf1.txt:72 (original line 86) | addiu | string 0x003AC010 | pair 0x00178DD8 | %nは%C%Dの反撃ダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="168">
+      <start_offset>1543920</start_offset>
+      <end_offset>1543923</end_offset>
+      <tag_text>wpf1.txt:73 (original line 87) | lui | string 0x003AC030 | pair 0x00178F0C | %nは%C%Dのダメージ！%C</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="169">
+      <start_offset>1543948</start_offset>
+      <end_offset>1543951</end_offset>
+      <tag_text>wpf1.txt:73 (original line 87) | addiu | string 0x003AC030 | pair 0x00178EF0 | %nは%C%Dのダメージ！%C</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="170">
+      <start_offset>1543956</start_offset>
+      <end_offset>1543959</end_offset>
+      <tag_text>wpf1.txt:74 (original line 88) | lui | string 0x003AC048 | pair 0x00178F20 | ⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="171">
+      <start_offset>1543968</start_offset>
+      <end_offset>1543971</end_offset>
+      <tag_text>wpf1.txt:74 (original line 88) | addiu | string 0x003AC048 | pair 0x00178F14 | ⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="172">
+      <start_offset>1544056</start_offset>
+      <end_offset>1544059</end_offset>
+      <tag_text>wpf1.txt:75 (original line 89) | lui | string 0x003AC050 | pair 0x00178F90 | 追加効果！%C%Dのダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="173">
+      <start_offset>1544080</start_offset>
+      <end_offset>1544083</end_offset>
+      <tag_text>wpf1.txt:75 (original line 89) | addiu | string 0x003AC050 | pair 0x00178F78 | 追加効果！%C%Dのダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="174">
+      <start_offset>1544456</start_offset>
+      <end_offset>1544459</end_offset>
+      <tag_text>wpf1.txt:76 (original line 90) | lui | string 0x003AC070 | pair 0x0017912C | %C致命攻撃！%C%nは%C%Dのダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="175">
+      <start_offset>1544492</start_offset>
+      <end_offset>1544495</end_offset>
+      <tag_text>wpf1.txt:76 (original line 90) | addiu | string 0x003AC070 | pair 0x00179108 | %C致命攻撃！%C%nは%C%Dのダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="176">
+      <start_offset>1544576</start_offset>
+      <end_offset>1544579</end_offset>
+      <tag_text>wpf1.txt:75 (original line 89) | lui | string 0x003AC050 | pair 0x00179198 | 追加効果！%C%Dのダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="177">
+      <start_offset>1544600</start_offset>
+      <end_offset>1544603</end_offset>
+      <tag_text>wpf1.txt:75 (original line 89) | addiu | string 0x003AC050 | pair 0x00179180 | 追加効果！%C%Dのダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="178">
+      <start_offset>1544976</start_offset>
+      <end_offset>1544979</end_offset>
+      <tag_text>wpf1.txt:76 (original line 90) | lui | string 0x003AC070 | pair 0x0017932C | %C致命攻撃！%C%nは%C%Dのダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="179">
+      <start_offset>1545004</start_offset>
+      <end_offset>1545007</end_offset>
+      <tag_text>wpf1.txt:76 (original line 90) | addiu | string 0x003AC070 | pair 0x00179310 | %C致命攻撃！%C%nは%C%Dのダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="180">
+      <start_offset>1545256</start_offset>
+      <end_offset>1545259</end_offset>
+      <tag_text>wpf1.txt:78 (original line 92) | lui | string 0x003AC0B0 | pair 0x0017943C | %nは%C%Dのダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="181">
+      <start_offset>1545276</start_offset>
+      <end_offset>1545279</end_offset>
+      <tag_text>wpf1.txt:78 (original line 92) | addiu | string 0x003AC0B0 | pair 0x00179428 | %nは%C%Dのダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="182">
+      <start_offset>1546988</start_offset>
+      <end_offset>1546991</end_offset>
+      <tag_text>wpf1.txt:20 (original line 34) | lui | string 0x003AB9A0 | pair 0x00179AF4 | %s技能が%C%D%Cになった！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="183">
+      <start_offset>1546996</start_offset>
+      <end_offset>1546999</end_offset>
+      <tag_text>wpf1.txt:20 (original line 34) | addiu | string 0x003AB9A0 | pair 0x00179AEC | %s技能が%C%D%Cになった！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="184">
+      <start_offset>1547324</start_offset>
+      <end_offset>1547327</end_offset>
+      <tag_text>wpf1.txt:39 (original line 53) | lui | string 0x003ABC20 | pair 0x00179C4C | %C%i%Cは無くなった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="185">
+      <start_offset>1547340</start_offset>
+      <end_offset>1547343</end_offset>
+      <tag_text>wpf1.txt:39 (original line 53) | addiu | string 0x003ABC20 | pair 0x00179C3C | %C%i%Cは無くなった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="186">
+      <start_offset>1547384</start_offset>
+      <end_offset>1547387</end_offset>
+      <tag_text>wpf1.txt:40 (original line 54) | lui | string 0x003ABC40 | pair 0x00179C88 | %C%i%Cを使い果たした⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="187">
+      <start_offset>1547400</start_offset>
+      <end_offset>1547403</end_offset>
+      <tag_text>wpf1.txt:40 (original line 54) | addiu | string 0x003ABC40 | pair 0x00179C78 | %C%i%Cを使い果たした⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="188">
+      <start_offset>1547448</start_offset>
+      <end_offset>1547451</end_offset>
+      <tag_text>wpf1.txt:41 (original line 55) | lui | string 0x003ABC60 | pair 0x00179CC8 | %C%i%Cは壊れてしまった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="189">
+      <start_offset>1547464</start_offset>
+      <end_offset>1547467</end_offset>
+      <tag_text>wpf1.txt:41 (original line 55) | addiu | string 0x003ABC60 | pair 0x00179CB8 | %C%i%Cは壊れてしまった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="190">
+      <start_offset>1549212</start_offset>
+      <end_offset>1549215</end_offset>
+      <tag_text>wpf1.txt:19 (original line 33) | lui | string 0x003AB990 | pair 0x0017A3B8 | %nの%i！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="191">
+      <start_offset>1549240</start_offset>
+      <end_offset>1549243</end_offset>
+      <tag_text>wpf1.txt:19 (original line 33) | addiu | string 0x003AB990 | pair 0x0017A39C | %nの%i！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="192">
+      <start_offset>1550112</start_offset>
+      <end_offset>1550115</end_offset>
+      <tag_text>wpf1.txt:63 (original line 77) | lui | string 0x003ABEE0 | pair 0x0017A728 | %nは暗黒魔法を%C無効化%C！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="193">
+      <start_offset>1550120</start_offset>
+      <end_offset>1550123</end_offset>
+      <tag_text>wpf1.txt:63 (original line 77) | addiu | string 0x003ABEE0 | pair 0x0017A720 | %nは暗黒魔法を%C無効化%C！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="194">
+      <start_offset>1550192</start_offset>
+      <end_offset>1550195</end_offset>
+      <tag_text>wpf1.txt:17 (original line 31) | lui | string 0x003AB950 | pair 0x0017A77C | %nには%C効かなかった！！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="195">
+      <start_offset>1550204</start_offset>
+      <end_offset>1550207</end_offset>
+      <tag_text>wpf1.txt:17 (original line 31) | addiu | string 0x003AB950 | pair 0x0017A770 | %nには%C効かなかった！！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="196">
+      <start_offset>1551340</start_offset>
+      <end_offset>1551343</end_offset>
+      <tag_text>wpf1.txt:19 (original line 33) | lui | string 0x003AB990 | pair 0x0017AC08 | %nの%i！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="197">
+      <start_offset>1551368</start_offset>
+      <end_offset>1551371</end_offset>
+      <tag_text>wpf1.txt:19 (original line 33) | addiu | string 0x003AB990 | pair 0x0017ABEC | %nの%i！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="198">
+      <start_offset>1552292</start_offset>
+      <end_offset>1552295</end_offset>
+      <tag_text>wpf1.txt:19 (original line 33) | lui | string 0x003AB990 | pair 0x0017AFC0 | %nの%i！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="199">
+      <start_offset>1552320</start_offset>
+      <end_offset>1552323</end_offset>
+      <tag_text>wpf1.txt:19 (original line 33) | addiu | string 0x003AB990 | pair 0x0017AFA4 | %nの%i！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="200">
+      <start_offset>1552548</start_offset>
+      <end_offset>1552551</end_offset>
+      <tag_text>wpf1.txt:18 (original line 32) | lui | string 0x003AB970 | pair 0x0017B0C4 | %nのＨＰが%C%D回復%Cした！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="201">
+      <start_offset>1552580</start_offset>
+      <end_offset>1552583</end_offset>
+      <tag_text>wpf1.txt:18 (original line 32) | addiu | string 0x003AB970 | pair 0x0017B0A4 | %nのＨＰが%C%D回復%Cした！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="202">
+      <start_offset>1557624</start_offset>
+      <end_offset>1557627</end_offset>
+      <tag_text>wpf1.txt:25 (original line 39) | lui | string 0x003ABA40 | pair 0x0017C4BC | %nは盾を失った！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="203">
+      <start_offset>1557692</start_offset>
+      <end_offset>1557695</end_offset>
+      <tag_text>wpf1.txt:25 (original line 39) | addiu | string 0x003ABA40 | pair 0x0017C478 | %nは盾を失った！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="204">
+      <start_offset>1558148</start_offset>
+      <end_offset>1558151</end_offset>
+      <tag_text>wpf1.txt:38 (original line 52) | lui | string 0x003ABC00 | pair 0x0017C6A4 | %C%i%Cの追加効果！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="205">
+      <start_offset>1558180</start_offset>
+      <end_offset>1558183</end_offset>
+      <tag_text>wpf1.txt:38 (original line 52) | addiu | string 0x003ABC00 | pair 0x0017C684 | %C%i%Cの追加効果！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="206">
+      <start_offset>1558376</start_offset>
+      <end_offset>1558379</end_offset>
+      <tag_text>wpf1.txt:26 (original line 40) | lui | string 0x003ABA58 | pair 0x0017C770 | 天馬</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="207">
+      <start_offset>1558384</start_offset>
+      <end_offset>1558387</end_offset>
+      <tag_text>wpf1.txt:26 (original line 40) | addiu | string 0x003ABA58 | pair 0x0017C768 | 天馬</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="208">
+      <start_offset>1558416</start_offset>
+      <end_offset>1558419</end_offset>
+      <tag_text>wpf1.txt:27 (original line 41) | lui | string 0x003ABA60 | pair 0x0017C798 | 飛竜</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="209">
+      <start_offset>1558424</start_offset>
+      <end_offset>1558427</end_offset>
+      <tag_text>wpf1.txt:27 (original line 41) | addiu | string 0x003ABA60 | pair 0x0017C790 | 飛竜</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="210">
+      <start_offset>1558432</start_offset>
+      <end_offset>1558435</end_offset>
+      <tag_text>wpf1.txt:28 (original line 42) | lui | string 0x003ABA68 | pair 0x0017C7A4 | 騎馬</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="211">
+      <start_offset>1558436</start_offset>
+      <end_offset>1558439</end_offset>
+      <tag_text>wpf1.txt:28 (original line 42) | addiu | string 0x003ABA68 | pair 0x0017C7A0 | 騎馬</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="212">
+      <start_offset>1558460</start_offset>
+      <end_offset>1558463</end_offset>
+      <tag_text>wpf1.txt:29 (original line 43) | lui | string 0x003ABA70 | pair 0x0017C7D0 | %nは%C%sを失った%C！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="213">
+      <start_offset>1558480</start_offset>
+      <end_offset>1558483</end_offset>
+      <tag_text>wpf1.txt:29 (original line 43) | addiu | string 0x003ABA70 | pair 0x0017C7BC | %nは%C%sを失った%C！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="214">
+      <start_offset>1560128</start_offset>
+      <end_offset>1560131</end_offset>
+      <tag_text>wpf1.txt:20 (original line 34) | lui | string 0x003AB9A0 | pair 0x0017CE48 | %s技能が%C%D%Cになった！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="215">
+      <start_offset>1560136</start_offset>
+      <end_offset>1560139</end_offset>
+      <tag_text>wpf1.txt:20 (original line 34) | addiu | string 0x003AB9A0 | pair 0x0017CE40 | %s技能が%C%D%Cになった！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="216">
+      <start_offset>1560788</start_offset>
+      <end_offset>1560791</end_offset>
+      <tag_text>wpf1.txt:39 (original line 53) | lui | string 0x003ABC20 | pair 0x0017D0E4 | %C%i%Cは無くなった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="217">
+      <start_offset>1560804</start_offset>
+      <end_offset>1560807</end_offset>
+      <tag_text>wpf1.txt:39 (original line 53) | addiu | string 0x003ABC20 | pair 0x0017D0D4 | %C%i%Cは無くなった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="218">
+      <start_offset>1560848</start_offset>
+      <end_offset>1560851</end_offset>
+      <tag_text>wpf1.txt:40 (original line 54) | lui | string 0x003ABC40 | pair 0x0017D120 | %C%i%Cを使い果たした⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="219">
+      <start_offset>1560864</start_offset>
+      <end_offset>1560867</end_offset>
+      <tag_text>wpf1.txt:40 (original line 54) | addiu | string 0x003ABC40 | pair 0x0017D110 | %C%i%Cを使い果たした⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="220">
+      <start_offset>1560912</start_offset>
+      <end_offset>1560915</end_offset>
+      <tag_text>wpf1.txt:41 (original line 55) | lui | string 0x003ABC60 | pair 0x0017D160 | %C%i%Cは壊れてしまった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="221">
+      <start_offset>1560928</start_offset>
+      <end_offset>1560931</end_offset>
+      <tag_text>wpf1.txt:41 (original line 55) | addiu | string 0x003ABC60 | pair 0x0017D150 | %C%i%Cは壊れてしまった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="222">
+      <start_offset>1561116</start_offset>
+      <end_offset>1561119</end_offset>
+      <tag_text>wpf1.txt:38 (original line 52) | lui | string 0x003ABC00 | pair 0x0017D224 | %C%i%Cの追加効果！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="223">
+      <start_offset>1561124</start_offset>
+      <end_offset>1561127</end_offset>
+      <tag_text>wpf1.txt:38 (original line 52) | addiu | string 0x003ABC00 | pair 0x0017D21C | %C%i%Cの追加効果！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="224">
+      <start_offset>1561400</start_offset>
+      <end_offset>1561403</end_offset>
+      <tag_text>wpf1.txt:39 (original line 53) | lui | string 0x003ABC20 | pair 0x0017D348 | %C%i%Cは無くなった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="225">
+      <start_offset>1561416</start_offset>
+      <end_offset>1561419</end_offset>
+      <tag_text>wpf1.txt:39 (original line 53) | addiu | string 0x003ABC20 | pair 0x0017D338 | %C%i%Cは無くなった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="226">
+      <start_offset>1561464</start_offset>
+      <end_offset>1561467</end_offset>
+      <tag_text>wpf1.txt:40 (original line 54) | lui | string 0x003ABC40 | pair 0x0017D388 | %C%i%Cを使い果たした⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="227">
+      <start_offset>1561480</start_offset>
+      <end_offset>1561483</end_offset>
+      <tag_text>wpf1.txt:40 (original line 54) | addiu | string 0x003ABC40 | pair 0x0017D378 | %C%i%Cを使い果たした⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="228">
+      <start_offset>1561528</start_offset>
+      <end_offset>1561531</end_offset>
+      <tag_text>wpf1.txt:41 (original line 55) | lui | string 0x003ABC60 | pair 0x0017D3C8 | %C%i%Cは壊れてしまった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="229">
+      <start_offset>1561544</start_offset>
+      <end_offset>1561547</end_offset>
+      <tag_text>wpf1.txt:41 (original line 55) | addiu | string 0x003ABC60 | pair 0x0017D3B8 | %C%i%Cは壊れてしまった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="230">
+      <start_offset>1561696</start_offset>
+      <end_offset>1561699</end_offset>
+      <tag_text>wpf1.txt:65 (original line 79) | lui | string 0x003ABF30 | pair 0x0017D46C | %nの%C運が下がった%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="231">
+      <start_offset>1561708</start_offset>
+      <end_offset>1561711</end_offset>
+      <tag_text>wpf1.txt:65 (original line 79) | addiu | string 0x003ABF30 | pair 0x0017D460 | %nの%C運が下がった%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="232">
+      <start_offset>1561808</start_offset>
+      <end_offset>1561811</end_offset>
+      <tag_text>wpf1.txt:65 (original line 79) | lui | string 0x003ABF30 | pair 0x0017D4DC | %nの%C運が下がった%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="233">
+      <start_offset>1561820</start_offset>
+      <end_offset>1561823</end_offset>
+      <tag_text>wpf1.txt:65 (original line 79) | addiu | string 0x003ABF30 | pair 0x0017D4D0 | %nの%C運が下がった%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="234">
+      <start_offset>1562068</start_offset>
+      <end_offset>1562071</end_offset>
+      <tag_text>wpf1.txt:69 (original line 83) | lui | string 0x003ABFB0 | pair 0x0017D5E0 | %nの%C装備がはずれた！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="235">
+      <start_offset>1562080</start_offset>
+      <end_offset>1562083</end_offset>
+      <tag_text>wpf1.txt:69 (original line 83) | addiu | string 0x003ABFB0 | pair 0x0017D5D4 | %nの%C装備がはずれた！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="236">
+      <start_offset>1562340</start_offset>
+      <end_offset>1562343</end_offset>
+      <tag_text>wpf1.txt:69 (original line 83) | lui | string 0x003ABFB0 | pair 0x0017D6F0 | %nの%C装備がはずれた！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="237">
+      <start_offset>1562352</start_offset>
+      <end_offset>1562355</end_offset>
+      <tag_text>wpf1.txt:69 (original line 83) | addiu | string 0x003ABFB0 | pair 0x0017D6E4 | %nの%C装備がはずれた！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="238">
+      <start_offset>1563416</start_offset>
+      <end_offset>1563419</end_offset>
+      <tag_text>wpf1.txt:21 (original line 35) | lui | string 0x003AB9C0 | pair 0x0017DB24 | %nのスキル%C%a%Cの技！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="239">
+      <start_offset>1563428</start_offset>
+      <end_offset>1563431</end_offset>
+      <tag_text>wpf1.txt:21 (original line 35) | addiu | string 0x003AB9C0 | pair 0x0017DB18 | %nのスキル%C%a%Cの技！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="240">
+      <start_offset>1564508</start_offset>
+      <end_offset>1564511</end_offset>
+      <tag_text>wpf1.txt:39 (original line 53) | lui | string 0x003ABC20 | pair 0x0017DF6C | %C%i%Cは無くなった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="241">
+      <start_offset>1564524</start_offset>
+      <end_offset>1564527</end_offset>
+      <tag_text>wpf1.txt:39 (original line 53) | addiu | string 0x003ABC20 | pair 0x0017DF5C | %C%i%Cは無くなった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="242">
+      <start_offset>1564568</start_offset>
+      <end_offset>1564571</end_offset>
+      <tag_text>wpf1.txt:40 (original line 54) | lui | string 0x003ABC40 | pair 0x0017DFA8 | %C%i%Cを使い果たした⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="243">
+      <start_offset>1564584</start_offset>
+      <end_offset>1564587</end_offset>
+      <tag_text>wpf1.txt:40 (original line 54) | addiu | string 0x003ABC40 | pair 0x0017DF98 | %C%i%Cを使い果たした⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="244">
+      <start_offset>1564632</start_offset>
+      <end_offset>1564635</end_offset>
+      <tag_text>wpf1.txt:41 (original line 55) | lui | string 0x003ABC60 | pair 0x0017DFE8 | %C%i%Cは壊れてしまった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="245">
+      <start_offset>1564648</start_offset>
+      <end_offset>1564651</end_offset>
+      <tag_text>wpf1.txt:41 (original line 55) | addiu | string 0x003ABC60 | pair 0x0017DFD8 | %C%i%Cは壊れてしまった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="246">
+      <start_offset>1564836</start_offset>
+      <end_offset>1564839</end_offset>
+      <tag_text>wpf1.txt:38 (original line 52) | lui | string 0x003ABC00 | pair 0x0017E0AC | %C%i%Cの追加効果！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="247">
+      <start_offset>1564844</start_offset>
+      <end_offset>1564847</end_offset>
+      <tag_text>wpf1.txt:38 (original line 52) | addiu | string 0x003ABC00 | pair 0x0017E0A4 | %C%i%Cの追加効果！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="248">
+      <start_offset>1565120</start_offset>
+      <end_offset>1565123</end_offset>
+      <tag_text>wpf1.txt:39 (original line 53) | lui | string 0x003ABC20 | pair 0x0017E1D0 | %C%i%Cは無くなった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="249">
+      <start_offset>1565136</start_offset>
+      <end_offset>1565139</end_offset>
+      <tag_text>wpf1.txt:39 (original line 53) | addiu | string 0x003ABC20 | pair 0x0017E1C0 | %C%i%Cは無くなった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="250">
+      <start_offset>1565184</start_offset>
+      <end_offset>1565187</end_offset>
+      <tag_text>wpf1.txt:40 (original line 54) | lui | string 0x003ABC40 | pair 0x0017E210 | %C%i%Cを使い果たした⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="251">
+      <start_offset>1565200</start_offset>
+      <end_offset>1565203</end_offset>
+      <tag_text>wpf1.txt:40 (original line 54) | addiu | string 0x003ABC40 | pair 0x0017E200 | %C%i%Cを使い果たした⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="252">
+      <start_offset>1565248</start_offset>
+      <end_offset>1565251</end_offset>
+      <tag_text>wpf1.txt:41 (original line 55) | lui | string 0x003ABC60 | pair 0x0017E250 | %C%i%Cは壊れてしまった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="253">
+      <start_offset>1565264</start_offset>
+      <end_offset>1565267</end_offset>
+      <tag_text>wpf1.txt:41 (original line 55) | addiu | string 0x003ABC60 | pair 0x0017E240 | %C%i%Cは壊れてしまった⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="254">
+      <start_offset>1565760</start_offset>
+      <end_offset>1565763</end_offset>
+      <tag_text>wpf1.txt:42 (original line 56) | lui | string 0x003ABC78 | pair 0x0017E44C | %nを倒した！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="255">
+      <start_offset>1565772</start_offset>
+      <end_offset>1565775</end_offset>
+      <tag_text>wpf1.txt:42 (original line 56) | addiu | string 0x003ABC78 | pair 0x0017E440 | %nを倒した！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="256">
+      <start_offset>1565788</start_offset>
+      <end_offset>1565791</end_offset>
+      <tag_text>wpf1.txt:43 (original line 57) | lui | string 0x003ABC90 | pair 0x0017E468 | %nは倒れた・・・⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="257">
+      <start_offset>1565800</start_offset>
+      <end_offset>1565803</end_offset>
+      <tag_text>wpf1.txt:43 (original line 57) | addiu | string 0x003ABC90 | pair 0x0017E45C | %nは倒れた・・・⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="258">
+      <start_offset>1565820</start_offset>
+      <end_offset>1565823</end_offset>
+      <tag_text>wpf1.txt:44 (original line 58) | lui | string 0x003ABCB0 | pair 0x0017E488 | %nを破壊した！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="259">
+      <start_offset>1565832</start_offset>
+      <end_offset>1565835</end_offset>
+      <tag_text>wpf1.txt:44 (original line 58) | addiu | string 0x003ABCB0 | pair 0x0017E47C | %nを破壊した！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="260">
+      <start_offset>1568504</start_offset>
+      <end_offset>1568507</end_offset>
+      <tag_text>wpf1.txt:47 (original line 61) | lui | string 0x003ABD00 | pair 0x0017EF00 | %nはダメージを%C反射された%C！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="261">
+      <start_offset>1568512</start_offset>
+      <end_offset>1568515</end_offset>
+      <tag_text>wpf1.txt:47 (original line 61) | addiu | string 0x003ABD00 | pair 0x0017EEF8 | %nはダメージを%C反射された%C！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="262">
+      <start_offset>1568592</start_offset>
+      <end_offset>1568595</end_offset>
+      <tag_text>wpf1.txt:77 (original line 91) | lui | string 0x003AC0A0 | pair 0x0017EF58 | %C致命攻撃！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="263">
+      <start_offset>1568600</start_offset>
+      <end_offset>1568603</end_offset>
+      <tag_text>wpf1.txt:77 (original line 91) | addiu | string 0x003AC0A0 | pair 0x0017EF50 | %C致命攻撃！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="264">
+      <start_offset>1568716</start_offset>
+      <end_offset>1568719</end_offset>
+      <tag_text>wpf1.txt:78 (original line 92) | lui | string 0x003AC0B0 | pair 0x0017EFD8 | %nは%C%Dのダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="265">
+      <start_offset>1568728</start_offset>
+      <end_offset>1568731</end_offset>
+      <tag_text>wpf1.txt:78 (original line 92) | addiu | string 0x003AC0B0 | pair 0x0017EFCC | %nは%C%Dのダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="266">
+      <start_offset>1568860</start_offset>
+      <end_offset>1568863</end_offset>
+      <tag_text>wpf1.txt:60 (original line 74) | lui | string 0x003ABE80 | pair 0x0017F074 | %nには%C効かなかった%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="267">
+      <start_offset>1568884</start_offset>
+      <end_offset>1568887</end_offset>
+      <tag_text>wpf1.txt:60 (original line 74) | addiu | string 0x003ABE80 | pair 0x0017F05C | %nには%C効かなかった%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="268">
+      <start_offset>1568936</start_offset>
+      <end_offset>1568939</end_offset>
+      <tag_text>wpf1.txt:61 (original line 75) | lui | string 0x003ABEA0 | pair 0x0017F0C0 | %nは攻撃を%Cはねかえした%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="269">
+      <start_offset>1568960</start_offset>
+      <end_offset>1568963</end_offset>
+      <tag_text>wpf1.txt:61 (original line 75) | addiu | string 0x003ABEA0 | pair 0x0017F0A8 | %nは攻撃を%Cはねかえした%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="270">
+      <start_offset>1569108</start_offset>
+      <end_offset>1569111</end_offset>
+      <tag_text>wpf1.txt:62 (original line 76) | lui | string 0x003ABEC0 | pair 0x0017F174 | %nは%C%D%CのＨＰを吸収した！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="271">
+      <start_offset>1569140</start_offset>
+      <end_offset>1569143</end_offset>
+      <tag_text>wpf1.txt:62 (original line 76) | addiu | string 0x003ABEC0 | pair 0x0017F154 | %nは%C%D%CのＨＰを吸収した！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="272">
+      <start_offset>1569264</start_offset>
+      <end_offset>1569267</end_offset>
+      <tag_text>wpf1.txt:58 (original line 72) | lui | string 0x003ABE40 | pair 0x0017F234 | %nは攻撃をかわした⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="273">
+      <start_offset>1569332</start_offset>
+      <end_offset>1569335</end_offset>
+      <tag_text>wpf1.txt:58 (original line 72) | addiu | string 0x003ABE40 | pair 0x0017F1F0 | %nは攻撃をかわした⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="274">
+      <start_offset>1569564</start_offset>
+      <end_offset>1569567</end_offset>
+      <tag_text>wpf1.txt:78 (original line 92) | lui | string 0x003AC0B0 | pair 0x0017F328 | %nは%C%Dのダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="275">
+      <start_offset>1569576</start_offset>
+      <end_offset>1569579</end_offset>
+      <tag_text>wpf1.txt:78 (original line 92) | addiu | string 0x003AC0B0 | pair 0x0017F31C | %nは%C%Dのダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="276">
+      <start_offset>1569632</start_offset>
+      <end_offset>1569635</end_offset>
+      <tag_text>wpf1.txt:24 (original line 38) | lui | string 0x003ABA20 | pair 0x0017F370 | %C追加効果！%Dのダメージ%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="277">
+      <start_offset>1569648</start_offset>
+      <end_offset>1569651</end_offset>
+      <tag_text>wpf1.txt:24 (original line 38) | addiu | string 0x003ABA20 | pair 0x0017F360 | %C追加効果！%Dのダメージ%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="278">
+      <start_offset>1569780</start_offset>
+      <end_offset>1569783</end_offset>
+      <tag_text>wpf1.txt:62 (original line 76) | lui | string 0x003ABEC0 | pair 0x0017F414 | %nは%C%D%CのＨＰを吸収した！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="279">
+      <start_offset>1569812</start_offset>
+      <end_offset>1569815</end_offset>
+      <tag_text>wpf1.txt:62 (original line 76) | addiu | string 0x003ABEC0 | pair 0x0017F3F4 | %nは%C%D%CのＨＰを吸収した！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="280">
+      <start_offset>1570060</start_offset>
+      <end_offset>1570063</end_offset>
+      <tag_text>wpf1.txt:72 (original line 86) | lui | string 0x003AC010 | pair 0x0017F520 | %nは%C%Dの反撃ダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="281">
+      <start_offset>1570080</start_offset>
+      <end_offset>1570083</end_offset>
+      <tag_text>wpf1.txt:72 (original line 86) | addiu | string 0x003AC010 | pair 0x0017F50C | %nは%C%Dの反撃ダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="282">
+      <start_offset>1570276</start_offset>
+      <end_offset>1570279</end_offset>
+      <tag_text>wpf1.txt:24 (original line 38) | lui | string 0x003ABA20 | pair 0x0017F5F4 | %C追加効果！%Dのダメージ%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="283">
+      <start_offset>1570292</start_offset>
+      <end_offset>1570295</end_offset>
+      <tag_text>wpf1.txt:24 (original line 38) | addiu | string 0x003ABA20 | pair 0x0017F5E4 | %C追加効果！%Dのダメージ%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="284">
+      <start_offset>1570472</start_offset>
+      <end_offset>1570475</end_offset>
+      <tag_text>wpf1.txt:68 (original line 82) | lui | string 0x003ABF90 | pair 0x0017F6B8 | %C奇跡の護符%Cが光を放った！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="285">
+      <start_offset>1570488</start_offset>
+      <end_offset>1570491</end_offset>
+      <tag_text>wpf1.txt:68 (original line 82) | addiu | string 0x003ABF90 | pair 0x0017F6A8 | %C奇跡の護符%Cが光を放った！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="286">
+      <start_offset>1570544</start_offset>
+      <end_offset>1570547</end_offset>
+      <tag_text>wpf1.txt:67 (original line 81) | lui | string 0x003ABF70 | pair 0x0017F710 | %iの%C奇跡の護符%Cの効果！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="287">
+      <start_offset>1570576</start_offset>
+      <end_offset>1570579</end_offset>
+      <tag_text>wpf1.txt:67 (original line 81) | addiu | string 0x003ABF70 | pair 0x0017F6F0 | %iの%C奇跡の護符%Cの効果！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="288">
+      <start_offset>1570648</start_offset>
+      <end_offset>1570651</end_offset>
+      <tag_text>wpf1.txt:66 (original line 80) | lui | string 0x003ABF50 | pair 0x0017F768 | %C「幸運」の効果！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="289">
+      <start_offset>1570664</start_offset>
+      <end_offset>1570667</end_offset>
+      <tag_text>wpf1.txt:66 (original line 80) | addiu | string 0x003ABF50 | pair 0x0017F758 | %C「幸運」の効果！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="290">
+      <start_offset>1571140</start_offset>
+      <end_offset>1571143</end_offset>
+      <tag_text>wpf1.txt:52 (original line 66) | lui | string 0x003ABDA8 | pair 0x0017F950 | %nの攻撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="291">
+      <start_offset>1571152</start_offset>
+      <end_offset>1571155</end_offset>
+      <tag_text>wpf1.txt:52 (original line 66) | addiu | string 0x003ABDA8 | pair 0x0017F944 | %nの攻撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="292">
+      <start_offset>1571196</start_offset>
+      <end_offset>1571199</end_offset>
+      <tag_text>wpf1.txt:53 (original line 67) | lui | string 0x003ABDC0 | pair 0x0017F994 | %nの%C切り込み%C反撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="293">
+      <start_offset>1571220</start_offset>
+      <end_offset>1571223</end_offset>
+      <tag_text>wpf1.txt:53 (original line 67) | addiu | string 0x003ABDC0 | pair 0x0017F97C | %nの%C切り込み%C反撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="294">
+      <start_offset>1571252</start_offset>
+      <end_offset>1571255</end_offset>
+      <tag_text>wpf1.txt:54 (original line 68) | lui | string 0x003ABDD8 | pair 0x0017F9C0 | %nの反撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="295">
+      <start_offset>1571264</start_offset>
+      <end_offset>1571267</end_offset>
+      <tag_text>wpf1.txt:54 (original line 68) | addiu | string 0x003ABDD8 | pair 0x0017F9B4 | %nの反撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="296">
+      <start_offset>1571284</start_offset>
+      <end_offset>1571287</end_offset>
+      <tag_text>wpf1.txt:55 (original line 69) | lui | string 0x003ABDE8 | pair 0x0017F9E0 | %nの再攻撃⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="297">
+      <start_offset>1571296</start_offset>
+      <end_offset>1571299</end_offset>
+      <tag_text>wpf1.txt:55 (original line 69) | addiu | string 0x003ABDE8 | pair 0x0017F9D4 | %nの再攻撃⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="298">
+      <start_offset>1572564</start_offset>
+      <end_offset>1572567</end_offset>
+      <tag_text>wpf1.txt:38 (original line 52) | lui | string 0x003ABC00 | pair 0x0017FEF4 | %C%i%Cの追加効果！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="299">
+      <start_offset>1572596</start_offset>
+      <end_offset>1572599</end_offset>
+      <tag_text>wpf1.txt:38 (original line 52) | addiu | string 0x003ABC00 | pair 0x0017FED4 | %C%i%Cの追加効果！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="300">
+      <start_offset>1572792</start_offset>
+      <end_offset>1572795</end_offset>
+      <tag_text>wpf1.txt:26 (original line 40) | lui | string 0x003ABA58 | pair 0x0017FFC0 | 天馬</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="301">
+      <start_offset>1572800</start_offset>
+      <end_offset>1572803</end_offset>
+      <tag_text>wpf1.txt:26 (original line 40) | addiu | string 0x003ABA58 | pair 0x0017FFB8 | 天馬</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="302">
+      <start_offset>1572832</start_offset>
+      <end_offset>1572835</end_offset>
+      <tag_text>wpf1.txt:27 (original line 41) | lui | string 0x003ABA60 | pair 0x0017FFE8 | 飛竜</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="303">
+      <start_offset>1572840</start_offset>
+      <end_offset>1572843</end_offset>
+      <tag_text>wpf1.txt:27 (original line 41) | addiu | string 0x003ABA60 | pair 0x0017FFE0 | 飛竜</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="304">
+      <start_offset>1572848</start_offset>
+      <end_offset>1572851</end_offset>
+      <tag_text>wpf1.txt:28 (original line 42) | lui | string 0x003ABA68 | pair 0x0017FFF4 | 騎馬</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="305">
+      <start_offset>1572852</start_offset>
+      <end_offset>1572855</end_offset>
+      <tag_text>wpf1.txt:28 (original line 42) | addiu | string 0x003ABA68 | pair 0x0017FFF0 | 騎馬</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="306">
+      <start_offset>1572876</start_offset>
+      <end_offset>1572879</end_offset>
+      <tag_text>wpf1.txt:29 (original line 43) | lui | string 0x003ABA70 | pair 0x00180020 | %nは%C%sを失った%C！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="307">
+      <start_offset>1572896</start_offset>
+      <end_offset>1572899</end_offset>
+      <tag_text>wpf1.txt:29 (original line 43) | addiu | string 0x003ABA70 | pair 0x0018000C | %nは%C%sを失った%C！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="308">
+      <start_offset>1576156</start_offset>
+      <end_offset>1576159</end_offset>
+      <tag_text>wpf1.txt:52 (original line 66) | lui | string 0x003ABDA8 | pair 0x00180CE8 | %nの攻撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="309">
+      <start_offset>1576168</start_offset>
+      <end_offset>1576171</end_offset>
+      <tag_text>wpf1.txt:52 (original line 66) | addiu | string 0x003ABDA8 | pair 0x00180CDC | %nの攻撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="310">
+      <start_offset>1576240</start_offset>
+      <end_offset>1576243</end_offset>
+      <tag_text>wpf1.txt:53 (original line 67) | lui | string 0x003ABDC0 | pair 0x00180D38 | %nの%C切り込み%C反撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="311">
+      <start_offset>1576248</start_offset>
+      <end_offset>1576251</end_offset>
+      <tag_text>wpf1.txt:53 (original line 67) | addiu | string 0x003ABDC0 | pair 0x00180D30 | %nの%C切り込み%C反撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="312">
+      <start_offset>1576268</start_offset>
+      <end_offset>1576271</end_offset>
+      <tag_text>wpf1.txt:54 (original line 68) | lui | string 0x003ABDD8 | pair 0x00180D58 | %nの反撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="313">
+      <start_offset>1576280</start_offset>
+      <end_offset>1576283</end_offset>
+      <tag_text>wpf1.txt:54 (original line 68) | addiu | string 0x003ABDD8 | pair 0x00180D4C | %nの反撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="314">
+      <start_offset>1576300</start_offset>
+      <end_offset>1576303</end_offset>
+      <tag_text>wpf1.txt:55 (original line 69) | lui | string 0x003ABDE8 | pair 0x00180D78 | %nの再攻撃⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="315">
+      <start_offset>1576312</start_offset>
+      <end_offset>1576315</end_offset>
+      <tag_text>wpf1.txt:55 (original line 69) | addiu | string 0x003ABDE8 | pair 0x00180D6C | %nの再攻撃⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="316">
+      <start_offset>1576376</start_offset>
+      <end_offset>1576379</end_offset>
+      <tag_text>wpf1.txt:56 (original line 70) | lui | string 0x003ABE00 | pair 0x00180DC0 | %nの%C致命攻撃！！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="317">
+      <start_offset>1576384</start_offset>
+      <end_offset>1576387</end_offset>
+      <tag_text>wpf1.txt:56 (original line 70) | addiu | string 0x003ABE00 | pair 0x00180DB8 | %nの%C致命攻撃！！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="318">
+      <start_offset>1577668</start_offset>
+      <end_offset>1577671</end_offset>
+      <tag_text>wpf1.txt:52 (original line 66) | lui | string 0x003ABDA8 | pair 0x001812D0 | %nの攻撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="319">
+      <start_offset>1577680</start_offset>
+      <end_offset>1577683</end_offset>
+      <tag_text>wpf1.txt:52 (original line 66) | addiu | string 0x003ABDA8 | pair 0x001812C4 | %nの攻撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="320">
+      <start_offset>1577752</start_offset>
+      <end_offset>1577755</end_offset>
+      <tag_text>wpf1.txt:53 (original line 67) | lui | string 0x003ABDC0 | pair 0x00181320 | %nの%C切り込み%C反撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="321">
+      <start_offset>1577760</start_offset>
+      <end_offset>1577763</end_offset>
+      <tag_text>wpf1.txt:53 (original line 67) | addiu | string 0x003ABDC0 | pair 0x00181318 | %nの%C切り込み%C反撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="322">
+      <start_offset>1577780</start_offset>
+      <end_offset>1577783</end_offset>
+      <tag_text>wpf1.txt:54 (original line 68) | lui | string 0x003ABDD8 | pair 0x00181340 | %nの反撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="323">
+      <start_offset>1577792</start_offset>
+      <end_offset>1577795</end_offset>
+      <tag_text>wpf1.txt:54 (original line 68) | addiu | string 0x003ABDD8 | pair 0x00181334 | %nの反撃！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="324">
+      <start_offset>1577812</start_offset>
+      <end_offset>1577815</end_offset>
+      <tag_text>wpf1.txt:55 (original line 69) | lui | string 0x003ABDE8 | pair 0x00181360 | %nの再攻撃⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="325">
+      <start_offset>1577824</start_offset>
+      <end_offset>1577827</end_offset>
+      <tag_text>wpf1.txt:55 (original line 69) | addiu | string 0x003ABDE8 | pair 0x00181354 | %nの再攻撃⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="326">
+      <start_offset>1577888</start_offset>
+      <end_offset>1577891</end_offset>
+      <tag_text>wpf1.txt:56 (original line 70) | lui | string 0x003ABE00 | pair 0x001813A8 | %nの%C致命攻撃！！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="327">
+      <start_offset>1577896</start_offset>
+      <end_offset>1577899</end_offset>
+      <tag_text>wpf1.txt:56 (original line 70) | addiu | string 0x003ABE00 | pair 0x001813A0 | %nの%C致命攻撃！！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="328">
+      <start_offset>1580228</start_offset>
+      <end_offset>1580231</end_offset>
+      <tag_text>wpf1.txt:21 (original line 35) | lui | string 0x003AB9C0 | pair 0x00181CD0 | %nのスキル%C%a%Cの技！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="329">
+      <start_offset>1580240</start_offset>
+      <end_offset>1580243</end_offset>
+      <tag_text>wpf1.txt:21 (original line 35) | addiu | string 0x003AB9C0 | pair 0x00181CC4 | %nのスキル%C%a%Cの技！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="330">
+      <start_offset>1585240</start_offset>
+      <end_offset>1585243</end_offset>
+      <tag_text>wpf1.txt:51 (original line 65) | lui | string 0x003ABD90 | pair 0x00183064 | %nは%C毒%Cに侵された！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="331">
+      <start_offset>1585252</start_offset>
+      <end_offset>1585255</end_offset>
+      <tag_text>wpf1.txt:51 (original line 65) | addiu | string 0x003ABD90 | pair 0x00183058 | %nは%C毒%Cに侵された！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="332">
+      <start_offset>1585368</start_offset>
+      <end_offset>1585371</end_offset>
+      <tag_text>wpf1.txt:50 (original line 64) | lui | string 0x003ABD70 | pair 0x001830E4 | %nは%C眠ってしまった%C！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="333">
+      <start_offset>1585380</start_offset>
+      <end_offset>1585383</end_offset>
+      <tag_text>wpf1.txt:50 (original line 64) | addiu | string 0x003ABD70 | pair 0x001830D8 | %nは%C眠ってしまった%C！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="334">
+      <start_offset>1585484</start_offset>
+      <end_offset>1585487</end_offset>
+      <tag_text>wpf1.txt:49 (original line 63) | lui | string 0x003ABD40 | pair 0x00183160 | %nは経験値を⏎%C%D吸い取られた！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="335">
+      <start_offset>1585504</start_offset>
+      <end_offset>1585507</end_offset>
+      <tag_text>wpf1.txt:49 (original line 63) | addiu | string 0x003ABD40 | pair 0x0018314C | %nは経験値を⏎%C%D吸い取られた！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="336">
+      <start_offset>1585808</start_offset>
+      <end_offset>1585811</end_offset>
+      <tag_text>wpf1.txt:72 (original line 86) | lui | string 0x003AC010 | pair 0x001832A4 | %nは%C%Dの反撃ダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="337">
+      <start_offset>1585828</start_offset>
+      <end_offset>1585831</end_offset>
+      <tag_text>wpf1.txt:72 (original line 86) | addiu | string 0x003AC010 | pair 0x00183290 | %nは%C%Dの反撃ダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="338">
+      <start_offset>1585900</start_offset>
+      <end_offset>1585903</end_offset>
+      <tag_text>wpf1.txt:71 (original line 85) | lui | string 0x003ABFF0 | pair 0x001832F8 | %nの%C武器装備がはずれた！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="339">
+      <start_offset>1585912</start_offset>
+      <end_offset>1585915</end_offset>
+      <tag_text>wpf1.txt:71 (original line 85) | addiu | string 0x003ABFF0 | pair 0x001832EC | %nの%C武器装備がはずれた！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="340">
+      <start_offset>1585980</start_offset>
+      <end_offset>1585983</end_offset>
+      <tag_text>wpf1.txt:70 (original line 84) | lui | string 0x003ABFD0 | pair 0x00183348 | %nの%C盾装備がはずれた！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="341">
+      <start_offset>1585992</start_offset>
+      <end_offset>1585995</end_offset>
+      <tag_text>wpf1.txt:70 (original line 84) | addiu | string 0x003ABFD0 | pair 0x0018333C | %nの%C盾装備がはずれた！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="342">
+      <start_offset>1586092</start_offset>
+      <end_offset>1586095</end_offset>
+      <tag_text>wpf1.txt:62 (original line 76) | lui | string 0x003ABEC0 | pair 0x001833CC | %nは%C%D%CのＨＰを吸収した！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="343">
+      <start_offset>1586124</start_offset>
+      <end_offset>1586127</end_offset>
+      <tag_text>wpf1.txt:62 (original line 76) | addiu | string 0x003ABEC0 | pair 0x001833AC | %nは%C%D%CのＨＰを吸収した！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="344">
+      <start_offset>1586384</start_offset>
+      <end_offset>1586387</end_offset>
+      <tag_text>wpf1.txt:68 (original line 82) | lui | string 0x003ABF90 | pair 0x001834E0 | %C奇跡の護符%Cが光を放った！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="345">
+      <start_offset>1586400</start_offset>
+      <end_offset>1586403</end_offset>
+      <tag_text>wpf1.txt:68 (original line 82) | addiu | string 0x003ABF90 | pair 0x001834D0 | %C奇跡の護符%Cが光を放った！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="346">
+      <start_offset>1586492</start_offset>
+      <end_offset>1586495</end_offset>
+      <tag_text>wpf1.txt:67 (original line 81) | lui | string 0x003ABF70 | pair 0x00183544 | %iの%C奇跡の護符%Cの効果！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="347">
+      <start_offset>1586500</start_offset>
+      <end_offset>1586503</end_offset>
+      <tag_text>wpf1.txt:67 (original line 81) | addiu | string 0x003ABF70 | pair 0x0018353C | %iの%C奇跡の護符%Cの効果！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="348">
+      <start_offset>1586576</start_offset>
+      <end_offset>1586579</end_offset>
+      <tag_text>wpf1.txt:66 (original line 80) | lui | string 0x003ABF50 | pair 0x001835A0 | %C「幸運」の効果！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="349">
+      <start_offset>1586592</start_offset>
+      <end_offset>1586595</end_offset>
+      <tag_text>wpf1.txt:66 (original line 80) | addiu | string 0x003ABF50 | pair 0x00183590 | %C「幸運」の効果！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="350">
+      <start_offset>1586772</start_offset>
+      <end_offset>1586775</end_offset>
+      <tag_text>wpf1.txt:73 (original line 87) | lui | string 0x003AC030 | pair 0x00183660 | %nは%C%Dのダメージ！%C</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="351">
+      <start_offset>1586784</start_offset>
+      <end_offset>1586787</end_offset>
+      <tag_text>wpf1.txt:73 (original line 87) | addiu | string 0x003AC030 | pair 0x00183654 | %nは%C%Dのダメージ！%C</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="352">
+      <start_offset>1586796</start_offset>
+      <end_offset>1586799</end_offset>
+      <tag_text>wpf1.txt:74 (original line 88) | lui | string 0x003AC048 | pair 0x00183678 | ⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="353">
+      <start_offset>1586808</start_offset>
+      <end_offset>1586811</end_offset>
+      <tag_text>wpf1.txt:74 (original line 88) | addiu | string 0x003AC048 | pair 0x0018366C | ⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="354">
+      <start_offset>1586836</start_offset>
+      <end_offset>1586839</end_offset>
+      <tag_text>wpf1.txt:75 (original line 89) | lui | string 0x003AC050 | pair 0x001836A4 | 追加効果！%C%Dのダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="355">
+      <start_offset>1586852</start_offset>
+      <end_offset>1586855</end_offset>
+      <tag_text>wpf1.txt:75 (original line 89) | addiu | string 0x003AC050 | pair 0x00183694 | 追加効果！%C%Dのダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="356">
+      <start_offset>1586956</start_offset>
+      <end_offset>1586959</end_offset>
+      <tag_text>wpf1.txt:78 (original line 92) | lui | string 0x003AC0B0 | pair 0x00183718 | %nは%C%Dのダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="357">
+      <start_offset>1586968</start_offset>
+      <end_offset>1586971</end_offset>
+      <tag_text>wpf1.txt:78 (original line 92) | addiu | string 0x003AC0B0 | pair 0x0018370C | %nは%C%Dのダメージ！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="358">
+      <start_offset>1587128</start_offset>
+      <end_offset>1587131</end_offset>
+      <tag_text>wpf1.txt:60 (original line 74) | lui | string 0x003ABE80 | pair 0x001837C0 | %nには%C効かなかった%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="359">
+      <start_offset>1587136</start_offset>
+      <end_offset>1587139</end_offset>
+      <tag_text>wpf1.txt:60 (original line 74) | addiu | string 0x003ABE80 | pair 0x001837B8 | %nには%C効かなかった%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="360">
+      <start_offset>1587212</start_offset>
+      <end_offset>1587215</end_offset>
+      <tag_text>wpf1.txt:61 (original line 75) | lui | string 0x003ABEA0 | pair 0x00183814 | %nは攻撃を%Cはねかえした%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="361">
+      <start_offset>1587220</start_offset>
+      <end_offset>1587223</end_offset>
+      <tag_text>wpf1.txt:61 (original line 75) | addiu | string 0x003ABEA0 | pair 0x0018380C | %nは攻撃を%Cはねかえした%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="362">
+      <start_offset>1587268</start_offset>
+      <end_offset>1587271</end_offset>
+      <tag_text>wpf1.txt:24 (original line 38) | lui | string 0x003ABA20 | pair 0x00183860 | %C追加効果！%Dのダメージ%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="363">
+      <start_offset>1587296</start_offset>
+      <end_offset>1587299</end_offset>
+      <tag_text>wpf1.txt:24 (original line 38) | addiu | string 0x003ABA20 | pair 0x00183844 | %C追加効果！%Dのダメージ%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="364">
+      <start_offset>1587436</start_offset>
+      <end_offset>1587439</end_offset>
+      <tag_text>wpf1.txt:57 (original line 71) | lui | string 0x003ABE20 | pair 0x001838F4 | %nは武器で%C受け流した%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="365">
+      <start_offset>1587444</start_offset>
+      <end_offset>1587447</end_offset>
+      <tag_text>wpf1.txt:57 (original line 71) | addiu | string 0x003ABE20 | pair 0x001838EC | %nは武器で%C受け流した%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="366">
+      <start_offset>1587460</start_offset>
+      <end_offset>1587463</end_offset>
+      <tag_text>wpf1.txt:58 (original line 72) | lui | string 0x003ABE40 | pair 0x00183914 | %nは攻撃をかわした⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="367">
+      <start_offset>1587476</start_offset>
+      <end_offset>1587479</end_offset>
+      <tag_text>wpf1.txt:58 (original line 72) | addiu | string 0x003ABE40 | pair 0x00183904 | %nは攻撃をかわした⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="368">
+      <start_offset>1587704</start_offset>
+      <end_offset>1587707</end_offset>
+      <tag_text>wpf1.txt:63 (original line 77) | lui | string 0x003ABEE0 | pair 0x00183A00 | %nは暗黒魔法を%C無効化%C！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="369">
+      <start_offset>1587712</start_offset>
+      <end_offset>1587715</end_offset>
+      <tag_text>wpf1.txt:63 (original line 77) | addiu | string 0x003ABEE0 | pair 0x001839F8 | %nは暗黒魔法を%C無効化%C！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="370">
+      <start_offset>1587800</start_offset>
+      <end_offset>1587803</end_offset>
+      <tag_text>wpf1.txt:64 (original line 78) | lui | string 0x003ABF00 | pair 0x00183A68 | %C祈りの護符%Cが光を放っている！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="371">
+      <start_offset>1587816</start_offset>
+      <end_offset>1587819</end_offset>
+      <tag_text>wpf1.txt:64 (original line 78) | addiu | string 0x003ABF00 | pair 0x00183A58 | %C祈りの護符%Cが光を放っている！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="372">
+      <start_offset>1587980</start_offset>
+      <end_offset>1587983</end_offset>
+      <tag_text>wpf1.txt:59 (original line 73) | lui | string 0x003ABE60 | pair 0x00183B18 | %nに%Cベアーズハンドの効果%C！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="373">
+      <start_offset>1587992</start_offset>
+      <end_offset>1587995</end_offset>
+      <tag_text>wpf1.txt:59 (original line 73) | addiu | string 0x003ABE60 | pair 0x00183B0C | %nに%Cベアーズハンドの効果%C！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="374">
+      <start_offset>1588176</start_offset>
+      <end_offset>1588179</end_offset>
+      <tag_text>wpf1.txt:45 (original line 59) | lui | string 0x003ABCC0 | pair 0x00183BD8 | %iが%C暴発した！！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="375">
+      <start_offset>1588184</start_offset>
+      <end_offset>1588187</end_offset>
+      <tag_text>wpf1.txt:45 (original line 59) | addiu | string 0x003ABCC0 | pair 0x00183BD0 | %iが%C暴発した！！%C⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="376">
+      <start_offset>1588248</start_offset>
+      <end_offset>1588251</end_offset>
+      <tag_text>wpf1.txt:46 (original line 60) | lui | string 0x003ABCE0 | pair 0x00183C20 | %iの%C呪いが発動%C！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="377">
+      <start_offset>1588256</start_offset>
+      <end_offset>1588259</end_offset>
+      <tag_text>wpf1.txt:46 (original line 60) | addiu | string 0x003ABCE0 | pair 0x00183C18 | %iの%C呪いが発動%C！！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="378">
+      <start_offset>1588416</start_offset>
+      <end_offset>1588419</end_offset>
+      <tag_text>wpf1.txt:47 (original line 61) | lui | string 0x003ABD00 | pair 0x00183CC8 | %nはダメージを%C反射された%C！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="379">
+      <start_offset>1588424</start_offset>
+      <end_offset>1588427</end_offset>
+      <tag_text>wpf1.txt:47 (original line 61) | addiu | string 0x003ABD00 | pair 0x00183CC0 | %nはダメージを%C反射された%C！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="380">
+      <start_offset>1588808</start_offset>
+      <end_offset>1588811</end_offset>
+      <tag_text>wpf1.txt:22 (original line 36) | lui | string 0x003AB9E0 | pair 0x00183E54 | %nは武器で攻撃を防いだ！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="381">
+      <start_offset>1588820</start_offset>
+      <end_offset>1588823</end_offset>
+      <tag_text>wpf1.txt:22 (original line 36) | addiu | string 0x003AB9E0 | pair 0x00183E48 | %nは武器で攻撃を防いだ！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="382">
+      <start_offset>1588840</start_offset>
+      <end_offset>1588843</end_offset>
+      <tag_text>wpf1.txt:23 (original line 37) | lui | string 0x003ABA00 | pair 0x00183E70 | %nは盾で攻撃を防いだ！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#B3D9FF</note_colour>
+    </TAG>
+    <TAG id="383">
+      <start_offset>1588848</start_offset>
+      <end_offset>1588851</end_offset>
+      <tag_text>wpf1.txt:23 (original line 37) | addiu | string 0x003ABA00 | pair 0x00183E68 | %nは盾で攻撃を防いだ！⏎</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFE0B3</note_colour>
+    </TAG>
+    <TAG id="384">
       <start_offset>3250996</start_offset>
       <end_offset>3250996</end_offset>
       <tag_text></tag_text>
       <font_colour>#000000</font_colour>
       <note_colour>#7D0B00</note_colour>
     </TAG>
-    <TAG id="1">
+    <TAG id="385">
       <start_offset>3482527</start_offset>
       <end_offset>3482527</end_offset>
       <tag_text></tag_text>
       <font_colour>#000000</font_colour>
       <note_colour>#C06900</note_colour>
     </TAG>
-    <TAG id="2">
+    <TAG id="386">
       <start_offset>3482528</start_offset>
       <end_offset>3482528</end_offset>
       <tag_text></tag_text>
       <font_colour>#000000</font_colour>
       <note_colour>#F16900</note_colour>
     </TAG>
-    <TAG id="3">
+    <TAG id="387">
       <start_offset>3786682</start_offset>
       <end_offset>3786682</end_offset>
       <tag_text></tag_text>
       <font_colour>#000000</font_colour>
       <note_colour>#DA5C00</note_colour>
     </TAG>
-    <TAG id="4">
+    <TAG id="388">
       <start_offset>3786690</start_offset>
       <end_offset>3786690</end_offset>
       <tag_text></tag_text>
       <font_colour>#000000</font_colour>
       <note_colour>#D96500</note_colour>
     </TAG>
-    <TAG id="5">
+    <TAG id="389">
       <start_offset>3786692</start_offset>
       <end_offset>3786692</end_offset>
       <tag_text></tag_text>

@@ -1,0 +1,6 @@
+Line 1: レベル
+Line 2: 最大ＨＰ
+Line 3: 筋力
+Line 4: 防御
+Line 5: 俊敏
+Line 6: 精神

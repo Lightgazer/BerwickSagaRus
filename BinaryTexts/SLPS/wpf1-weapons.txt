@@ -1,0 +1,14 @@
+Line 1: 短剣
+Line 2: 剣
+Line 3: 槍
+Line 4: 斧
+Line 5: 弓
+Line 6: 石弓
+Line 7: 炎魔法
+Line 8: 雷魔法
+Line 9: 風魔法
+Line 10: 神聖魔法
+Line 11: 暗黒魔法
+Line 12: Ｓ盾
+Line 13: Ｍ盾
+Line 14: Ｌ盾
