@@ -1,4 +1,4 @@
-#### File 1: 2 ####
+#### File 2: 2 ####
 #Upper Window; Size: 6; Elbert
 ■■■■■■■Well,　this　is　the　place　where　Lord
 Reese　said　we　should　rendezvous...
@@ -24,7 +24,7 @@ orders,●[30]　we'd　better　get　going!
 -----------------------
 #Lower Window; Size: 6; Christine
 ■■■Elbert,●[20]　be　serious.●[60]
-He　may　my　father,●[20]　but　he's
+He　may　be　my　father,●[20]　but　he's
 Lord　Reese's　adjutant　first.
 -----------------------
 #Upper Window; Size: 6; Elbert
@@ -401,7 +401,7 @@ Yes,　it's　rather　unfortunate.●[60]
 We're　in　a　bit　of　a　tight　spot.
 -----------------------
 #Lower Window; Size: 6; Reese
-■■■A　ht　spot?●[60]
+■■■A　tight　spot?●[60]
 Please　explain.
 -----------------------
 #Upper Window; Size: 6; Priest
@@ -849,14 +849,7 @@ pretty　penny　for　this　lovely　lady!
 ■■
 ###### End ######
 
-#### File 40: 607 ####
-#Upper Window; Size: 4; Lazlo
-■■■■■■■S●[20]-Stop　this...!
------------------------
-■■
-###### End ######
-
-#### File 41: 1001 ####
+#### File 40: 1001 ####
 #Upper Window; Size: 6; Reese
 ■■■■■■■It　seems　most　of　the　deserters
 have　been　cleared　out.
@@ -910,6 +903,13 @@ seeing　more　of　you　in　the　future.
 ■■■I　see...●[60]
 I　pray　that　is　the　case.
 -----------------------
+###### End ######
+
+#### File 41: 607 ####
+#Upper Window; Size: 4; Lazlo
+■■■■■■■S●[20]-Stop　this...!
+-----------------------
+■■
 ###### End ######
 
 #### File 42: 1002 ####

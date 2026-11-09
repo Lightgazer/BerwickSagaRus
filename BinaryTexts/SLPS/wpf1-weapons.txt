@@ -1,14 +1,14 @@
-Line 1: 短剣
-Line 2: 剣
-Line 3: 槍
-Line 4: 斧
-Line 5: 弓
-Line 6: 石弓
-Line 7: 炎魔法
-Line 8: 雷魔法
-Line 9: 風魔法
-Line 10: 神聖魔法
-Line 11: 暗黒魔法
-Line 12: Ｓ盾
-Line 13: Ｍ盾
-Line 14: Ｌ盾
+Line 1: Кинжал
+Line 2: Меч
+Line 3: Копьё
+Line 4: Топор
+Line 5: Лук
+Line 6: Арбалет
+Line 7: Огонь
+Line 8: Молния
+Line 9: Ветер
+Line 10: Святая магия
+Line 11: Тёмная магия
+Line 12: Малый щит
+Line 13: Средний щит
+Line 14: Большой щит
