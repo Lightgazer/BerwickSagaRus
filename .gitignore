@@ -60,6 +60,14 @@ nunit-*.xml
 /DATA3/*
 !/DATA3/2465
 !/DATA3/2466
+!/DATA3/2962/
+/DATA3/2962/*
+!/DATA3/2962/font2.ar/
+/DATA3/2962/font2.ar/*
+!/DATA3/2962/font2.ar/iconinfo.dat
+!/DATA3/2962/font3.ar/
+/DATA3/2962/font3.ar/*
+!/DATA3/2962/font3.ar/iconinfo.dat
 
 *.iso
 *.ISO
