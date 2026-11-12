@@ -1,0 +1,71 @@
+# The hexadecimal ID is the original string offset in the Japanese source binary.
+# Instruction offsets are stored in the DynamicPointerLines configuration.
+
+# playtime: 総プレイタイム
+0x0003C840: Общее время игры
+
+# hms: 時間
+0x0003C858: ч
+
+# hms: 分
+0x0003C860: мин
+
+# hms: 秒
+0x0003C868: с
+
+# hms: 勲功：
+0x0003C870: Заслуги:
+
+# fame: 名声：
+0x0003C880: Слава:
+
+# fame: 行動：
+0x0003C888: Действия:
+
+# fame: 幸福：
+0x0003C890: Счастье:
+
+# survived: の戦闘記録
+0x0003C8E0: : боевой журнал
+
+# survived: 「
+0x0003C8F0: 「
+
+# survived: 」
+0x0003C8F8: 」
+
+# survived: において戦死
+0x0003C900:  - погиб
+
+# survived: 現在行方不明
+0x0003C910: Пропал без вести
+
+# survived: を指揮
+0x0003C920: Командовал
+
+# survived: に参戦
+0x0003C928: Участвовал
+
+# survived: 　計：
+0x0003C930:  Всего: 
+
+# survived: マップ
+0x0003C938:  карт
+
+# survived: ●戦闘結果
+0x0003C940: ●Итоги боёв
+
+# survived: 敵の総撃破数：
+0x0003C950: Побеждено врагов:
+
+# survived: 捕縛した回数：
+0x0003C960: Захвачено:
+
+# survived: 捕まった回数：
+0x0003C970: Попаданий в плен:
+
+# survived: 総取得経験値：
+0x0003C980: Всего опыта:
+
+# chapter: 第%s章
+0x0003CA70: Глава %s
