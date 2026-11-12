@@ -1,0 +1,2689 @@
+#### File 4: 1 ####
+1. A Reason to Fight
+###### End ######
+
+#### File 5: 2 ####
+2. Bandit Suppression
+###### End ######
+
+#### File 6: 3 ####
+3. The Three Priests
+###### End ######
+
+#### File 7: 4 ####
+4. Covering the Retreat
+###### End ######
+
+#### File 8: 5 ####
+5. Hold the Fort
+###### End ######
+
+#### File 9: 6 ####
+6. On the Front Lines
+###### End ######
+
+#### File 10: 7 ####
+7. Rescue Mission
+###### End ######
+
+#### File 11: 8 ####
+8. The Wooden Cavalry
+###### End ######
+
+#### File 12: 9 ####
+9. Breaking Bridges
+###### End ######
+
+#### File 13: 10 ####
+10. A Paladin's Duty
+###### End ######
+
+#### File 14: 11 ####
+11. Bloodstained Valley
+###### End ######
+
+#### File 15: 12 ####
+12. The Dark Cardinal
+###### End ######
+
+#### File 16: 13 ####
+Exile Island
+###### End ######
+
+#### File 17: 14 ####
+13. Silent City
+###### End ######
+
+#### File 18: 15 ####
+The Heretic God
+###### End ######
+
+#### File 19: 16 ####
+#１４．暗黒の炎
+14. Flames of the Dark
+###### End ######
+
+#### File 20: 17 ####
+#１５．剣の誓い
+15. Oath of the Sword
+###### End ######
+
+#### File 21: 18 ####
+#タイトルヘ戻る
+To Title
+###### End ######
+
+#### File 22: 19 ####
+#同時ターン制
+Simultaneous Turns
+###### End ######
+
+#### File 23: 20 ####
+#完全ターン制
+Sequential Turns
+###### End ######
+
+#### File 24: 21 ####
+#部隊編集
+Edit Units
+###### End ######
+
+#### File 25: 22 ####
+#傭兵編集
+Edit Mercenaries
+###### End ######
+
+#### File 26: 23 ####
+#職人編集
+Edit Artisans
+###### End ######
+
+#### File 27: 24 ####
+#独立部隊
+Independent Units
+###### End ######
+
+#### File 28: 25 ####
+#死人部隊
+Fallen Units
+###### End ######
+
+#### File 29: 26 ####
+#捕虜部隊
+POWs
+###### End ######
+
+#### File 30: 27 ####
+Bag-Related
+###### End ######
+
+#### File 31: 28 ####
+１０マソゲッツ
+###### End ######
+
+#### File 32: 29 ####
+#調度品コンプ
+All Equipment
+###### End ######
+
+#### File 33: 30 ####
+#傭兵チーム更新
+All Mercenaries Recruited
+###### End ######
+
+#### File 34: 31 ####
+#賞金首コンプ
+Maximum Funds
+###### End ######
+
+#### File 35: 32 ####
+#闘技場チケット入手
+Arena Tickets
+###### End ######
+
+#### File 36: 33 ####
+#馬全種類入手
+All Horses
+###### End ######
+
+#### File 37: 34 ####
+#合成アイテム
+Item Synthesis
+###### End ######
+
+#### File 38: 35 ####
+#手紙全ゲツ
+All Letters
+###### End ######
+
+#### File 39: 36 ####
+#街ポイント表示
+Show City Points
+###### End ######
+
+#### File 40: 37 ####
+#デバッグ用１
+DEBUG1
+###### End ######
+
+#### File 41: 38 ####
+#デバッグ用２
+DEBUG2
+###### End ######
+
+#### File 42: 39 ####
+#デバッグ用３
+DEBUG3
+###### End ######
+
+#### File 43: 40 ##
+DEBUG4
+###### End ######
+
+#### File 44: 41 ####
+Main Missions
+###### End ######
+
+#### File 45: 42 ####
+Citizen Requests
+###### End ######
+
+#### File 46: 43 ####
+Sidequests
+###### End ######
+
+#### File 47: 44 ####
+Key Items
+###### End ######
+
+#### File 48: 45 ####
+Item List
+###### End ######
+
+#### File 49: 46 ####
+Unit List
+###### End ######
+
+#### File 50: 47 ####
+Advance Chapter
+###### End ######
+
+#### File 51: 48 ####
+Kill Command
+###### End ######
+
+#### File 52: 49 ####
+Player＞Merc
+###### End ######
+
+#### File 53: 50 ####
+Merc＞Player
+###### End ######
+
+#### File 54: 51 ####
+Manage Flags
+###### End ######
+
+#### File 55: 52 ####
+Update Quests
+###### End ######
+
+#### File 56: 53 ####
+Organize Units
+###### End ######
+
+#### File 57: 54 ####
+Last Command
+###### End ######
+
+#### File 58: 55 ####
+Yes, joint attack.
+###### End ######
+
+#### File 59: 56 ####
+Bad luck, try again.
+###### End ######
+
+#### File 60: 57 ####
+Don't Hire
+###### End ######
+
+#### File 61: 58 ####
+View Stats
+###### End ######
+
+#### File 62: 59 ####
+Trade Items
+###### End ######
+
+#### File 63: 60 ####
+Hire
+###### End ######
+
+#### File 64: 61 ####
+#はらう
+Pay
+###### End ######
+
+#### File 65: 62 ####
+#はらわない
+Don't Pay
+###### End ######
+
+#### File 66: 63 ####
+Yes, I'm ready to go.
+###### End ######
+
+#### File 67: 64 ####
+No, let me rethink.
+###### End ######
+
+#### File 68: 65 ####
+#Cancel this plan.
+Decline the mission.
+###### End ######
+
+#### File 69: 66 ####
+#Reconsider
+Don't decline it.
+###### End ######
+
+#### File 70: 67 ####
+#出撃する
+Accept Mission
+###### End ######
+
+#### File 71: 68 ####
+Decline Mission
+###### End ######
+
+#### File 72: 69 ####
+#バリスタ支払い
+Ballista Payment
+###### End ######
+
+#### File 73: 70 ####
+Monthly Report
+###### End ######
+
+#### File 74: 71 ####
+Sell Items
+###### End ######
+
+#### File 75: 72 ####
+#Active Units
+Battle Party
+###### End ######
+
+#### File 76: 73 ####
+Info Lists
+###### End ######
+
+#### File 77: 74 ####
+#ロード
+Load
+###### End ######
+
+#### File 78: 75 ####
+#セーブ
+Save
+###### End ######
+
+#### File 79: 76 ####
+#旅立ち
+Set Off
+###### End ######
+
+#### File 80: 77 ####
+#次章ヘ進む
+Advance Chapter
+###### End ######
+
+#### File 81: 78 ####
+#ああ、問題ない
+I'm ready to continue.
+###### End ######
+
+#### File 82: 79 ####
+#いや、やり残したことがある
+Wait, I'm not ready yet...
+###### End ######
+
+#### File 83: 80 ####
+#では、そろそろ出発しよう
+Let's get started.
+###### End ######
+
+#### File 84: 81 ####
+#いや、やり残したことがある‥
+No, I'm not ready yet.
+###### End ######
+
+#### File 85: 82 ####
+#ああ、何人かには引き続き頼みたい
+Wait, I want to re-hire somebody.
+###### End ######
+
+#### File 86: 83 ####
+#いや、全員契約を打ち切る事にする
+Please end all contracts.
+###### End ######
+
+#### File 87: 84 ####
+#新しい馬に乗り換える
+Switch to this new horse.
+###### End ######
+
+#### File 88: 85 ####
+#やっぱりやめる
+#Just as I thought.
+I've changed my mind.
+###### End ######
+
+#### File 89: 86 ####
+#軍馬を購入する
+Buy this horse.
+###### End ######
+
+#### File 90: 87 ####
+#預けている馬を選ぶ
+Select a horse from your reserves.
+###### End ######
+
+#### File 91: 88 ####
+#売っている馬を買う
+Buy a new horse.
+###### End ######
+
+#### File 92: 89 ####
+#家具を購入する
+Purchase furniture.
+###### End ######
+
+#### File 93: 90 ####
+#キャンセル
+Cancel
+###### End ######
+
+#### File 94: 91 ####
+14500 - Art: "Hope"
+###### End ######
+
+#### File 95: 92 ####
+17000 - Bird Statue
+###### End ######
+
+#### File 96: 93 ####
+19000 - Big Rug
+###### End ######
+
+#### File 97: 94 ####
+22000 - Art: "Revival"
+###### End ######
+
+#### File 98: 95 ####
+23000 - Sword Mount
+###### End ######
+
+#### File 99: 96 ####
+25000 - Porcelain Vase
+###### End ######
+
+#### File 100: 97 ####
+26000 - Deer Mount
+###### End ######
+
+#### File 101: 98 ####
+27500 - Coat of Arms
+###### End ######
+
+#### File 102: 99 ####
+30000 - Coffers
+###### End ######
+
+#### File 103: 100 ####
+32000 - Luxury Bed
+###### End ######
+
+#### File 104: 101 ####
+36000 - Treasure Chest
+###### End ######
+
+#### File 105: 102 ####
+42000 - Maiden Statue
+###### End ######
+
+#### File 106: 103 ####
+45000 - Tapestry
+###### End ######
+
+#### File 107: 104 ####
+Ask about the atelier.
+###### End ######
+
+#### File 108: 105 ####
+Ask about the artisans.
+###### End ######
+
+#### File 109: 106 ####
+Ask about commission fees.
+###### End ######
+
+#### File 110: 107 ####
+Ask about storing materials.
+###### End ######
+
+#### File 111: 108 ####
+Yes, all ready to deploy!
+###### End ######
+
+#### File 112: 109 ####
+No, I need to prepare more.
+###### End ######
+
+#### File 113: 110 ####
+#討伐！遺跡泥棒
+Subjugation! Ruin raiders!
+###### End ######
+
+#### File 114: 111 ####
+Do you like eggs?
+###### End ######
+
+#### File 115: 112 ####
+Cross the bridge.
+###### End ######
+
+#### File 116: 113 ####
+The older brother is wanted.
+###### End ######
+
+#### File 117: 114 ####
+#狂気の街
+City of Madness
+###### End ######
+
+#### File 118: 115 ####
+#雪原の竜騎士
+Snowy Wyvern Knight
+###### End ######
+
+#### File 119: 116 ####
+#海賊討伐
+Subjugating the Pirates
+###### End ######
+
+#### File 120: 117 ####
+Combat Training
+###### End ######
+
+#### File 121: 118 ####
+#闇の信徒
+The Dark Disciple
+###### End ######
+
+#### File 122: 119 ####
+#海賊王の秘宝
+Pirate-King's Hoard
+###### End ######
+
+#### File 123: 120 ####
+#海の乙女
+Lady of the Sea
+###### End ######
+
+#### File 124: 121 ####
+#砂の蛮族
+People of the Sand
+###### End ######
+
+#### File 125: 122 ####
+#激闘盗賊団
+Fierce Bandits
+###### End ######
+
+#### File 126: 123 ####
+QUEST23
+###### End ######
+
+#### File 127: 124 ####
+The Veterans
+###### End ######
+
+#### File 128: 125 ####
+Exile Island
+###### End ######
+
+#### File 129: 126 ####
+#飛竜の丘
+Wyvern Hill
+###### End ######
+
+#### File 130: 127 ####
+#放馬とごろつき
+Horse Thieves
+###### End ######
+
+#### File 131: 128 ####
+#君のてのひらの
+The Palm of Your Hand
+###### End ######
+
+#### File 132: 129 ####
+#次のページ
+Next Page
+###### End ######
+
+#### File 133: 130 ####
+Mountain Hunt
+###### End ######
+
+#### File 134: 131 ####
+#山賊マップ洞窟
+Bandit Map Caves
+###### End ######
+
+#### File 135: 132 ####
+#捕虜救出
+Prisoner Rescue
+###### End ######
+
+#### File 136: 133 ####
+#弓騎兵の恐怖
+Fear of the Bow Knights
+###### End ######
+
+#### File 137: 134 ####
+Devil in the Valley
+###### End ######
+
+#### File 138: 135 ####
+#前哨
+Outpost
+###### End ######
+
+#### File 139: 136 ####
+The Heretic God
+###### End ######
+
+#### File 140: 137 ####
+#わかった、依頼を引き受けよう
+Got it, let's take the mission.
+###### End ######
+
+#### File 141: 138 ####
+#今は忙しい。しばらく待ってくれ
+We're too busy. It'll have to wait.
+###### End ######
+
+#### File 142: 139 ####
+#軍用馬を購入する
+Purchase a horse.
+###### End ######
+
+#### File 143: 140 ####
+#購入をあきらめる
+Cancel purchase.
+###### End ######
+
+#### File 144: 141 ####
+#手紙を読む
+Read Letters
+###### End ######
+
+#### File 145: 142 ####
+#レイアウト
+Furniture
+###### End ######
+
+#### File 146: 143 ####
+Special Letter (1)
+###### End ######
+
+#### File 147: 144 ####
+Special Letter (2)
+###### End ######
+
+#### File 148: 145 ####
+Special Letter (3)
+###### End ######
+
+#### File 149: 146 ####
+Special Letter (4)
+###### End ######
+
+#### File 150: 147 ####
+Special Letter (5)
+###### End ######
+
+#### File 151: 148 ####
+Special Letter (6)
+###### End ######
+
+#### File 152: 149 ####
+Special Letter (7)
+###### End ######
+
+#### File 153: 150 ####
+Special Letter (8)
+###### End ######
+
+#### File 154: 151 ####
+Reset Furniture
+###### End ######
+
+#### File 155: 152 ####
+Doormat
+###### End ######
+
+#### File 156: 153 ####
+Sword Mount
+###### End ######
+
+#### File 157: 154 ####
+Big Rug
+###### End ######
+
+#### File 158: 155 ####
+Porcelain Vase
+###### End ######
+
+#### File 159: 156 ####
+Deer Mount
+###### End ######
+
+#### File 160: 157 ####
+Coat of Arms
+###### End ######
+
+#### File 161: 158 ####
+Coffers
+###### End ######
+
+#### File 162: 159 ####
+Tapestry
+###### End ######
+
+#### File 163: 160 ####
+Bird Statue
+###### End ######
+
+#### File 164: 161 ####
+Art: "Revival"
+###### End ######
+
+#### File 165: 162 ####
+Maiden Statue
+###### End ######
+
+#### File 166: 163 ####
+Treasure Chest
+###### End ######
+
+#### File 167: 164 ####
+Art: "Hope"
+###### End ######
+
+#### File 168: 165 ####
+Luxury Bed
+###### End ######
+
+#### File 169: 166 ####
+#対戦マップ選択
+Select Battle Map
+###### End ######
+
+#### File 170: 167 ####
+#対戦オプション
+Battle Options
+###### End ######
+
+#### File 171: 168 ####
+#チーム名設定
+Config Team Name
+###### End ######
+
+#### File 172: 169 ####
+#ランダム
+Random
+###### End ######
+
+#### File 173: 170 ####
+#闘技場
+Arena
+###### End ######
+
+#### File 174: 171 ####
+#平原小
+Small Plains
+###### End ######
+
+#### File 175: 172 ####
+#平原大
+Large Plains
+###### End ######
+
+#### File 176: 173 ####
+#室内
+Indoors
+###### End ######
+
+#### File 177: 174 ####
+#クレイマーに剣を与える
+Give the sword to Kramer.
+###### End ######
+
+#### File 178: 175 ####
+#他の部下に剣を与える
+Give the sword to someone else.
+###### End ######
+
+#### File 179: 176 ####
+#渡す斧を選ぶ
+Choose an axe to give.
+###### End ######
+
+#### File 180: 177 ####
+#斧を渡さない
+Don't hand over any axes.
+###### End ######
+
+#### File 181: 178 ####
+#旧式帝国丸盾を渡す
+Hand over the Old Imperial Small Shields.
+###### End ######
+
+#### File 182: 179 ####
+#盾を渡さない
+Don't give him any shields.
+###### End ######
+
+#### File 183: 180 ####
+#帝国正式槍を渡す
+Hand over the Imperial Spears.
+###### End ######
+
+#### File 184: 181 ####
+#帝国正式槍を渡さない
+Don't give him any spears.
+###### End ######
+
+#### File 185: 182 ####
+#ビードロの墓を掃除する#correct
+Tidy the grave marked Vidoro.
+###### End ######
+
+#### File 186: 183 ####
+#ビロードの墓を掃除する
+Tidy the grave marked Virodo.
+###### End ######
+
+#### File 187: 184 ####
+#ドロービの墓を掃除する
+Tidy the grave marked Viodro.
+###### End ######
+
+#### File 188: 185 ####
+#いや、遠慮しときます
+No thanks, I'll pass.
+###### End ######
+
+#### File 189: 186 ####
+#よし、やってみよう
+Sure, I'll go through the tunnel.
+###### End ######
+
+#### File 190: 187 ####
+#屋外エリア
+Outdoors
+###### End ######
+
+#### File 191: 188 ####
+#洞窟内エリア
+Cave Interior
+###### End ######
+
+#### File 192: 189 ####
+#やめておく
+Leave it alone.
+###### End ######
+
+#### File 193: 190 ####
+#引き抜いてみる
+Try to remove it.
+###### End ######
+
+#### File 194: 191 ####
+#切替戦闘テスト
+Switch-Battle Test
+###### End ######
+
+#### File 195: 192 ####
+#キャプチャツール
+Capture Tool
+###### End ######
+
+#### File 196: 193 ####
+#ハードディスク
+Hard Disk
+###### End ######
+
+#### File 197: 194 ####
+#街マップテスト
+City Map Test
+###### End ######
+
+#### File 198: 195 ####
+#大陸マップイベント
+Continent Map Event
+###### End ######
+
+#### File 199: 196 ####
+#エージング用デモ
+Aging Demo
+###### End ######
+
+#### File 200: 197 ####
+#ＢＧＭチェイン
+BGM Chain
+###### End ######
+
+#### File 201: 198 ####
+#街テスト
+City Test
+###### End ######
+
+#### File 202: 199 ####
+#切替アニメチェック
+Switch Anim. Check
+###### End ######
+
+#### File 203: 200 ####
+#サウンドエイジング
+Sound Aging
+###### End ######
+
+#### File 204: 201 ####
+#スタッフロール
+Staff Roll
+###### End ######
+
+#### File 205: 202 ####
+#大陸マップエイジング
+Continent Map Aging
+###### End ######
+
+#### File 206: 203 ####
+BGM 1
+###### End ######
+
+#### File 207: 204 ####
+BGM 2
+###### End ######
+
+#### File 208: 205 ####
+BGM 3
+###### End ######
+
+#### File 209: 206 ####
+#古いの
+Old 
+###### End ######
+
+#### File 210: 207 ####
+PA 3
+###### End ######
+
+#### File 211: 208 ####
+PA 4
+###### End ######
+
+#### File 212: 209 ####
+PB 3
+###### End ######
+
+#### File 213: 210 ####
+PB 4
+###### End ######
+
+#### File 214: 211 ####
+TA 3
+###### End ######
+
+#### File 215: 212 ####
+TA 4
+###### End ######
+
+#### File 216: 213 ####
+TB 3
+###### End ######
+
+#### File 217: 214 ####
+TB 4
+###### End ######
+
+#### File 218: 215 ####
+#つづける
+Continue
+###### End ######
+
+#### File 219: 216 ####
+#タイトルヘもどる
+Return to Title
+###### End ######
+
+#### File 220: 217 ####
+#オープニング
+Opening
+###### End ######
+
+#### File 221: 218 ####
+#８章その１
+Chapter 8, Part 1
+###### End ######
+
+#### File 222: 219 ####
+#８章その２
+Chapter 8, Part 2
+###### End ######
+
+#### File 223: 220 ####
+#８章その３
+Chapter 8, Part 3
+###### End ######
+
+#### File 224: 221 ####
+#８章その４
+Chapter 8, Part 3
+###### End ######
+
+#### File 225: 222 ####
+#４章作戦地図
+Chapter 4 Map
+###### End ######
+
+#### File 226: 223 ####
+#５章作戦地図
+Chapter 5 Map
+###### End ######
+
+#### File 227: 224 ####
+#７章作戦地図
+Chapter 7 Map
+###### End ######
+
+#### File 228: 225 ####
+#１０章作戦地図
+Chapter 10 Map
+###### End ######
+
+#### File 229: 226 ####
+#１１章作戦地図
+Chapter 11 Map
+###### End ######
+
+#### File 230: 227 ####
+#１２章作戦地図
+Chapter 12 Map
+###### End ######
+
+#### File 231: 228 ####
+#１３章その１
+Chapter 13, Part 1
+###### End ######
+
+#### File 232: 229 ####
+#１３章その２
+Chapter 13, Part 2
+###### End ######
+
+#### File 233: 230 ####
+#１３章その３
+Chapter 13, Part 3
+###### End ######
+
+#### File 234: 231 ####
+#１４章その１
+Chapter 14, Part 1
+###### End ######
+
+#### File 235: 232 ####
+#１４章その２
+Chapter 14, Part 2
+###### End ######
+
+#### File 236: 233 ####
+#１４章その３
+Chapter 14, Part 3
+###### End ######
+
+#### File 237: 234 ####
+#１４章その４
+Chapter 14, Part 4
+###### End ######
+
+#### File 238: 235 ####
+#１５章その１
+Chapter 15, Part 1
+###### End ######
+
+#### File 239: 236 ####
+#１５章その２
+Chapter 15, Part 2
+###### End ######
+
+#### File 240: 237 ####
+#エンディング
+Ending
+###### End ######
+
+#### File 241: 238 ####
+#１４章
+Chapter 14
+###### End ######
+
+#### File 242: 239 ####
+#１５章
+Chapter 15
+###### End ######
+
+#### File 243: 240 ####
+#１４章文字
+Chapter 15 Text
+###### End ######
+
+#### File 244: 241 ####
+#１４章地図
+Chapter 14 Map
+###### End ######
+
+#### File 245: 242 ####
+#４章デモ用
+Chapter 4 Demo Use
+###### End ######
+
+#### File 246: 501 ####
+#はい
+Yes
+###### End ######
+
+#### File 247: 502 ####
+#いいえ
+No
+###### End ######
+
+#### File 248: 503 ####
+#部隊表
+Army Info
+###### End ######
+
+#### File 249: 504 ####
+#マップ
+Full Map
+###### End ######
+
+#### File 250: 505 ####
+#目的＆情報
+Conditions
+###### End ######
+
+#### File 251: 506 ####
+#状況確認
+#Status
+Info Lists
+###### End ######
+
+#### File 252: 507 ####
+#投降
+Surrender
+###### End ######
+
+#### File 253: 508 ####
+#設定
+Settings
+###### End ######
+
+#### File 254: 509 ####
+#デバッグ
+Debug
+###### End ######
+
+#### File 255: 510 ####
+#マップ切替
+Switch Maps
+###### End ######
+
+#### File 256: 511 ####
+#ターン終了
+End Turn
+###### End ######
+
+#### File 257: 512 ####
+#リプレイ
+Replay
+###### End ######
+
+#### File 258: 513 ####
+#マップ離脱
+#Withdraw Map
+Escape All
+###### End ######
+
+#### File 259: 514 ####
+#アイテム一覧
+Item List
+###### End ######
+
+#### File 260: 515 ####
+#現在ターン＆戦況
+Turn Count and Battle Status
+###### End ######
+
+#### File 261: 516 ####
+#家系図
+Family Tree
+###### End ######
+
+#### File 262: 517 ####
+#戦闘
+Battle
+###### End ######
+
+#### File 263: 518 ####
+#再生
+Replay
+###### End ######
+
+#### File 264: 519 ####
+#記緑#typo for 記録
+Records
+###### End ######
+
+#### File 265: 520 ####
+#自動
+Automatic
+###### End ######
+
+#### File 266: 521 ####
+#退却
+Retreat
+###### End ######
+
+#### File 267: 522 ####
+#パラメータ解除
+Cancel Parameters
+###### End ######
+
+#### File 268: 523 ####
+Save
+###### End ######
+
+#### File 269: 524 ####
+Load
+###### End ######
+
+#### File 270: 525 ####
+Suspend
+###### End ######
+
+#### File 271: 526 ####
+#味方部隊
+Player Units
+###### End ######
+
+#### File 272: 527 ####
+#敵部隊
+Enemy Units
+###### End ######
+
+#### File 273: 528 ####
+#同盟部隊
+Friendly Units
+###### End ######
+
+#### File 274: 529 ####
+#中立部隊
+Neutral Units
+###### End ######
+
+#### File 275: 530 ####
+#出撃任務一覧
+Main Missions
+###### End ######
+
+#### File 276: 531 ####
+#住民依頼一覧
+Citizen Requests
+###### End ######
+
+#### File 277: 532 ####
+#出撃依頼一覧
+Sidequests
+###### End ######
+
+#### File 278: 533 ####
+#重要アイテム
+Key Items
+###### End ######
+
+#### File 279: 534 ####
+#コレクター品
+Collector's Items
+###### End ######
+
+#### File 280: 535 ####
+#賞金首リスト
+Bounty List
+###### End ######
+
+#### File 281: 536 ####
+#アイテムパラメータ
+Item Parameters
+###### End ######
+
+#### File 282: 537 ####
+#兵種パラメータ
+Class Parameters
+###### End ######
+
+#### File 283: 538 ####
+#勢力マーク
+Power Mark
+###### End ######
+
+#### File 284: 539 ####
+#名前入力テスト
+Name Insert Test
+###### End ######
+
+#### File 285: 540 ####
+Change Fog of War Display
+###### End ######
+
+#### File 286: 541 ####
+#フェーズタイプ変更
+Change Phase Type
+###### End ######
+
+#### File 287: 542 ####
+#完全ターン制
+Perfect Turn System
+###### End ######
+
+#### File 288: 543 ####
+#交互ターン（フリー）
+Mutual Turns (Free)
+###### End ######
+
+#### File 289: 544 ####
+#交互ターン（速度順）
+Mutual Turns (Speed-Order)
+###### End ######
+
+#### File 290: 545 ####
+Speed-Ordered
+###### End ######
+
+#### File 291: 546 ####
+#街イベントテスト
+City Event Test
+###### End ######
+
+#### File 292: 547 ####
+#ユニットシェーディング
+Unit Shading
+###### End ######
+
+#### File 293: 548 ####
+#行動
+Action
+###### End ######
+
+#### File 294: 549 ####
+#乗降
+Embark
+###### End ######
+
+#### File 295: 550 ####
+#移動
+Move
+###### End ######
+
+#### File 296: 551 ####
+#装備
+Equip
+###### End ######
+
+#### File 297: 552 ####
+#アイテム
+Item
+###### End ######
+
+#### File 298: 553 ####
+#終了
+Wait
+###### End ######
+
+#### File 299: 554 ####
+#継続待機
+Standby
+###### End ######
+
+#### File 300: 555 ####
+#移動
+Move
+###### End ######
+
+#### File 301: 556 ####
+#再移動
+Canto
+###### End ######
+
+#### File 302: 557 ####
+#攻撃
+Attack
+###### End ######
+
+#### File 303: 558 ####
+Double-Shot
+###### End ######
+
+#### File 304: 559 ####
+#神聖魔法
+Light
+###### End ######
+
+#### File 305: 560 ####
+#暗黒魔法
+Dark
+###### End ######
+
+#### File 306: 561 ####
+#アイテム
+Item
+###### End ######
+
+#### File 307: 562 ####
+#会話
+Talk
+###### End ######
+
+#### File 308: 563 ####
+#馬入手
+Take Horse
+###### End ######
+
+#### File 309: 564 ####
+#馬捕獲
+Capture Horse
+###### End ######
+
+#### File 310: 565 ####
+#制圧
+Seize
+###### End ######
+
+#### File 311: 566 ####
+#門攻撃
+Break Gate
+###### End ######
+
+#### File 312: 567 ####
+#カギ
+Unlock
+###### End ######
+
+#### File 313: 568 ####
+#Treasure Chest
+Chest
+###### End ######
+
+#### File 314: 569 ####
+#開ける
+Open
+###### End ######
+
+#### File 315: 570 ####
+#閉じる
+Close
+###### End ######
+
+#### File 316: 571 ####
+#探索
+Search
+###### End ######
+
+#### File 317: 572 ####
+#？？？
+Investigate
+###### End ######
+
+#### File 318: 573 ####
+#到着
+Arrive
+###### End ######
+
+#### File 319: 574 ####
+#スタック
+Stack
+###### End ######
+
+#### File 320: 575 ####
+#スタック分離
+Unstack
+###### End ######
+
+#### File 321: 576 ####
+#救出
+Rescue
+###### End ######
+
+#### File 322: 577 ####
+#捕縛
+Capture
+###### End ######
+
+#### File 323: 578 ####
+#騎乗
+Mount
+###### End ######
+
+#### File 324: 579 ####
+#下馬
+Dismount
+###### End ######
+
+#### File 325: 580 ####
+#武器屋
+Armory
+###### End ######
+
+#### File 326: 581 ####
+#道具屋
+Vendor
+###### End ######
+
+#### File 327: 582 ####
+#闘技場
+Arena
+###### End ######
+
+#### File 328: 583 ####
+#商店
+Shop
+###### End ######
+
+#### File 329: 584 ####
+#村の雑貨屋
+Sundries
+###### End ######
+
+#### File 330: 585 ####
+#宿屋
+Inn
+###### End ######
+
+#### File 331: 586 ####
+#剣と短剣の店
+Swd/Knf Shop
+###### End ######
+
+#### File 332: 587 ####
+#槍と斧の店
+Spr/Axe Shop
+###### End ######
+
+#### File 333: 588 ####
+#弓と矢の店
+Bow/Arw Shop
+###### End ######
+
+#### File 334: 589 ####
+#盾と薬の店
+Shd/Item Shop
+###### End ######
+
+#### File 335: 590 ####
+#魔法の店
+Magic Shop
+###### End ######
+
+#### File 336: 591 ####
+#素材の店
+Material Shop
+###### End ######
+
+#### File 337: 592 ####
+#武器の店
+Weapon Shop
+###### End ######
+
+#### File 338: 593 ####
+#薬の店
+Item Shop
+###### End ######
+
+#### File 339: 594 ####
+#命令
+Command
+###### End ######
+
+#### File 340: 595 ####
+#戦闘アニメ
+Battle Anim.
+###### End ######
+
+#### File 341: 596 ####
+#挑発
+Provoke
+###### End ######
+
+#### File 342: 597 ####
+#護衛
+Guard
+###### End ######
+
+#### File 343: 598 ####
+#護衛解除
+End Guard
+###### End ######
+
+#### File 344: 599 ####
+#盗む
+Steal
+###### End ######
+
+#### File 345: 600 ####
+#伏せる
+Hide
+###### End ######
+
+#### File 346: 601 ####
+#伏せる解除
+Unhide
+###### End ######
+
+#### File 347: 602 ####
+#全力回避
+Evasion
+###### End ######
+
+#### File 348: 603 ####
+#気合
+Battle Cry
+###### End ######
+
+#### File 349: 604 ####
+#必殺
+Sunder
+###### End ######
+
+#### File 350: 605 ####
+#強弓
+Deadeye
+###### End ######
+
+#### File 351: 606 ####
+#狙撃
+Aim
+###### End ######
+
+#### File 352: 607 ####
+#投擲
+Throw
+###### End ######
+
+#### File 353: 608 ####
+#橋開通
+Lower Bridge
+###### End ######
+
+#### File 354: 609 ####
+#橋遮断
+Raise Bridge
+###### End ######
+
+#### File 355: 610 ####
+#回頭
+Turn
+###### End ######
+
+#### File 356: 611 ####
+#離脱
+Withdraw
+###### End ######
+
+#### File 357: 612 ####
+#退却
+Retreat
+###### End ######
+
+#### File 358: 613 ####
+#降りる
+Descend
+###### End ######
+
+#### File 359: 614 ####
+#上がる
+Ascend
+###### End ######
+
+#### File 360: 615 ####
+#合成ギルド
+Synth. Guild
+###### End ######
+
+#### File 361: 616 ####
+#探索
+Search
+###### End ######
+
+#### File 362: 617 ####
+Deathmatch
+###### End ######
+
+#### File 363: 618 ####
+Rush
+###### End ######
+
+#### File 364: 619 ####
+Rescue
+###### End ######
+
+#### File 365: 620 ####
+Overwatch
+###### End ######
+
+#### File 366: 621 ####
+Name Bag
+###### End ######
+
+#### File 367: 622 ####
+Synthesize
+###### End ######
+
+#### File 368: 623 ####
+Mercy
+###### End ######
+
+#### File 369: 624 ####
+Triple-Shot
+###### End ######
+
+#### File 370: 625 ####
+One-Two
+###### End ######
+
+#### File 371: 626 ####
+Hurry
+###### End ######
+
+#### File 372: 627 ####
+Emergency Repair
+###### End ######
+
+#### File 373: 628 ####
+Astra
+###### End ######
+
+#### File 374: 629 ####
+Axe Guard
+###### End ######
+
+#### File 375: 630 ####
+Pulverize
+###### End ######
+
+#### File 376: 631 ####
+Focus Chant
+###### End ######
+
+#### File 377: 632 ####
+Sing
+###### End ######
+
+#### File 378: 633 ####
+Swap Horse
+###### End ######
+
+#### File 379: 634 ####
+Intimidate
+###### End ######
+
+#### File 380: 635 ####
+Windsweep
+###### End ######
+
+#### File 381: 636 ####
+Desperation
+###### End ######
+
+#### File 382: 637 ####
+Flourish
+###### End ######
+
+#### File 383: 638 ####
+Imbue
+###### End ######
+
+#### File 384: 639 ####
+Mind's Eye
+###### End ######
+
+#### File 385: 640 ####
+Silence
+###### End ######
+
+#### File 386: 641 ####
+Maim
+###### End ######
+
+#### File 387: 642 ####
+#帰還#Owen's 
+Return
+###### End ######
+
+#### File 388: 643 ####
+#Convert to Raze
+Convert
+###### End ######
+
+#### File 389: 644 ####
+#Convert to Veria
+Convert
+###### End ######
+
+#### File 390: 645 ####
+Command: Assault
+###### End ######
+
+#### File 391: 646 ####
+Command: Target
+###### End ######
+
+#### File 392: 647 ####
+Command: Gather
+###### End ######
+
+#### File 393: 648 ####
+Command: Wait
+###### End ######
+
+#### File 394: 649 ####
+Equip
+###### End ######
+
+#### File 395: 650 ####
+Shield
+###### End ######
+
+#### File 396: 651 ####
+Trade
+###### End ######
+
+#### File 397: 652 ####
+Convoy
+###### End ######
+
+#### File 398: 653 ####
+Rescue Unit
+###### End ######
+
+#### File 399: 654 ####
+Capture Unit
+###### End ######
+
+#### File 400: 655 ####
+Discard
+###### End ######
+
+#### File 401: 656 ####
+Use
+###### End ######
+
+#### File 402: 657 ####
+#put in bag or toss
+Organize
+###### End ######
+
+#### File 403: 658 ####
+#Hand Over
+Give
+###### End ######
+
+#### File 404: 659 ####
+Equip
+###### End ######
+
+#### File 405: 660 ####
+Use
+###### End ######
+
+#### File 406: 661 ####
+Trade
+###### End ######
+
+#### File 407: 662 ####
+Toss
+###### End ######
+
+#### File 408: 663 ####
+Unequip
+###### End ######
+
+#### File 409: 664 ####
+Combine
+###### End ######
+
+#### File 410: 665 ####
+Sort
+###### End ######
+
+#### File 411: 666 ####
+Unit Info
+###### End ######
+
+#### File 412: 667 ####
+Put in Bag
+###### End ######
+
+#### File 413: 668 ####
+Take from Bag
+###### End ######
+
+#### File 414: 669 ####
+Look in Bag
+###### End ######
+
+#### File 415: 670 ####
+Open Bag
+###### End ######
+
+#### File 416: 671 ####
+Rename Bag
+###### End ######
+
+#### File 417: 672 ####
+Take
+###### End ######
+
+#### File 418: 673 ####
+To Convoy
+###### End ######
+
+#### File 419: 674 ####
+Continue
+###### End ######
+
+#### File 420: 675 ####
+Finish
+###### End ######
+
+#### File 421: 676 ####
+Put into Bag
+###### End ######
+
+#### File 422: 677 ####
+Switch
+###### End ######
+
+#### File 423: 678 ####
+#マップ戦闘
+Map Battle
+###### End ######
+
+#### File 424: 679 ####
+#コンフィグ
+Config
+###### End ######
+
+#### File 425: 680 ####
+#始めからやり直す
+Restart from the beginning.
+###### End ######
+
+#### File 426: 681 ####
+#データをロードする
+Load save data.
+###### End ######
+
+#### File 427: 682 ####
+#タイトルヘ戻る
+Return to title.
+###### End ######
+
+#### File 428: 683 ####
+#撤退する
+Withdraw
+###### End ######
+
+#### File 429: 684 ####
+#編成
+Formation
+###### End ######
+
+#### File 430: 685 ####
+#アイテム
+Item
+###### End ######
+
+#### File 431: 686 ####
+#出撃
+Deploy
+###### End ######
+
+#### File 432: 687 ####
+#倉庫
+Storehouse
+###### End ######
+
+#### File 433: 688 ####
+#アイテム一覧
+Item List
+###### End ######
+
+#### File 434: 689 ####
+#交換
+Trade
+###### End ######
+
+#### File 435: 690 ####
+#使用
+Use
+###### End ######
+
+#### File 436: 691 ####
+#整理#Organize
+Organize Items
+###### End ######
+
+#### File 437: 692 ####
+#装備変更#Equip Item
+Equip
+###### End ######
+
+#### File 438: 693 ####
+#隊列変更#Change Formation
+Reorder Unit
+###### End ######
+
+#### File 439: 694 ####
+#出撃選択
+Make Active
+###### End ######
+
+#### File 440: 695 ####
+#出撃解除
+Make Inactive
+###### End ######
+
+#### File 441: 696 ####
+#ユニット選択
+Unit Select
+###### End ######
+
+#### File 442: 697 ####
+#整理#Organize
+Organize1
+###### End ######
+
+#### File 443: 698 ####
+#セーブ
+Save
+###### End ######
+
+#### File 444: 699 ####
+#部隊出撃
+Active Team
+###### End ######
+
+#### File 445: 700 ####
+#預けた素材を取り戻す
+Reclaim deposited materials.
+###### End ######
+
+#### File 446: 701 ####
+#素材を預けておく
+Leave materials.
+###### End ######
+
+#### File 447: 702 ####
+#アイテムを合成する
+Combine items.
+###### End ######
+
+#### File 448: 703 ####
+#へルプ
+Help
+###### End ######
+
+#### File 449: 704 ####
+#システム
+System
+###### End ######
+
+#### File 450: 705 ####
+#データ
+Data
+###### End ######
+
+#### File 451: 706 ####
+#ターン終了
+End Turn
+###### End ######
+
+#### File 452: 707 ####
+#マップ
+Map
+###### End ######
+
+#### File 453: 708 ####
+#作戦内容
+Strategy Info
+###### End ######
+
+#### File 454: 709 ####
+#拠点
+Position
+###### End ######
+
+#### File 455: 710 ####
+#軍団
+Army
+###### End ######
+
+#### File 456: 711 ####
+#住民
+Citizen
+###### End ######
+
+#### File 457: 712 ####
+#レポート
+Report
+###### End ######
+
+#### File 458: 713 ####
+#設定
+Settings
+###### End ######
+
+#### File 459: 714 ####
+#ロード
+Load
+###### End ######
+
+#### File 460: 715 ####
+#セーブ
+Save
+###### End ######
+
+#### File 461: 716 ####
+#軍団
+Army
+###### End ######
+
+#### File 462: 717 ####
+#密偵
+Spy
+###### End ######
+
+#### File 463: 718 ####
+#住民
+Citizen
+###### End ######
+
+#### File 464: 719 ####
+#地形
+Terrain
+###### End ######
+
+#### File 465: 720 ####
+#編成
+Formation
+###### End ######
+
+#### File 466: 721 ####
+#移動
+Movement
+###### End ######
+
+#### File 467: 722 ####
+#人名
+Name
+###### End ######
+
+#### File 468: 723 ####
+#戦史
+Records
+###### End ######
+
+#### File 469: 724 ####
+#イベント
+Event
+###### End ######
+
+#### File 470: 725 ####
+#用語
+Terminology
+###### End ######
+
+#### File 471: 726 ####
+#アイテム
+Item
+###### End ######
+
+#### File 472: 727 ####
+#ウェイト設定
+Wait Config
+###### End ######
+
+#### File 473: 728 ####
+#スキップ
+Skip
+###### End ######
+
+#### File 474: 729 ####
+#再開
+Reopen
+###### End ######
+
+#### File 475: 730 ####
+#売りたい
+I want to sell.
+###### End ######
+
+#### File 476: 731 ####
+#買いたい
+I want to buy.
+###### End ######
+
+#### File 477: 732 ####
+#フォーマット
+Format
+###### End ######
+
+#### File 478: 733 ####
+#インストール
+Install
+###### End ######
+
+#### File 479: 734 ####
+#全体マップ設定
+Overall Map Config
+###### End ######
+
+#### File 480: 735 ####
+#戦術マップ設定
+Battle Map Config
+###### End ######
+
+#### File 481: 736 ####
+#ゲームスピード
+Game Speed
+###### End ######
+
+#### File 482: 737 ####
+#サウンド設定
+Sound Config
+###### End ######
+
+#### File 483: 738 ####
+#その他の設定
+Other Config
+###### End ######
+
+#### File 484: 739 ####
+#デバッグ用
+DEBUG
+###### End ######
+
+#### File 485: 740 ####
+#初期設定に戻す
+Restore Default Settings
+###### End ######
+
+#### File 486: 741 ####
+#キャンセル
+Cancel
+###### End ######
+
+#### File 487: 742 ####
+#拒否する
+Refuse
+###### End ######
+
+#### File 488: 743 ####
+#受諾する
+Accept
+###### End ######
+
+#### File 489: 744 ####
+#資金が不足しています
+We are short on funds.
+###### End ######
+
+#### File 490: 745 ####
+Finish editing formation.
+###### End ######
+
+#### File 491: 746 ####
+Continue editing formation.
+###### End ######
+
+#### File 492: 747 ####
+Cancel deployment.
+###### End ######
+
+#### File 493: 748 ####
+Synthesize Items
+###### End ######
+
+#### File 494: 749 ####
+Buy Items
+###### End ######
+
+#### File 495: 750 ####
+Sell Items
+###### End ######
+
+#### File 496: 751 ####
+Unit Info
+###### End ######
+
+#### File 497: 752 ####
+Synthesis Hint
+###### End ######
+
+#### File 498: 753 ####
+To Next Unit
+###### End ######
+
+#### File 499: 754 ####
+To Previous Unit
+###### End ######
+
+#### File 500: 755 ####
+Leave Guild
+###### End ######
+
+#### File 501: 756 ####
+Movement Test
+###### End ######
+
+#### File 502: 757 ####
+#手槍
+Hand-Spear
+###### End ######
+
+#### File 503: 758 ####
+#手斧
+Hand-Axe
+###### End ######
+
+#### File 504: 759 ####
+#両手斧
+Two-Hand-Axe
+###### End ######
+
+#### File 505: 760 ####
+#弓矢
+Bow and Arrow
+###### End ######
+
+#### File 506: 761 ####
+#ボウガン
+Bowgun
+###### End ######
+
+#### File 507: 762 ####
+#黒オーブ
+Black Orb
+###### End ######
+
+#### File 508: 763 ####
+#白オーブ
+White Orb
+###### End ######
+
+#### File 509: 764 ####
+#終了
+End
+###### End ######
+
+#### File 510: 765 ####
+#新規作成
+Create New
+###### End ######
+
+#### File 511: 766 ####
+#ロード
+Load
+###### End ######
+
+#### File 512: 767 ####
+#セーブ
+Save
+###### End ######
+
+#### File 513: 768 ####
+#エクスポート
+Export
+###### End ######
+
+#### File 514: 769 ####
+#終了
+End
+###### End ######
+
+#### File 515: 770 ####
+#アンドゥ
+Undo
+###### End ######
+
+#### File 516: 771 ####
+#セット
+Set
+###### End ######
+
+#### File 517: 772 ####
+#ペイント
+Paint
+###### End ######
+
+#### File 518: 773 ####
+#コピー
+Copy
+###### End ######
+
+#### File 519: 774 ####
+#カット
+Cut
+###### End ######
+
+#### File 520: 775 ####
+#ペースト
+Paste
+###### End ######
+
+#### File 521: 776 ####
+#描画サイズ小
+Image Size S
+###### End ######
+
+#### File 522: 777 ####
+#描画サイズ中
+Image Size M
+###### End ######
+
+#### File 523: 778 ####
+#描画サイズ大
+Image Size L
+###### End ######
+
+#### File 524: 779 ####
+#倍率２５％
+25% Scale
+###### End ######
+
+#### File 525: 780 ####
+#倍率５０％
+50% Scale
+###### End ######
+
+#### File 526: 781 ####
+#倍率７５％
+75% Scale
+###### End ######
+
+#### File 527: 782 ####
+#倍率１００％
+100% Scale
+###### End ######
+
+#### File 528: 783 ####
+#地形編集
+Edit Terrain
+###### End ######
+
+#### File 529: 784 ####
+#ＰＬユニット配置
+Arrange Player Units
+###### End ######
+
+#### File 530: 785 ####
+#敵ユニット配置
+Arrange Enemy Units
+###### End ######
+
+#### File 531: 786 ####
+#ＮＰＣユニット配置
+Arrange Friendly Units
+###### End ######
+
+#### File 532: 787 ####
+#中立ユニット配置
+Arrange Neutral Units
+###### End ######
+
+#### File 533: 788 ####
+#移動
+Movement
+###### End ######
+
+#### File 534: 789 ####
+#削除
+Delete
+###### End ######
+
+#### File 535: 790 ####
+#未使用
+De-Use
+###### End ######
+
+#### File 536: 791 ####
+#再使用
+Re-Use
+###### End ######
+
+#### File 537: 792 ####
+#話す
+Talk
+###### End ######
+
+#### File 538: 793 ####
+#調べる
+Investigate
+###### End ######
+
+#### File 539: 794 ####
+#マップヘ
+To Map
+###### End ######
+
+#### File 540: 795 ####
+#部隊情報
+Army Info
+###### End ######
+
+#### File 541: 796 ####
+#状況確認
+#Check Status
+Info Lists
+###### End ######
+
+#### File 542: 797 ####
+#編集
+Edit
+###### End ######
+
+#### File 543: 798 ####
+#設定
+Settings
+###### End ######
+
+#### File 544: 799 ####
+#出撃準備
+#Battle Preparations
+Battle Party
+###### End ######
+
+#### File 545: 800 ####
+#自室に戻る
+Return to Office
+###### End ######
+
+#### File 546: 801 ####
+#外出する
+Depart Office
+###### End ######
+
+#### File 547: 802 ####
+#携帯袋を置く
+Place Bag
+###### End ######
+
+#### File 548: 803 ####
+#袋名変更
+Rename Bag
+###### End ######
+
+#### File 549: 804 ####
+#アイテム入替
+Move Items
+###### End ######
+
+#### File 550: 805 ####
+#携帯袋を持つ
+Take Bag
+###### End ######
+
+#### File 551: 806 ####
+#マップ初期化
+Initialize Map
+###### End ######
+
+#### File 552: 807 ####
+#エディット終了
+Finish Edit
+###### End ######
+
+#### File 553: 808 ####
+#サイズ変更
+Change Size
+###### End ######
+
+#### File 554: 809 ####
+#アトリビュート
+Attribute
+###### End ######
+
+#### File 555: 810 ####
+#街地面パーツ１
+Town Parts 1
+###### End ######
+
+#### File 556: 811 ####
+#街地面パーツ２
+Town Parts 2
+###### End ######
+
+#### File 557: 812 ####
+#屋内パーツ１
+Indoor Parts 1
+###### End ######
+
+#### File 558: 813 ####
+#屋内パーツ２
+Indoor Parts 2
+###### End ######
+
+#### File 559: 814 ####
+#屋外小物
+Outdoor Accessory
+###### End ######
+
+#### File 560: 815 ####
+#屋内小物
+Indoor Accessory
+###### End ######
+
+#### File 561: 816 ####
+#建物１
+Building 1
+###### End ######
+
+#### File 562: 817 ####
+#建物２
+Building 2
+###### End ######
+
+#### File 563: 818 ####
+#エフェクト
+Effect
+###### End ######
+
+#### File 564: 819 ####
+#スクリプトテスト
+Script Test
+###### End ######
+
+#### File 565: 820 ####
+#スクリプトテスト
+Script Test
+###### End ######
+
+#### File 566: 821 ####
+#戦闘テスト
+Battle Test
+###### End ######
+
+#### File 567: 822 ####
+#魔法テスト
+Magic Test
+###### End ######
+
+#### File 568: 823 ####
+#エフェクト
+Effect
+###### End ######
+
+#### File 569: 824 ####
+#最初から
+From Start
+###### End ######
+
+#### File 570: 825 ####
+#魔法のみ
+Magic Only
+###### End ######
+
+#### File 571: 826 ####
+#現ユニットから
+From Current Units
+###### End ######
+
+#### File 572: 827 ####
+#杖
+Staff
+###### End ######
+
+#### File 573: 828 ####
+#パレットチェック
+Palette Check
+###### End ######
+
+#### File 574: 829 ####
+#ランダムチェック
+Random Check
+###### End ######
+
+#### File 575: 830 ####
+#スキルのみ変更チェック
+Skill-Only Change Check
+###### End ######
+
+#### File 576: 831 ####
+#現設定のみ
+Current Settings Only
+###### End ######
+
