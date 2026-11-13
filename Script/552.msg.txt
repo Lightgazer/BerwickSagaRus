@@ -1,0 +1,11886 @@
+#### File 5: un001 ####
+Gladiator
+###### End ######
+
+#### File 6: un002 ####
+A01
+###### End ######
+
+#### File 7: un003 ####
+A02
+###### End ######
+
+#### File 8: un004 ####
+A03
+###### End ######
+
+#### File 9: un005 ####
+A04
+###### End ######
+
+#### File 10: un006 ####
+A05
+###### End ######
+
+#### File 11: un007 ####
+A06
+###### End ######
+
+#### File 12: un008 ####
+A07
+###### End ######
+
+#### File 13: un009 ####
+A08
+###### End ######
+
+#### File 14: un010 ####
+A09
+###### End ######
+
+#### File 15: un011 ####
+A10
+###### End ######
+
+#### File 16: un012 ####
+A11
+###### End ######
+
+#### File 17: un013 ####
+A12
+###### End ######
+
+#### File 18: un014 ####
+A13
+###### End ######
+
+#### File 19: un015 ####
+A14
+###### End ######
+
+#### File 20: un016 ####
+A15
+###### End ######
+
+#### File 21: un017 ####
+A16
+###### End ######
+
+#### File 22: un018 ####
+A17
+###### End ######
+
+#### File 23: un019 ####
+A18
+###### End ######
+
+#### File 24: un020 ####
+A19
+###### End ######
+
+#### File 25: un021 ####
+A20
+###### End ######
+
+#### File 26: un022 ####
+A21
+###### End ######
+
+#### File 27: un023 ####
+A22
+###### End ######
+
+#### File 28: un024 ####
+A23
+###### End ######
+
+#### File 29: un025 ####
+A24
+###### End ######
+
+#### File 30: un026 ####
+A25
+###### End ######
+
+#### File 31: un027 ####
+A26
+###### End ######
+
+#### File 32: un028 ####
+A27
+###### End ######
+
+#### File 33: un029 ####
+A28
+###### End ######
+
+#### File 34: un030 ####
+A29
+###### End ######
+
+#### File 35: un031 ####
+A30
+###### End ######
+
+#### File 36: un032 ####
+A31
+###### End ######
+
+#### File 37: un033 ####
+A32
+###### End ######
+
+#### File 38: un034 ####
+A33
+###### End ######
+
+#### File 39: un035 ####
+A34
+###### End ######
+
+#### File 40: un036 ####
+A35
+###### End ######
+
+#### File 41: un037 ####
+A36
+###### End ######
+
+#### File 42: un038 ####
+A37
+###### End ######
+
+#### File 43: un039 ####
+A38
+###### End ######
+
+#### File 44: un040 ####
+A39
+###### End ######
+
+#### File 45: un041 ####
+A40
+###### End ######
+
+#### File 46: un042 ####
+Gate
+###### End ######
+
+#### File 47: un043 ####
+Gate
+###### End ######
+
+#### File 48: un044 ####
+Gate
+###### End ######
+
+#### File 49: un045 ####
+Gate
+###### End ######
+
+#### File 50: un046 ####
+Gate
+###### End ######
+
+#### File 51: un047 ####
+Gate
+###### End ######
+
+#### File 52: un048 ####
+Gate
+###### End ######
+
+#### File 53: un049 ####
+Gate
+###### End ######
+
+#### File 54: un050 ####
+Gate
+###### End ######
+
+#### File 55: un051 ####
+Gate
+###### End ######
+
+#### File 56: un052 ####
+Castle Wall
+###### End ######
+
+#### File 57: un053 ####
+Castle Wall
+###### End ######
+
+#### File 58: un054 ####
+Castle Wall
+###### End ######
+
+#### File 59: un055 ####
+Castle Wall
+###### End ######
+
+#### File 60: un056 ####
+Castle Wall
+###### End ######
+
+#### File 61: un057 ####
+Castle Wall
+###### End ######
+
+#### File 62: un058 ####
+Castle Wall
+###### End ######
+
+#### File 63: un059 ####
+Castle Wall
+###### End ######
+
+#### File 64: un060 ####
+Castle Wall
+###### End ######
+
+#### File 65: un061 ####
+Castle Wall
+###### End ######
+
+#### File 66: un062 ####
+Door
+###### End ######
+
+#### File 67: un063 ####
+Door
+###### End ######
+
+#### File 68: un064 ####
+Door
+###### End ######
+
+#### File 69: un065 ####
+Door
+###### End ######
+
+#### File 70: un066 ####
+Door
+###### End ######
+
+#### File 71: un067 ####
+Door
+###### End ######
+
+#### File 72: un068 ####
+Door
+###### End ######
+
+#### File 73: un069 ####
+Door
+###### End ######
+
+#### File 74: un070 ####
+Door
+###### End ######
+
+#### File 75: un071 ####
+Door
+###### End ######
+
+#### File 76: un072 ####
+EX
+###### End ######
+
+#### File 77: un073 ####
+EX
+###### End ######
+
+#### File 78: un074 ####
+EX
+###### End ######
+
+#### File 79: un075 ####
+EX
+###### End ######
+
+#### File 80: un076 ####
+EX
+###### End ######
+
+#### File 81: un077 ####
+EX
+###### End ######
+
+#### File 82: un078 ####
+EX
+###### End ######
+
+#### File 83: un079 ####
+EX
+###### End ######
+
+#### File 84: un080 ####
+EX
+###### End ######
+
+#### File 85: un081 ####
+EX
+###### End ######
+
+#### File 86: un082 ####
+EX
+###### End ######
+
+#### File 87: un083 ####
+Reese
+###### End ######
+
+#### File 88: un084 ####
+Ward
+###### End ######
+
+#### File 89: un085 ####
+Elbert
+###### End ######
+
+#### File 90: un086 ####
+Marcel
+###### End ######
+
+#### File 91: un087 ####
+Adel
+###### End ######
+
+#### File 92: un088 ####
+Leon
+###### End ######
+
+#### File 93: un089 ####
+Sherlock
+###### End ######
+
+#### File 94: un090 ####
+Esteban
+###### End ######
+
+#### File 95: un091 ####
+EX
+###### End ######
+
+#### File 96: un092 ####
+EX
+###### End ######
+
+#### File 97: un093 ####
+EX
+###### End ######
+
+#### File 98: un094 ####
+EX
+###### End ######
+
+#### File 99: un095 ####
+EX
+###### End ######
+
+#### File 100: un096 ####
+Arthur
+###### End ######
+
+#### File 101: un097 ####
+Daoud
+###### End ######
+
+#### File 102: un098 ####
+Burroughs
+###### End ######
+
+#### File 103: un099 ####
+Paramythis
+###### End ######
+
+#### File 104: un100 ####
+EX
+###### End ######
+
+#### File 105: un101 ####
+EX
+###### End ######
+
+#### File 106: un102 ####
+EX
+###### End ######
+
+#### File 107: un103 ####
+EX
+###### End ######
+
+#### File 108: un104 ####
+EX
+###### End ######
+
+#### File 109: un105 ####
+EX
+###### End ######
+
+#### File 110: un106 ####
+EX
+###### End ######
+
+#### File 111: un107 ####
+EX
+###### End ######
+
+#### File 112: un108 ####
+EX
+###### End ######
+
+#### File 113: un109 ####
+Dean
+###### End ######
+
+#### File 114: un110 ####
+Sherpa
+###### End ######
+
+#### File 115: un111 ####
+Faramir
+###### End ######
+
+#### File 116: un112 ####
+EX
+###### End ######
+
+#### File 117: un113 ####
+Perceval
+###### End ######
+
+#### File 118: un114 ####
+EX
+###### End ######
+
+#### File 119: un115 ####
+EX
+###### End ######
+
+#### File 120: un116 ####
+Derrick
+###### End ######
+
+#### File 121: un117 ####
+EX
+###### End ######
+
+#### File 122: un118 ####
+EX
+###### End ######
+
+#### File 123: un119 ####
+EX
+###### End ######
+
+#### File 124: un120 ####
+EX
+###### End ######
+
+#### File 125: un121 ####
+EX
+###### End ######
+
+#### File 126: un122 ####
+EX
+###### End ######
+
+#### File 127: un123 ####
+EX
+###### End ######
+
+#### File 128: un124 ####
+Christine
+###### End ######
+
+#### File 129: un125 ####
+Lynette
+###### End ######
+
+#### File 130: un126 ####
+Sylvis
+###### End ######
+
+#### File 131: un127 ####
+Aegina
+###### End ######
+
+#### File 132: un128 ####
+Alvina
+###### End ######
+
+#### File 133: un129 ####
+Faye
+###### End ######
+
+#### File 134: un130 ####
+Czene
+###### End ######
+
+#### File 135: un131 ####
+Izerna
+###### End ######
+
+#### File 136: un132 ####
+Enid
+###### End ######
+
+#### File 137: un133 ####
+Larentia
+###### End ######
+
+#### File 138: un134 ####
+Ruby
+###### End ######
+
+#### File 139: un135 ####
+Saphira
+###### End ######
+
+#### File 140: un136 ####
+May
+###### End ######
+
+#### File 141: un137 ####
+Sienna
+###### End ######
+
+#### File 142: un138 ####
+EX
+###### End ######
+
+#### File 143: un139 ####
+EX
+###### End ######
+
+#### File 144: un140 ####
+EX
+###### End ######
+
+#### File 145: un141 ####
+EX
+###### End ######
+
+#### File 146: un142 ####
+EX
+###### End ######
+
+#### File 147: un143 ####
+EX
+###### End ######
+
+#### File 148: un144 ####
+Volo
+###### End ######
+
+#### File 149: un145 ####
+EX
+###### End ######
+
+#### File 150: un146 ####
+EX
+###### End ######
+
+#### File 151: un147 ####
+Axel
+###### End ######
+
+#### File 152: un148 ####
+EX
+###### End ######
+
+#### File 153: un149 ####
+Kramer
+###### End ######
+
+#### File 154: un150 ####
+Owen
+###### End ######
+
+#### File 155: un151 ####
+EX
+###### End ######
+
+#### File 156: un152 ####
+Clifford
+###### End ######
+
+#### File 157: un153 ####
+Thaddy
+###### End ######
+
+#### File 158: un154 ####
+EX
+###### End ######
+
+#### File 159: un155 ####
+EX
+###### End ######
+
+#### File 160: un156 ####
+EX
+###### End ######
+
+#### File 161: un157 ####
+EX
+###### End ######
+
+#### File 162: un158 ####
+EX
+###### End ######
+
+#### File 163: un159 ####
+EX
+###### End ######
+
+#### File 164: un160 ####
+EX
+###### End ######
+
+#### File 165: un161 ####
+EX
+###### End ######
+
+#### File 166: un162 ####
+EX
+###### End ######
+
+#### File 167: un163 ####
+EX
+###### End ######
+
+#### File 168: un164 ####
+EX
+###### End ######
+
+#### File 169: un165 ####
+EX
+###### End ######
+
+#### File 170: un166 ####
+EX
+###### End ######
+
+#### File 171: un167 ####
+EX
+###### End ######
+
+#### File 172: un168 ####
+EX
+###### End ######
+
+#### File 173: un169 ####
+EX
+###### End ######
+
+#### File 174: un170 ####
+EX
+###### End ######
+
+#### File 175: un171 ####
+EX
+###### End ######
+
+#### File 176: un172 ####
+EX
+###### End ######
+
+#### File 177: un173 ####
+EX
+###### End ######
+
+#### File 178: un174 ####
+EX
+###### End ######
+
+#### File 179: un175 ####
+EX
+###### End ######
+
+#### File 180: un176 ####
+EX
+###### End ######
+
+#### File 181: un177 ####
+EX
+###### End ######
+
+#### File 182: un178 ####
+EX
+###### End ######
+
+#### File 183: un179 ####
+EX
+###### End ######
+
+#### File 184: un180 ####
+EX
+###### End ######
+
+#### File 185: un181 ####
+EX
+###### End ######
+
+#### File 186: un182 ####
+EX
+###### End ######
+
+#### File 187: un183 ####
+EX
+###### End ######
+
+#### File 188: un184 ####
+EX
+###### End ######
+
+#### File 189: un185 ####
+EX
+###### End ######
+
+#### File 190: un186 ####
+EX
+###### End ######
+
+#### File 191: un187 ####
+EX
+###### End ######
+
+#### File 192: un188 ####
+EX
+###### End ######
+
+#### File 193: un189 ####
+EX
+###### End ######
+
+#### File 194: un190 ####
+EX
+###### End ######
+
+#### File 195: un191 ####
+EX
+###### End ######
+
+#### File 196: un192 ####
+EX
+###### End ######
+
+#### File 197: un193 ####
+EX
+###### End ######
+
+#### File 198: un194 ####
+EX
+###### End ######
+
+#### File 199: un195 ####
+EX
+###### End ######
+
+#### File 200: un196 ####
+EX
+###### End ######
+
+#### File 201: un197 ####
+EX
+###### End ######
+
+#### File 202: un198 ####
+EX
+###### End ######
+
+#### File 203: un199 ####
+EX
+###### End ######
+
+#### File 204: un200 ####
+EX
+###### End ######
+
+#### File 205: un201 ####
+EX
+###### End ######
+
+#### File 206: un202 ####
+EX
+###### End ######
+
+#### File 207: un203 ####
+EX
+###### End ######
+
+#### File 208: un204 ####
+EX
+###### End ######
+
+#### File 209: un205 ####
+EX
+###### End ######
+
+#### File 210: un206 ####
+EX
+###### End ######
+
+#### File 211: un207 ####
+EX
+###### End ######
+
+#### File 212: un208 ####
+EX
+###### End ######
+
+#### File 213: un209 ####
+EX
+###### End ######
+
+#### File 214: un210 ####
+EX
+###### End ######
+
+#### File 215: un211 ####
+EX
+###### End ######
+
+#### File 216: un212 ####
+EX
+###### End ######
+
+#### File 217: un213 ####
+EX
+###### End ######
+
+#### File 218: un214 ####
+EX
+###### End ######
+
+#### File 219: un215 ####
+EX
+###### End ######
+
+#### File 220: un216 ####
+EX
+###### End ######
+
+#### File 221: un217 ####
+EX
+###### End ######
+
+#### File 222: un218 ####
+EX
+###### End ######
+
+#### File 223: un219 ####
+EX
+###### End ######
+
+#### File 224: un220 ####
+EX
+###### End ######
+
+#### File 225: un221 ####
+EX
+###### End ######
+
+#### File 226: un222 ####
+EX
+###### End ######
+
+#### File 227: un223 ####
+EX
+###### End ######
+
+#### File 228: un224 ####
+EX
+###### End ######
+
+#### File 229: un225 ####
+EX
+###### End ######
+
+#### File 230: un226 ####
+P01
+###### End ######
+
+#### File 231: un227 ####
+P02
+###### End ######
+
+#### File 232: un228 ####
+P03
+###### End ######
+
+#### File 233: un229 ####
+P04
+###### End ######
+
+#### File 234: un230 ####
+P05
+###### End ######
+
+#### File 235: un231 ####
+P06
+###### End ######
+
+#### File 236: un232 ####
+P07
+###### End ######
+
+#### File 237: un233 ####
+P08
+###### End ######
+
+#### File 238: un234 ####
+P09
+###### End ######
+
+#### File 239: un235 ####
+P10
+###### End ######
+
+#### File 240: un236 ####
+EX
+###### End ######
+
+#### File 241: un237 ####
+EX
+###### End ######
+
+#### File 242: un238 ####
+EX
+###### End ######
+
+#### File 243: un239 ####
+EX
+###### End ######
+
+#### File 244: un240 ####
+EX
+###### End ######
+
+#### File 245: un241 ####
+EX
+###### End ######
+
+#### File 246: un242 ####
+EX
+###### End ######
+
+#### File 247: un243 ####
+EX
+###### End ######
+
+#### File 248: un244 ####
+EX
+###### End ######
+
+#### File 249: un245 ####
+EX
+###### End ######
+
+#### File 250: un246 ####
+EX
+###### End ######
+
+#### File 251: un247 ####
+EX
+###### End ######
+
+#### File 252: un248 ####
+EX
+###### End ######
+
+#### File 253: un249 ####
+EX
+###### End ######
+
+#### File 254: un250 ####
+EX
+###### End ######
+
+#### File 255: un251 ####
+EX
+###### End ######
+
+#### File 256: un252 ####
+EX
+###### End ######
+
+#### File 257: un253 ####
+EX
+###### End ######
+
+#### File 258: un254 ####
+EX
+###### End ######
+
+#### File 259: un255 ####
+EX
+###### End ######
+
+#### File 260: un256 ####
+EX
+###### End ######
+
+#### File 261: un257 ####
+EX
+###### End ######
+
+#### File 262: un258 ####
+EX
+###### End ######
+
+#### File 263: un259 ####
+EX
+###### End ######
+
+#### File 264: un260 ####
+EX
+###### End ######
+
+#### File 265: un261 ####
+EX
+###### End ######
+
+#### File 266: un262 ####
+EX
+###### End ######
+
+#### File 267: un263 ####
+EX
+###### End ######
+
+#### File 268: un264 ####
+EX
+###### End ######
+
+#### File 269: un265 ####
+EX
+###### End ######
+
+#### File 270: un266 ####
+EX
+###### End ######
+
+#### File 271: un267 ####
+EX
+###### End ######
+
+#### File 272: un268 ####
+EX
+###### End ######
+
+#### File 273: un269 ####
+EX
+###### End ######
+
+#### File 274: un270 ####
+EX
+###### End ######
+
+#### File 275: un271 ####
+EX
+###### End ######
+
+#### File 276: un272 ####
+EX
+###### End ######
+
+#### File 277: un273 ####
+EX
+###### End ######
+
+#### File 278: un274 ####
+EX
+###### End ######
+
+#### File 279: un275 ####
+EX
+###### End ######
+
+#### File 280: un276 ####
+EX
+###### End ######
+
+#### File 281: un277 ####
+EX
+###### End ######
+
+#### File 282: un278 ####
+EX
+###### End ######
+
+#### File 283: un279 ####
+EX
+###### End ######
+
+#### File 284: un280 ####
+EX
+###### End ######
+
+#### File 285: un281 ####
+EX
+###### End ######
+
+#### File 286: un282 ####
+EX
+###### End ######
+
+#### File 287: un283 ####
+EX
+###### End ######
+
+#### File 288: un284 ####
+EX
+###### End ######
+
+#### File 289: un285 ####
+EX
+###### End ######
+
+#### File 290: un286 ####
+EX
+###### End ######
+
+#### File 291: un287 ####
+EX
+###### End ######
+
+#### File 292: un288 ####
+EX
+###### End ######
+
+#### File 293: un289 ####
+EX
+###### End ######
+
+#### File 294: un290 ####
+EX
+###### End ######
+
+#### File 295: un291 ####
+EX
+###### End ######
+
+#### File 296: un292 ####
+EX
+###### End ######
+
+#### File 297: un293 ####
+EX
+###### End ######
+
+#### File 298: un294 ####
+EX
+###### End ######
+
+#### File 299: un295 ####
+EX
+###### End ######
+
+#### File 300: un296 ####
+EX
+###### End ######
+
+#### File 301: un297 ####
+EX
+###### End ######
+
+#### File 302: un298 ####
+EX
+###### End ######
+
+#### File 303: un299 ####
+EX
+###### End ######
+
+#### File 304: un300 ####
+EX
+###### End ######
+
+#### File 305: un301 ####
+EX
+###### End ######
+
+#### File 306: un302 ####
+EX
+###### End ######
+
+#### File 307: un303 ####
+EX
+###### End ######
+
+#### File 308: un304 ####
+EX
+###### End ######
+
+#### File 309: un305 ####
+EX
+###### End ######
+
+#### File 310: un306 ####
+Tianna
+###### End ######
+
+#### File 311: un307 ####
+Item Convoy
+###### End ######
+
+#### File 312: un308 ####
+Toss
+###### End ######
+
+#### File 313: un309 ####
+Bag Storage
+###### End ######
+
+#### File 314: un310 ####
+Bag Storage
+###### End ######
+
+#### File 315: un311 ####
+Bag Storage
+###### End ######
+
+#### File 316: un312 ####
+Bag Storage
+###### End ######
+
+#### File 317: un313 ####
+Bag Storage
+###### End ######
+
+#### File 318: un314 ####
+Bag Storage
+###### End ######
+
+#### File 319: un315 ####
+Bag Storage
+###### End ######
+
+#### File 320: un316 ####
+Bag Storage
+###### End ######
+
+#### File 321: un317 ####
+Bag Storage
+###### End ######
+
+#### File 322: un318 ####
+Bag Storage
+###### End ######
+
+#### File 323: un319 ####
+Bag Storage
+###### End ######
+
+#### File 324: un320 ####
+Bag Storage
+###### End ######
+
+#### File 325: un321 ####
+Bag Storage
+###### End ######
+
+#### File 326: un322 ####
+Bag Storage
+###### End ######
+
+#### File 327: un323 ####
+Bag Storage
+###### End ######
+
+#### File 328: un324 ####
+Bag Storage
+###### End ######
+
+#### File 329: un325 ####
+Horse
+###### End ######
+
+#### File 330: un326 ####
+Horse
+###### End ######
+
+#### File 331: un327 ####
+Horse
+###### End ######
+
+#### File 332: un328 ####
+Horse
+###### End ######
+
+#### File 333: un329 ####
+Horse
+###### End ######
+
+#### File 334: un330 ####
+Horse
+###### End ######
+
+#### File 335: un331 ####
+Ziore
+###### End ######
+
+#### File 336: un332 ####
+Lowe
+###### End ######
+
+#### File 337: un333 ####
+Jimusa
+###### End ######
+
+#### File 338: un334 ####
+Qliphoth
+###### End ######
+
+#### File 339: un335 ####
+Vear
+###### End ######
+
+#### File 340: un336 ####
+Luciana
+###### End ######
+
+#### File 341: un337 ####
+Maria
+###### End ######
+
+#### File 342: un338 ####
+EX
+###### End ######
+
+#### File 343: un339 ####
+EX
+###### End ######
+
+#### File 344: un340 ####
+EX
+###### End ######
+
+#### File 345: un341 ####
+Meia
+###### End ######
+
+#### File 346: un342 ####
+Lumiere
+###### End ######
+
+#### File 347: un343 ####
+Marybelle
+###### End ######
+
+#### File 348: un344 ####
+Arina
+###### End ######
+
+#### File 349: un345 ####
+Alex
+###### End ######
+
+#### File 350: un346 ####
+Routh
+###### End ######
+
+#### File 351: un347 ####
+Quescria
+###### End ######
+
+#### File 352: un348 ####
+Orlando
+###### End ######
+
+#### File 353: un349 ####
+Danton
+###### End ######
+
+#### File 354: un350 ####
+Meister
+###### End ######
+
+#### File 355: un351 ####
+EX
+###### End ######
+
+#### File 356: un352 ####
+EX
+###### End ######
+
+#### File 357: un353 ####
+Halfmann
+###### End ######
+
+#### File 358: un354 ####
+Clara
+###### End ######
+
+#### File 359: un355 ####
+Carlotta
+###### End ######
+
+#### File 360: un356 ####
+EX
+###### End ######
+
+#### File 361: un357 ####
+EX
+###### End ######
+
+#### File 362: un358 ####
+EX
+###### End ######
+
+#### File 363: un359 ####
+EX
+###### End ######
+
+#### File 364: un360 ####
+EX
+###### End ######
+
+#### File 365: un361 ####
+EX
+###### End ######
+
+#### File 366: un362 ####
+EX
+###### End ######
+
+#### File 367: un363 ####
+EX
+###### End ######
+
+#### File 368: un364 ####
+EX
+###### End ######
+
+#### File 369: un365 ####
+EX
+###### End ######
+
+#### File 370: un366 ####
+EX
+###### End ######
+
+#### File 371: un367 ####
+EX
+###### End ######
+
+#### File 372: un368 ####
+EX
+###### End ######
+
+#### File 373: un369 ####
+EX
+###### End ######
+
+#### File 374: un370 ####
+EX
+###### End ######
+
+#### File 375: un371 ####
+EX
+###### End ######
+
+#### File 376: un372 ####
+QuestDebug
+###### End ######
+
+#### File 377: un373 ####
+Ritchens
+###### End ######
+
+#### File 378: un374 ####
+Salonian
+###### End ######
+
+#### File 379: un375 ####
+Deserter
+###### End ######
+
+#### File 380: un376 ####
+Benner
+###### End ######
+
+#### File 381: un377 ####
+EX
+###### End ######
+
+#### File 382: un378 ####
+EX
+###### End ######
+
+#### File 383: un379 ####
+EX
+###### End ######
+
+#### File 384: un380 ####
+EX
+###### End ######
+
+#### File 385: un381 ####
+EX
+###### End ######
+
+#### File 386: un382 ####
+EX
+###### End ######
+
+#### File 387: un383 ####
+EX
+###### End ######
+
+#### File 388: un384 ####
+Gariad
+###### End ######
+
+#### File 389: un385 ####
+Neam Bandit
+###### End ######
+
+#### File 390: un386 ####
+Neam Bandit
+###### End ######
+
+#### File 391: un387 ####
+Mendels
+###### End ######
+
+#### File 392: un388 ####
+Forest-Folk
+###### End ######
+
+#### File 393: un389 ####
+Rezenstein
+###### End ######
+
+#### File 394: un390 ####
+Badonia-hei
+###### End ######
+
+#### File 395: un391 ####
+Neam Bandit
+###### End ######
+
+#### File 396: un392 ####
+Neam Bandit
+###### End ######
+
+#### File 397: un393 ####
+Neam Bandit
+###### End ######
+
+#### File 398: un394 ####
+Neam Bandit
+###### End ######
+
+#### File 399: un395 ####
+Neam Bandit
+###### End ######
+
+#### File 400: un396 ####
+EX
+###### End ######
+
+#### File 401: un397 ####
+Pisaro
+###### End ######
+
+#### File 402: un398 ####
+Pedro
+###### End ######
+
+#### File 403: un399 ####
+Imperial 4th
+###### End ######
+
+#### File 404: un400 ####
+Goran Bandit
+###### End ######
+
+#### File 405: un401 ####
+Allied Soldier
+###### End ######
+
+#### File 406: un402 ####
+Allied Soldier
+###### End ######
+
+#### File 407: un403 ####
+Ali Baba
+###### End ######
+
+#### File 408: un404 ####
+Razite
+###### End ######
+
+#### File 409: un405 ####
+Sund
+###### End ######
+
+#### File 410: un406 ####
+Garud
+###### End ######
+
+#### File 411: un407 ####
+Dominic
+###### End ######
+
+#### File 412: un408 ####
+Troia
+###### End ######
+
+#### File 413: un409 ####
+Laurus
+###### End ######
+
+#### File 414: un410 ####
+Razenclaw
+###### End ######
+
+#### File 415: un411 ####
+Bornian
+###### End ######
+
+#### File 416: un412 ####
+Qadi
+###### End ######
+
+#### File 417: un413 ####
+Lebrus
+###### End ######
+
+#### File 418: un414 ####
+Gilgamesh
+###### End ######
+
+#### File 419: un415 ####
+Nielsen
+###### End ######
+
+#### File 420: un416 ####
+Martin
+###### End ######
+
+#### File 421: un417 ####
+EX
+###### End ######
+
+#### File 422: un418 ####
+EX
+###### End ######
+
+#### File 423: un419 ####
+Trespasser
+###### End ######
+
+#### File 424: un420 ####
+EX
+###### End ######
+
+#### File 425: un421 ####
+EX
+###### End ######
+
+#### File 426: un422 ####
+EX
+###### End ######
+
+#### File 427: un423 ####
+Gordoba
+###### End ######
+
+#### File 428: un424 ####
+Goar
+###### End ######
+
+#### File 429: un425 ####
+Kamul
+###### End ######
+
+#### File 430: un426 ####
+Saibat
+###### End ######
+
+#### File 431: un427 ####
+Cavotte
+###### End ######
+
+#### File 432: un428 ####
+Gibson
+###### End ######
+
+#### File 433: un429 ####
+Ryan
+###### End ######
+
+#### File 434: un430 ####
+Vons
+###### End ######
+
+#### File 435: un431 ####
+Garvot
+###### End ######
+
+#### File 436: un432 ####
+Eusman
+###### End ######
+
+#### File 437: un433 ####
+Ex-Goran
+###### End ######
+
+#### File 438: un434 ####
+Vandol
+###### End ######
+
+#### File 439: un435 ####
+Notz
+###### End ######
+
+#### File 440: un436 ####
+Parra
+###### End ######
+
+#### File 441: un437 ####
+Cymu
+###### End ######
+
+#### File 442: un438 ####
+Jaeger
+###### End ######
+
+#### File 443: un439 ####
+Thomasson
+###### End ######
+
+#### File 444: un440 ####
+Dacchar
+###### End ######
+
+#### File 445: un441 ####
+Dorren
+###### End ######
+
+#### File 446: un442 ####
+Garia Pirate
+###### End ######
+
+#### File 447: un443 ####
+EX
+###### End ######
+
+#### File 448: un444 ####
+EX
+###### End ######
+
+#### File 449: un445 ####
+EX
+###### End ######
+
+#### File 450: un446 ####
+EX
+###### End ######
+
+#### File 451: un447 ####
+EX
+###### End ######
+
+#### File 452: un448 ####
+EX
+###### End ######
+
+#### File 453: un449 ####
+EX
+###### End ######
+
+#### File 454: un450 ####
+EX
+###### End ######
+
+#### File 455: un451 ####
+EX
+###### End ######
+
+#### File 456: un452 ####
+Slovell
+###### End ######
+
+#### File 457: un453 ####
+Zonojil
+###### End ######
+
+#### File 458: un454 ####
+Kithri
+###### End ######
+
+#### File 459: un455 ####
+Sloams
+###### End ######
+
+#### File 460: un456 ####
+Goering
+###### End ######
+
+#### File 461: un457 ####
+Solodas
+###### End ######
+
+#### File 462: un458 ####
+Garek
+###### End ######
+
+#### File 463: un459 ####
+Euber
+###### End ######
+
+#### File 464: un460 ####
+Basla
+###### End ######
+
+#### File 465: un461 ####
+Jiralgo
+###### End ######
+
+#### File 466: un462 ####
+Orle
+###### End ######
+
+#### File 467: un463 ####
+Leard
+###### End ######
+
+#### File 468: un464 ####
+Cephugoleth
+###### End ######
+
+#### File 469: un465 ####
+Dudig
+###### End ######
+
+#### File 470: un466 ####
+Hoelums
+###### End ######
+
+#### File 471: un467 ####
+Guddi
+###### End ######
+
+#### File 472: un468 ####
+Liaz
+###### End ######
+
+#### File 473: un469 ####
+Dorada
+###### End ######
+
+#### File 474: un470 ####
+Zelruppa
+###### End ######
+
+#### File 475: un471 ####
+Turodi
+###### End ######
+
+#### File 476: un472 ####
+Jultova
+###### End ######
+
+#### File 477: un473 ####
+Zezar
+###### End ######
+
+#### File 478: un474 ####
+Vadrey
+###### End ######
+
+#### File 479: un475 ####
+Bune
+###### End ######
+
+#### File 480: un476 ####
+Zesamalt
+###### End ######
+
+#### File 481: un477 ####
+Barbaddi
+###### End ######
+
+#### File 482: un478 ####
+Euredzin
+###### End ######
+
+#### File 483: un479 ####
+Von Ruquy
+###### End ######
+
+#### File 484: un480 ####
+DeMarc
+###### End ######
+
+#### File 485: un481 ####
+Susamal
+###### End ######
+
+#### File 486: un482 ####
+Giraddas
+###### End ######
+
+#### File 487: un483 ####
+Ledinsky
+###### End ######
+
+#### File 488: un484 ####
+Zoredan
+###### End ######
+
+#### File 489: un485 ####
+Cuthrel
+###### End ######
+
+#### File 490: un486 ####
+Dieux
+###### End ######
+
+#### File 491: un487 ####
+Damarro
+###### End ######
+
+#### File 492: un488 ####
+Reifdan
+###### End ######
+
+#### File 493: un489 ####
+Calvacanti
+###### End ######
+
+#### File 494: un490 ####
+Bravul
+###### End ######
+
+#### File 495: un491 ####
+Roames
+###### End ######
+
+#### File 496: un492 ####
+Dephlinga
+###### End ######
+
+#### File 497: un493 ####
+Deslor
+###### End ######
+
+#### File 498: un494 ####
+Corde
+###### End ######
+
+#### File 499: un495 ####
+Helph
+###### End ######
+
+#### File 500: un496 ####
+Schmeitzer
+###### End ######
+
+#### File 501: un497 ####
+Zanonus
+###### End ######
+
+#### File 502: un498 ####
+Von Lin
+###### End ######
+
+#### File 503: un499 ####
+Lebesgue
+###### End ######
+
+#### File 504: un500 ####
+Helfonte
+###### End ######
+
+#### File 505: un501 ####
+Bhalmard
+###### End ######
+
+#### File 506: un502 ####
+Valdez
+###### End ######
+
+#### File 507: un503 ####
+Ghezard
+###### End ######
+
+#### File 508: un504 ####
+Rota
+###### End ######
+
+#### File 509: un505 ####
+Lebron Citizen
+###### End ######
+
+#### File 510: un506 ####
+Lebron Citizen
+###### End ######
+
+#### File 511: un507 ####
+Gonzij
+###### End ######
+
+#### File 512: un508 ####
+Lebron Citizen
+###### End ######
+
+#### File 513: un509 ####
+Lebron Citizen
+###### End ######
+
+#### File 514: un510 ####
+Imperial
+###### End ######
+
+#### File 515: un511 ####
+Ortmann
+###### End ######
+
+#### File 516: un512 ####
+Minas
+###### End ######
+
+#### File 517: un513 ####
+Theodore
+###### End ######
+
+#### File 518: un514 ####
+Razite
+###### End ######
+
+#### File 519: un515 ####
+Fagnal
+###### End ######
+
+#### File 520: un516 ####
+Balmer
+###### End ######
+
+#### File 521: un517 ####
+Duchess
+###### End ######
+
+#### File 522: un518 ####
+EX
+###### End ######
+
+#### File 523: un519 ####
+Kay
+###### End ######
+
+#### File 524: un520 ####
+Imperial
+###### End ######
+
+#### File 525: un521 ####
+Allied Soldier
+###### End ######
+
+#### File 526: un522 ####
+Razite
+###### End ######
+
+#### File 527: un523 ####
+Razite
+###### End ######
+
+#### File 528: un524 ####
+Villager
+###### End ######
+
+#### File 529: un525 ####
+Meryl
+###### End ######
+
+#### File 530: un526 ####
+Von Beck
+###### End ######
+
+#### File 531: un527 ####
+Vasquez
+###### End ######
+
+#### File 532: un528 ####
+Simas
+###### End ######
+
+#### File 533: un529 ####
+Grauve
+###### End ######
+
+#### File 534: un530 ####
+Imperial Reserve
+###### End ######
+
+#### File 535: un531 ####
+Razenclaw
+###### End ######
+
+#### File 536: un532 ####
+Courier
+###### End ######
+
+#### File 537: un533 ####
+Engineer
+###### End ######
+
+#### File 538: un534 ####
+Head Engineer
+###### End ######
+
+#### File 539: un535 ####
+Imperial Reserve
+###### End ######
+
+#### File 540: un536 ####
+Simon
+###### End ######
+
+#### File 541: un537 ####
+Gardy
+###### End ######
+
+#### File 542: un538 ####
+Border Guard
+###### End ######
+
+#### File 543: un539 ####
+Ozama
+###### End ######
+
+#### File 544: un540 ####
+Marvell
+###### End ######
+
+#### File 545: un541 ####
+Border Guard
+###### End ######
+
+#### File 546: un542 ####
+Davis
+###### End ######
+
+#### File 547: un543 ####
+Engineer
+###### End ######
+
+#### File 548: un544 ####
+Engineer
+###### End ######
+
+#### File 549: un545 ####
+Engineer
+###### End ######
+
+#### File 550: un546 ####
+Border Guard
+###### End ######
+
+#### File 551: un547 ####
+Border Guard
+###### End ######
+
+#### File 552: un548 ####
+Border Guard
+###### End ######
+
+#### File 553: un549 ####
+Bornian
+###### End ######
+
+#### File 554: un550 ####
+Lester
+###### End ######
+
+#### File 555: un551 ####
+Almachus
+###### End ######
+
+#### File 556: un552 ####
+Vester
+###### End ######
+
+#### File 557: un553 ####
+Vester's Unit
+###### End ######
+
+#### File 558: un554 ####
+Razite
+###### End ######
+
+#### File 559: un555 ####
+Barnhardt
+###### End ######
+
+#### File 560: un556 ####
+Vester's Unit
+###### End ######
+
+#### File 561: un557 ####
+Pratton
+###### End ######
+
+#### File 562: un558 ####
+Cerras
+###### End ######
+
+#### File 563: un559 ####
+Village Elder
+###### End ######
+
+#### File 564: un560 ####
+Imperial
+###### End ######
+
+#### File 565: un561 ####
+Villager
+###### End ######
+
+#### File 566: un562 ####
+Scarro
+###### End ######
+
+#### File 567: un563 ####
+Bornian
+###### End ######
+
+#### File 568: un564 ####
+Pentland
+###### End ######
+
+#### File 569: un565 ####
+Vandal
+###### End ######
+
+#### File 570: un566 ####
+Rudolph
+###### End ######
+
+#### File 571: un567 ####
+Trador
+###### End ######
+
+#### File 572: un568 ####
+Erec
+###### End ######
+
+#### File 573: un569 ####
+Michel
+###### End ######
+
+#### File 574: un570 ####
+Lyarc
+###### End ######
+
+#### File 575: un571 ####
+Bornian
+###### End ######
+
+#### File 576: un572 ####
+Arnold
+###### End ######
+
+#### File 577: un573 ####
+Aryuza Citizen
+###### End ######
+
+#### File 578: un574 ####
+Aryuza Citizen
+###### End ######
+
+#### File 579: un575 ####
+Gasch
+###### End ######
+
+#### File 580: un576 ####
+Aryuza Citizen
+###### End ######
+
+#### File 581: un577 ####
+Vanmilion
+###### End ######
+
+#### File 582: un578 ####
+Narvian
+###### End ######
+
+#### File 583: un579 ####
+Goebbels
+###### End ######
+
+#### File 584: un580 ####
+Munver
+###### End ######
+
+#### File 585: un581 ####
+EX
+###### End ######
+
+#### File 586: un582 ####
+EX
+###### End ######
+
+#### File 587: un583 ####
+EX
+###### End ######
+
+#### File 588: un584 ####
+Guard
+###### End ######
+
+#### File 589: un585 ####
+Transporter
+###### End ######
+
+#### File 590: un586 ####
+Sentinel
+###### End ######
+
+#### File 591: un587 ####
+Faria
+###### End ######
+
+#### File 592: un588 ####
+Laguiole
+###### End ######
+
+#### File 593: un589 ####
+Imperial
+###### End ######
+
+#### File 594: un590 ####
+Razite
+###### End ######
+
+#### File 595: un591 ####
+Camlann
+###### End ######
+
+#### File 596: un592 ####
+Transporter
+###### End ######
+
+#### File 597: un593 ####
+Coen
+###### End ######
+
+#### File 598: un594 ####
+Aisha
+###### End ######
+
+#### File 599: un595 ####
+Ex-Ishs
+###### End ######
+
+#### File 600: un596 ####
+Gavin
+###### End ######
+
+#### File 601: un597 ####
+Welran
+###### End ######
+
+#### File 602: un598 ####
+Volunteer
+###### End ######
+
+#### File 603: un599 ####
+Auxiliary Corps
+###### End ######
+
+#### File 604: un600 ####
+EX
+###### End ######
+
+#### File 605: un601 ####
+EX
+###### End ######
+
+#### File 606: un602 ####
+EX
+###### End ######
+
+#### File 607: un603 ####
+Erickson
+###### End ######
+
+#### File 608: un604 ####
+York
+###### End ######
+
+#### File 609: un605 ####
+Ex-Quan
+###### End ######
+
+#### File 610: un606 ####
+Convoy
+###### End ######
+
+#### File 611: un607 ####
+Besieger
+###### End ######
+
+#### File 612: un608 ####
+Sentinel
+###### End ######
+
+#### File 613: un609 ####
+Ballistician
+###### End ######
+
+#### File 614: un610 ####
+Marksman
+###### End ######
+
+#### File 615: un611 ####
+Allied Soldier
+###### End ######
+
+#### File 616: un612 ####
+Calfors
+###### End ######
+
+#### File 617: un613 ####
+Verian Knight
+###### End ######
+
+#### File 618: un614 ####
+Ex-Saphira
+###### End ######
+
+#### File 619: un615 ####
+Ex-Paramythis
+###### End ######
+
+#### File 620: un616 ####
+Chaos
+###### End ######
+
+#### File 621: un617 ####
+EX
+###### End ######
+
+#### File 622: un618 ####
+Razenclaw
+###### End ######
+
+#### File 623: un619 ####
+EX
+###### End ######
+
+#### File 624: un620 ####
+EX
+###### End ######
+
+#### File 625: un621 ####
+EX
+###### End ######
+
+#### File 626: un622 ####
+Imperial
+###### End ######
+
+#### File 627: un623 ####
+Andersen
+###### End ######
+
+#### File 628: un624 ####
+Jimukha
+###### End ######
+
+#### File 629: un625 ####
+Wallenstein
+###### End ######
+
+#### File 630: un626 ####
+Mercenary
+###### End ######
+
+#### File 631: un627 ####
+Aleck
+###### End ######
+
+#### File 632: un628 ####
+Morton
+###### End ######
+
+#### File 633: un629 ####
+Zephyrus
+###### End ######
+
+#### File 634: un630 ####
+Arcturus
+###### End ######
+
+#### File 635: un631 ####
+Zephyrus's Unit
+###### End ######
+
+#### File 636: un632 ####
+Trimier
+###### End ######
+
+#### File 637: un633 ####
+Piers
+###### End ######
+
+#### File 638: un634 ####
+Fort Guard
+###### End ######
+
+#### File 639: un635 ####
+Road Guard
+###### End ######
+
+#### File 640: un636 ####
+Abram
+###### End ######
+
+#### File 641: un637 ####
+Bornian
+###### End ######
+
+#### File 642: un638 ####
+Reserve Corps
+###### End ######
+
+#### File 643: un639 ####
+Narvian
+###### End ######
+
+#### File 644: un640 ####
+Gordova
+###### End ######
+
+#### File 645: un641 ####
+Vanmilion
+###### End ######
+
+#### File 646: un642 ####
+Vester
+###### End ######
+
+#### File 647: un643 ####
+Leticia
+###### End ######
+
+#### File 648: un644 ####
+EX
+###### End ######
+
+#### File 649: un645 ####
+EX
+###### End ######
+
+#### File 650: un646 ####
+EX
+###### End ######
+
+#### File 651: un647 ####
+EX
+###### End ######
+
+#### File 652: un648 ####
+Conan
+###### End ######
+
+#### File 653: un649 ####
+Imperial
+###### End ######
+
+#### File 654: un650 ####
+Amoy
+###### End ######
+
+#### File 655: un651 ####
+Guard
+###### End ######
+
+#### File 656: un652 ####
+Nazgul
+###### End ######
+
+#### File 657: un653 ####
+Pesil Army
+###### End ######
+
+#### File 658: un654 ####
+Richthofen
+###### End ######
+
+#### File 659: un655 ####
+Razite
+###### End ######
+
+#### File 660: un656 ####
+EX
+###### End ######
+
+#### File 661: un657 ####
+EX
+###### End ######
+
+#### File 662: un658 ####
+EX
+###### End ######
+
+#### File 663: un659 ####
+1st Ballistician
+###### End ######
+
+#### File 664: un660 ####
+2nd Ballistician
+###### End ######
+
+#### File 665: un661 ####
+3rd Ballistician
+###### End ######
+
+#### File 666: un662 ####
+Imperial
+###### End ######
+
+#### File 667: un663 ####
+Dark Priest
+###### End ######
+
+#### File 668: un664 ####
+Toll Guard
+###### End ######
+
+#### File 669: un665 ####
+Veirton
+###### End ######
+
+#### File 670: un666 ####
+Gasch
+###### End ######
+
+#### File 671: un667 ####
+Ishmat
+###### End ######
+
+#### File 672: un668 ####
+Danfar
+###### End ######
+
+#### File 673: un669 ####
+Murin
+###### End ######
+
+#### File 674: un670 ####
+Yalong
+###### End ######
+
+#### File 675: un671 ####
+EX
+###### End ######
+
+#### File 676: un672 ####
+EX
+###### End ######
+
+#### File 677: un673 ####
+Gandeldyne
+###### End ######
+
+#### File 678: un674 ####
+Razenclaw
+###### End ######
+
+#### File 679: un675 ####
+Imperial
+###### End ######
+
+#### File 680: un676 ####
+Veda Bandit
+###### End ######
+
+#### File 681: un677 ####
+Pesil Knight
+###### End ######
+
+#### File 682: un678 ####
+EX
+###### End ######
+
+#### File 683: un679 ####
+EX
+###### End ######
+
+#### File 684: un680 ####
+EX
+###### End ######
+
+#### File 685: un681 ####
+Zephyrus's Unit
+###### End ######
+
+#### File 686: un682 ####
+Zephyrus's Unit
+###### End ######
+
+#### File 687: un683 ####
+Zephyrus's Unit
+###### End ######
+
+#### File 688: un684 ####
+Zephyrus's Unit
+###### End ######
+
+#### File 689: un685 ####
+Zephyrus's Unit
+###### End ######
+
+#### File 690: un686 ####
+Zephyrus's Unit
+###### End ######
+
+#### File 691: un687 ####
+Sophia
+###### End ######
+
+#### File 692: un688 ####
+Julian
+###### End ######
+
+#### File 693: un689 ####
+Imperial Archer
+###### End ######
+
+#### File 694: un690 ####
+Allied Scientist
+###### End ######
+
+#### File 695: un691 ####
+Allied Officer
+###### End ######
+
+#### File 696: un692 ####
+Luveil
+###### End ######
+
+#### File 697: un693 ####
+Imperial Archer
+###### End ######
+
+#### File 698: un694 ####
+Courier
+###### End ######
+
+#### File 699: un695 ####
+#黒騎士
+Black Rider
+###### End ######
+
+#### File 700: un696 ####
+Allied Soldier
+###### End ######
+
+#### File 701: un697 ####
+EX
+###### End ######
+
+#### File 702: un698 ####
+EX
+###### End ######
+
+#### File 703: un699 ####
+EX
+###### End ######
+
+#### File 704: un700 ####
+EX
+###### End ######
+
+#### File 705: un701 ####
+EX
+###### End ######
+
+#### File 706: un702 ####
+EX
+###### End ######
+
+#### File 707: un703 ####
+Rasputin
+###### End ######
+
+#### File 708: un704 ####
+Alfons
+###### End ######
+
+#### File 709: un705 ####
+Semdallion
+###### End ######
+
+#### File 710: un706 ####
+Yumil
+###### End ######
+
+#### File 711: un707 ####
+EX
+###### End ######
+
+#### File 712: un708 ####
+Luciana
+###### End ######
+
+#### File 713: un709 ####
+Maria
+###### End ######
+
+#### File 714: un710 ####
+Quescria
+###### End ######
+
+#### File 715: un711 ####
+EX
+###### End ######
+
+#### File 716: un712 ####
+Razite
+###### End ######
+
+#### File 717: un713 ####
+Imperial
+###### End ######
+
+#### File 718: un714 ####
+Danae Bandit
+###### End ######
+
+#### File 719: un715 ####
+Razenclaw
+###### End ######
+
+#### File 720: un716 ####
+Sophia's Captor
+###### End ######
+
+#### File 721: un717 ####
+EX
+###### End ######
+
+#### File 722: un718 ####
+Etoir's Captor
+###### End ######
+
+#### File 723: un719 ####
+Janet's Captor
+###### End ######
+
+#### File 724: un720 ####
+Resfina's Captor
+###### End ######
+
+#### File 725: un721 ####
+Izerna's Captor
+###### End ######
+
+#### File 726: un722 ####
+Soldier
+###### End ######
+
+#### File 727: un723 ####
+Conrad
+###### End ######
+
+#### File 728: un724 ####
+Rezenstein
+###### End ######
+
+#### File 729: un725 ####
+Elrenne
+###### End ######
+
+#### File 730: un726 ####
+Roxanne
+###### End ######
+
+#### File 731: un727 ####
+Razenclaw
+###### End ######
+
+#### File 732: un728 ####
+Lebeck Soldier
+###### End ######
+
+#### File 733: un729 ####
+Lebeck Soldier
+###### End ######
+
+#### File 734: un730 ####
+Lebeck Bandit
+###### End ######
+
+#### File 735: un731 ####
+EX
+###### End ######
+
+#### File 736: un732 ####
+EX
+###### End ######
+
+#### File 737: un733 ####
+EX
+###### End ######
+
+#### File 738: un734 ####
+EX
+###### End ######
+
+#### File 739: un735 ####
+EX
+###### End ######
+
+#### File 740: un736 ####
+EX
+###### End ######
+
+#### File 741: un737 ####
+Bernald
+###### End ######
+
+#### File 742: un738 ####
+Cyas
+###### End ######
+
+#### File 743: un739 ####
+Etoir
+###### End ######
+
+#### File 744: un740 ####
+Izmork
+###### End ######
+
+#### File 745: un741 ####
+Ordo
+###### End ######
+
+#### File 746: un742 ####
+Keimos
+###### End ######
+
+#### File 747: un743 ####
+Mahatma
+###### End ######
+
+#### File 748: un744 ####
+Titheau
+###### End ######
+
+#### File 749: un745 ####
+Wagner
+###### End ######
+
+#### File 750: un746 ####
+Warren
+###### End ######
+
+#### File 751: un747 ####
+Chivat
+###### End ######
+
+#### File 752: un748 ####
+Kennel
+###### End ######
+
+#### File 753: un749 ####
+Ex-Sara
+###### End ######
+
+#### File 754: un750 ####
+Zecht
+###### End ######
+
+#### File 755: un751 ####
+Shivas
+###### End ######
+
+#### File 756: un752 ####
+Rondy
+###### End ######
+
+#### File 757: un753 ####
+Julius
+###### End ######
+
+#### File 758: un754 ####
+Edwin
+###### End ######
+
+#### File 759: un755 ####
+Gilias
+###### End ######
+
+#### File 760: un756 ####
+Ex-Aries
+###### End ######
+
+#### File 761: un757 ####
+Windsor
+###### End ######
+
+#### File 762: un758 ####
+Sharon
+###### End ######
+
+#### File 763: un759 ####
+Lionheart
+###### End ######
+
+#### File 764: un760 ####
+Morra
+###### End ######
+
+#### File 765: un761 ####
+Wallenschtein
+###### End ######
+
+#### File 766: un762 ####
+Cromwell
+###### End ######
+
+#### File 767: un763 ####
+Vigbea
+###### End ######
+
+#### File 768: un764 ####
+ha-Yadh
+###### End ######
+
+#### File 769: un765 ####
+Ginger
+###### End ######
+
+#### File 770: un766 ####
+Lindberg
+###### End ######
+
+#### File 771: un767 ####
+Ex-Shyan
+###### End ######
+
+#### File 772: un768 ####
+Moirai
+###### End ######
+
+#### File 773: un769 ####
+EX
+###### End ######
+
+#### File 774: un770 ####
+EX
+###### End ######
+
+#### File 775: un771 ####
+EX
+###### End ######
+
+#### File 776: un772 ####
+EX
+###### End ######
+
+#### File 777: un773 ####
+EX
+###### End ######
+
+#### File 778: un774 ####
+EX
+###### End ######
+
+#### File 779: un775 ####
+EX
+###### End ######
+
+#### File 780: un776 ####
+EX
+###### End ######
+
+#### File 781: un777 ####
+EX
+###### End ######
+
+#### File 782: un778 ####
+EX
+###### End ######
+
+#### File 783: un779 ####
+EX
+###### End ######
+
+#### File 784: un780 ####
+EX
+###### End ######
+
+#### File 785: un781 ####
+EX
+###### End ######
+
+#### File 786: un782 ####
+EX
+###### End ######
+
+#### File 787: un783 ####
+EX
+###### End ######
+
+#### File 788: un784 ####
+EX
+###### End ######
+
+#### File 789: un785 ####
+EX
+###### End ######
+
+#### File 790: un786 ####
+EX
+###### End ######
+
+#### File 791: un787 ####
+EX
+###### End ######
+
+#### File 792: un788 ####
+EX
+###### End ######
+
+#### File 793: un789 ####
+EX
+###### End ######
+
+#### File 794: un790 ####
+EX
+###### End ######
+
+#### File 795: un791 ####
+EX
+###### End ######
+
+#### File 796: un792 ####
+EX
+###### End ######
+
+#### File 797: un793 ####
+EX
+###### End ######
+
+#### File 798: un794 ####
+EX
+###### End ######
+
+#### File 799: un795 ####
+EX
+###### End ######
+
+#### File 800: un796 ####
+EX
+###### End ######
+
+#### File 801: un797 ####
+EX
+###### End ######
+
+#### File 802: un798 ####
+EX
+###### End ######
+
+#### File 803: un799 ####
+EX
+###### End ######
+
+#### File 804: un800 ####
+EX
+###### End ######
+
+#### File 805: un801 ####
+Reese
+###### End ######
+
+#### File 806: un802 ####
+Wort
+###### End ######
+
+#### File 807: un803 ####
+Faris
+###### End ######
+
+#### File 808: un804 ####
+Elbert
+###### End ######
+
+#### File 809: un805 ####
+Daoud
+###### End ######
+
+#### File 810: un806 ####
+Farius
+###### End ######
+
+#### File 811: un807 ####
+Marroy
+###### End ######
+
+#### File 812: un808 ####
+Shayde
+###### End ######
+
+#### File 813: un809 ####
+Rufus
+###### End ######
+
+#### File 814: un810 ####
+Buroze
+###### End ######
+
+#### File 815: un811 ####
+Bernald
+###### End ######
+
+#### File 816: un812 ####
+Luke
+###### End ######
+
+#### File 817: un813 ####
+Galuf
+###### End ######
+
+#### File 818: un814 ####
+Borodin
+###### End ######
+
+#### File 819: un815 ####
+Sarji
+###### End ######
+
+#### File 820: un816 ####
+Swift
+###### End ######
+
+#### File 821: un817 ####
+Michael
+###### End ######
+
+#### File 822: un818 ####
+Beck
+###### End ######
+
+#### File 823: un819 ####
+Lyndon
+###### End ######
+
+#### File 824: un820 ####
+Vys
+###### End ######
+
+#### File 825: un821 ####
+Viez
+###### End ######
+
+#### File 826: un822 ####
+Tito
+###### End ######
+
+#### File 827: un823 ####
+Laon
+###### End ######
+
+#### File 828: un824 ####
+Selphon
+###### End ######
+
+#### File 829: un825 ####
+Vector
+###### End ######
+
+#### File 830: un826 ####
+Jigsaw
+###### End ######
+
+#### File 831: un827 ####
+Mughal
+###### End ######
+
+#### File 832: un828 ####
+Heinkel
+###### End ######
+
+#### File 833: un829 ####
+Samwell
+###### End ######
+
+#### File 834: un830 ####
+Volson
+###### End ######
+
+#### File 835: un831 ####
+Fuva
+###### End ######
+
+#### File 836: un832 ####
+Rosin
+###### End ######
+
+#### File 837: un833 ####
+Elton
+###### End ######
+
+#### File 838: un834 ####
+Camlann
+###### End ######
+
+#### File 839: un835 ####
+Tomas
+###### End ######
+
+#### File 840: un836 ####
+Lydon
+###### End ######
+
+#### File 841: un837 ####
+Lilia
+###### End ######
+
+#### File 842: un838 ####
+Bengriton
+###### End ######
+
+#### File 843: un839 ####
+Valentin
+###### End ######
+
+#### File 844: un840 ####
+Zacharro
+###### End ######
+
+#### File 845: un841 ####
+Ortega
+###### End ######
+
+#### File 846: un842 ####
+Pizarro
+###### End ######
+
+#### File 847: un843 ####
+Keltzar
+###### End ######
+
+#### File 848: un844 ####
+Zalius
+###### End ######
+
+#### File 849: un845 ####
+Fuva
+###### End ######
+
+#### File 850: un846 ####
+Tarrevan
+###### End ######
+
+#### File 851: un847 ####
+Neam Bandit
+###### End ######
+
+#### File 852: un848 ####
+Maham
+###### End ######
+
+#### File 853: un849 ####
+Maham
+###### End ######
+
+#### File 854: un850 ####
+EX
+###### End ######
+
+#### File 855: un851 ####
+EX
+###### End ######
+
+#### File 856: un852 ####
+EX
+###### End ######
+
+#### File 857: un853 ####
+EX
+###### End ######
+
+#### File 858: un854 ####
+EX
+###### End ######
+
+#### File 859: un855 ####
+EX
+###### End ######
+
+#### File 860: un856 ####
+EX
+###### End ######
+
+#### File 861: un857 ####
+EX
+###### End ######
+
+#### File 862: un858 ####
+EX
+###### End ######
+
+#### File 863: un859 ####
+EX
+###### End ######
+
+#### File 864: un860 ####
+EX
+###### End ######
+
+#### File 865: un861 ####
+EX
+###### End ######
+
+#### File 866: un862 ####
+EX
+###### End ######
+
+#### File 867: un863 ####
+EX
+###### End ######
+
+#### File 868: un864 ####
+EX
+###### End ######
+
+#### File 869: un865 ####
+EX
+###### End ######
+
+#### File 870: un866 ####
+Gomez
+###### End ######
+
+#### File 871: un867 ####
+EX
+###### End ######
+
+#### File 872: un868 ####
+EX
+###### End ######
+
+#### File 873: un869 ####
+EX
+###### End ######
+
+#### File 874: un870 ####
+EX
+###### End ######
+
+#### File 875: un871 ####
+EX
+###### End ######
+
+#### File 876: un872 ####
+EX
+###### End ######
+
+#### File 877: un873 ####
+EX
+###### End ######
+
+#### File 878: un874 ####
+EX
+###### End ######
+
+#### File 879: un875 ####
+EX
+###### End ######
+
+#### File 880: un876 ####
+EX
+###### End ######
+
+#### File 881: un877 ####
+EX
+###### End ######
+
+#### File 882: un878 ####
+EX
+###### End ######
+
+#### File 883: un879 ####
+EX
+###### End ######
+
+#### File 884: un880 ####
+EX
+###### End ######
+
+#### File 885: un881 ####
+EX
+###### End ######
+
+#### File 886: un882 ####
+EX
+###### End ######
+
+#### File 887: un883 ####
+EX
+###### End ######
+
+#### File 888: un884 ####
+EX
+###### End ######
+
+#### File 889: un885 ####
+EX
+###### End ######
+
+#### File 890: un886 ####
+Volcens
+###### End ######
+
+#### File 891: un887 ####
+Herman
+###### End ######
+
+#### File 892: un888 ####
+Jacharam
+###### End ######
+
+#### File 893: un889 ####
+EX
+###### End ######
+
+#### File 894: un890 ####
+Razenhorn
+###### End ######
+
+#### File 895: un891 ####
+Razenfang
+###### End ######
+
+#### File 896: un892 ####
+Imperial
+###### End ######
+
+#### File 897: un893 ####
+Mercenary
+###### End ######
+
+#### File 898: un894 ####
+Padolf
+###### End ######
+
+#### File 899: un895 ####
+Executioner
+###### End ######
+
+#### File 900: un896 ####
+Reserve Corps
+###### End ######
+
+#### File 901: un897 ####
+Roswick
+###### End ######
+
+#### File 902: un898 ####
+Reed
+###### End ######
+
+#### File 903: un899 ####
+Sienna
+###### End ######
+
+#### File 904: un900 ####
+Theodore
+###### End ######
+
+#### File 905: un901 ####
+Minas
+###### End ######
+
+#### File 906: un902 ####
+EX
+###### End ######
+
+#### File 907: un903 ####
+EX
+###### End ######
+
+#### File 908: un904 ####
+EX
+###### End ######
+
+#### File 909: un905 ####
+EX
+###### End ######
+
+#### File 910: un906 ####
+EX
+###### End ######
+
+#### File 911: un907 ####
+EX
+###### End ######
+
+#### File 912: un908 ####
+EX
+###### End ######
+
+#### File 913: un909 ####
+EX
+###### End ######
+
+#### File 914: un910 ####
+EX
+###### End ######
+
+#### File 915: un911 ####
+EX
+###### End ######
+
+#### File 916: un912 ####
+EX
+###### End ######
+
+#### File 917: un913 ####
+EX
+###### End ######
+
+#### File 918: un914 ####
+EX
+###### End ######
+
+#### File 919: un915 ####
+EX
+###### End ######
+
+#### File 920: un916 ####
+EX
+###### End ######
+
+#### File 921: un917 ####
+EX
+###### End ######
+
+#### File 922: un918 ####
+EX
+###### End ######
+
+#### File 923: un919 ####
+EX
+###### End ######
+
+#### File 924: un920 ####
+EX
+###### End ######
+
+#### File 925: un921 ####
+EX
+###### End ######
+
+#### File 926: un922 ####
+EX
+###### End ######
+
+#### File 927: un923 ####
+EX
+###### End ######
+
+#### File 928: un924 ####
+EX
+###### End ######
+
+#### File 929: un925 ####
+EX
+###### End ######
+
+#### File 930: un926 ####
+EX
+###### End ######
+
+#### File 931: un927 ####
+EX
+###### End ######
+
+#### File 932: un928 ####
+EX
+###### End ######
+
+#### File 933: un929 ####
+EX
+###### End ######
+
+#### File 934: un930 ####
+EX
+###### End ######
+
+#### File 935: un931 ####
+EX
+###### End ######
+
+#### File 936: un932 ####
+EX
+###### End ######
+
+#### File 937: un933 ####
+EX
+###### End ######
+
+#### File 938: un934 ####
+EX
+###### End ######
+
+#### File 939: un935 ####
+EX
+###### End ######
+
+#### File 940: un936 ####
+EX
+###### End ######
+
+#### File 941: un937 ####
+EX
+###### End ######
+
+#### File 942: un938 ####
+EX
+###### End ######
+
+#### File 943: un939 ####
+EX
+###### End ######
+
+#### File 944: un940 ####
+EX
+###### End ######
+
+#### File 945: un941 ####
+EX
+###### End ######
+
+#### File 946: un942 ####
+EX
+###### End ######
+
+#### File 947: un943 ####
+Demias Bandit
+###### End ######
+
+#### File 948: un944 ####
+Agvan
+###### End ######
+
+#### File 949: un945 ####
+Meriah
+###### End ######
+
+#### File 950: un946 ####
+Sheikh
+###### End ######
+
+#### File 951: un947 ####
+Garos
+###### End ######
+
+#### File 952: un948 ####
+Orbel
+###### End ######
+
+#### File 953: un949 ####
+Sakhalin
+###### End ######
+
+#### File 954: un950 ####
+Grimm
+###### End ######
+
+#### File 955: un951 ####
+Selim
+###### End ######
+
+#### File 956: un952 ####
+Rodin
+###### End ######
+
+#### File 957: un953 ####
+Razite
+###### End ######
+
+#### File 958: un954 ####
+Demias Bandit
+###### End ######
+
+#### File 959: un955 ####
+Demias Bandit
+###### End ######
+
+#### File 960: un956 ####
+Fermat
+###### End ######
+
+#### File 961: un957 ####
+Igos
+###### End ######
+
+#### File 962: un958 ####
+Doros
+###### End ######
+
+#### File 963: un959 ####
+Sophie
+###### End ######
+
+#### File 964: un960 ####
+Josef
+###### End ######
+
+#### File 965: un961 ####
+EX
+###### End ######
+
+#### File 966: un962 ####
+EX
+###### End ######
+
+#### File 967: un963 ####
+EX
+###### End ######
+
+#### File 968: un964 ####
+EX
+###### End ######
+
+#### File 969: un965 ####
+EX
+###### End ######
+
+#### File 970: un966 ####
+EX
+###### End ######
+
+#### File 971: un967 ####
+EX
+###### End ######
+
+#### File 972: un968 ####
+EX
+###### End ######
+
+#### File 973: un969 ####
+EX
+###### End ######
+
+#### File 974: un970 ####
+EX
+###### End ######
+
+#### File 975: un971 ####
+EX
+###### End ######
+
+#### File 976: un972 ####
+Corad
+###### End ######
+
+#### File 977: un973 ####
+Salle
+###### End ######
+
+#### File 978: un974 ####
+Suiven
+###### End ######
+
+#### File 979: un975 ####
+Tengel
+###### End ######
+
+#### File 980: un976 ####
+Iress
+###### End ######
+
+#### File 981: un977 ####
+Donhau
+###### End ######
+
+#### File 982: un978 ####
+Lagarto
+###### End ######
+
+#### File 983: un979 ####
+Weissman
+###### End ######
+
+#### File 984: un980 ####
+James
+###### End ######
+
+#### File 985: un981 ####
+Beldou
+###### End ######
+
+#### File 986: un982 ####
+Caiman
+###### End ######
+
+#### File 987: un983 ####
+Starvell
+###### End ######
+
+#### File 988: un984 ####
+Kurt
+###### End ######
+
+#### File 989: un985 ####
+Joselle
+###### End ######
+
+#### File 990: un986 ####
+Heinz
+###### End ######
+
+#### File 991: un987 ####
+Paulus
+###### End ######
+
+#### File 992: un988 ####
+Mannstein
+###### End ######
+
+#### File 993: un989 ####
+Henschel
+###### End ######
+
+#### File 994: un990 ####
+Porsche
+###### End ######
+
+#### File 995: un991 ####
+Bottoms
+###### End ######
+
+#### File 996: un992 ####
+Kracher
+###### End ######
+
+#### File 997: un993 ####
+Nerman
+###### End ######
+
+#### File 998: un994 ####
+Sleau
+###### End ######
+
+#### File 999: un995 ####
+Aban Sud
+###### End ######
+
+#### File 1000: un996 ####
+Ilea
+###### End ######
+
+#### File 1001: un997 ####
+Eisenhower
+###### End ######
+
+#### File 1002: un998 ####
+Elvis
+###### End ######
+
+#### File 1003: un999 ####
+Ex-Conan
+###### End ######
+
+#### File 1004: un1000 ####
+Hasma
+###### End ######
+
+#### File 1005: un1001 ####
+Ytol
+###### End ######
+
+#### File 1006: un1002 ####
+Bauer
+###### End ######
+
+#### File 1007: un1003 ####
+Storoz
+###### End ######
+
+#### File 1008: un1004 ####
+Carma
+###### End ######
+
+#### File 1009: un1005 ####
+Eritz
+###### End ######
+
+#### File 1010: un1006 ####
+Praschi
+###### End ######
+
+#### File 1011: un1007 ####
+Bobo
+###### End ######
+
+#### File 1012: un1008 ####
+Creann
+###### End ######
+
+#### File 1013: un1009 ####
+Antony
+###### End ######
+
+#### File 1014: un1010 ####
+Ervo
+###### End ######
+
+#### File 1015: un1011 ####
+Masch
+###### End ######
+
+#### File 1016: un1012 ####
+Maracus
+###### End ######
+
+#### File 1017: un1013 ####
+Palrovin
+###### End ######
+
+#### File 1018: un1014 ####
+Baldur
+###### End ######
+
+#### File 1019: un1015 ####
+Gort Bandit
+###### End ######
+
+#### File 1020: un1016 ####
+Shagaal
+###### End ######
+
+#### File 1021: un1017 ####
+Ent Bandit
+###### End ######
+
+#### File 1022: un1018 ####
+Murtagh
+###### End ######
+
+#### File 1023: un1019 ####
+Adria Bandit
+###### End ######
+
+#### File 1024: un1020 ####
+Dorunne Bandit
+###### End ######
+
+#### File 1025: un1021 ####
+Yam Bandit
+###### End ######
+
+#### File 1026: un1022 ####
+Imperial Garrison
+###### End ######
+
+#### File 1027: un1023 ####
+Griff
+###### End ######
+
+#### File 1028: un1024 ####
+Graff
+###### End ######
+
+#### File 1029: un1025 ####
+Muthay Gang
+###### End ######
+
+#### File 1030: un1026 ####
+Paletta
+###### End ######
+
+#### File 1031: un1027 ####
+Shamrock
+###### End ######
+
+#### File 1032: un1028 ####
+Hyde
+###### End ######
+
+#### File 1033: un1029 ####
+Gaza Bandit
+###### End ######
+
+#### File 1034: un1030 ####
+Arzovy
+###### End ######
+
+#### File 1035: un1031 ####
+Razenclaw
+###### End ######
+
+#### File 1036: un1032 ####
+Razite
+###### End ######
+
+#### File 1037: un1033 ####
+William
+###### End ######
+
+#### File 1038: un1034 ####
+Imperial 13th
+###### End ######
+
+#### File 1039: un1035 ####
+Razite
+###### End ######
+
+#### File 1040: un1036 ####
+Tina's Dad
+###### End ######
+
+#### File 1041: un1037 ####
+Tina's Mom
+###### End ######
+
+#### File 1042: un1038 ####
+EX
+###### End ######
+
+#### File 1043: un1039 ####
+Imperial Guard
+###### End ######
+
+#### File 1044: un1040 ####
+Allied Officer
+###### End ######
+
+#### File 1045: un1041 ####
+Allied 1st
+###### End ######
+
+#### File 1046: un1042 ####
+Allied 2nd
+###### End ######
+
+#### File 1047: un1043 ####
+Allied 3rd
+###### End ######
+
+#### File 1048: un1044 ####
+Allied 4th
+###### End ######
+
+#### File 1049: un1045 ####
+Allied 5th
+###### End ######
+
+#### File 1050: un1046 ####
+Allied 6th
+###### End ######
+
+#### File 1051: un1047 ####
+Imperial
+###### End ######
+
+#### File 1052: un1048 ####
+Anatore
+###### End ######
+
+#### File 1053: un1049 ####
+Snow Bandit
+###### End ######
+
+#### File 1054: un1050 ####
+Tatiana
+###### End ######
+
+#### File 1055: un1051 ####
+Icewyrm
+###### End ######
+
+#### File 1056: un1052 ####
+Zaiath
+###### End ######
+
+#### File 1057: un1053 ####
+Vall Pirate
+###### End ######
+
+#### File 1058: un1054 ####
+Hamilton
+###### End ######
+
+#### File 1059: un1055 ####
+Imperial Recruit
+###### End ######
+
+#### File 1060: un1056 ####
+Dark Obelisk
+###### End ######
+
+#### File 1061: un1057 ####
+Dark Obelisk
+###### End ######
+
+#### File 1062: un1058 ####
+Dark Obelisk
+###### End ######
+
+#### File 1063: un1059 ####
+Dark Obelisk
+###### End ######
+
+#### File 1064: un1060 ####
+Dark Obelisk
+###### End ######
+
+#### File 1065: un1061 ####
+Blue Killer
+###### End ######
+
+#### File 1066: un1062 ####
+Red Killer
+###### End ######
+
+#### File 1067: un1063 ####
+Zambus
+###### End ######
+
+#### File 1068: un1064 ####
+Baphuzel
+###### End ######
+
+#### File 1069: un1065 ####
+Gaius
+###### End ######
+
+#### File 1070: un1066 ####
+Seamus
+###### End ######
+
+#### File 1071: un1067 ####
+Seamus's Goon
+###### End ######
+
+#### File 1072: un1068 ####
+Lennox
+###### End ######
+
+#### File 1073: un1069 ####
+3rd Supply Corps
+###### End ######
+
+#### File 1074: un1070 ####
+Rosalie
+###### End ######
+
+#### File 1075: un1071 ####
+Nima
+###### End ######
+
+#### File 1076: un1072 ####
+Guardian
+###### End ######
+
+#### File 1077: un1073 ####
+Doria Pirate
+###### End ######
+
+#### File 1078: un1074 ####
+Raquel
+###### End ######
+
+#### File 1079: un1075 ####
+Narvian
+###### End ######
+
+#### File 1080: un1076 ####
+Narvian
+###### End ######
+
+#### File 1081: un1077 ####
+Narvian
+###### End ######
+
+#### File 1082: un1078 ####
+Weiss
+###### End ######
+
+#### File 1083: un1079 ####
+Sea Mouse
+###### End ######
+
+#### File 1084: un1080 ####
+Desert Clan
+###### End ######
+
+#### File 1085: un1081 ####
+Riddle
+###### End ######
+
+#### File 1086: un1082 ####
+Flamewyrm
+###### End ######
+
+#### File 1087: un1083 ####
+Nagra
+###### End ######
+
+#### File 1088: un1084 ####
+Pilgrim
+###### End ######
+
+#### File 1089: un1085 ####
+Gorras
+###### End ######
+
+#### File 1090: un1086 ####
+Imperial
+###### End ######
+
+#### File 1091: un1087 ####
+Allied Ballistician
+###### End ######
+
+#### File 1092: un1088 ####
+Allied Porter
+###### End ######
+
+#### File 1093: un1089 ####
+Fugitive
+###### End ######
+
+#### File 1094: un1090 ####
+Rescue Corps
+###### End ######
+
+#### File 1095: un1091 ####
+Morque Bandit
+###### End ######
+
+#### File 1096: un1092 ####
+Feruz
+###### End ######
+
+#### File 1097: un1093 ####
+Rick
+###### End ######
+
+#### File 1098: un1094 ####
+Bosch
+###### End ######
+
+#### File 1099: un1095 ####
+Gassieu
+###### End ######
+
+#### File 1100: un1096 ####
+Dosh
+###### End ######
+
+#### File 1101: un1097 ####
+Rick Bandit
+###### End ######
+
+#### File 1102: un1098 ####
+Narcissus
+###### End ######
+
+#### File 1103: un1099 ####
+Stefano
+###### End ######
+
+#### File 1104: un1100 ####
+Lazarus
+###### End ######
+
+#### File 1105: un1101 ####
+Matthai
+###### End ######
+
+#### File 1106: un1102 ####
+Balava
+###### End ######
+
+#### File 1107: un1103 ####
+Red Brother
+###### End ######
+
+#### File 1108: un1104 ####
+Imperial Scout
+###### End ######
+
+#### File 1109: un1105 ####
+Dangust
+###### End ######
+
+#### File 1110: un1106 ####
+Zalem Bandit
+###### End ######
+
+#### File 1111: un1107 ####
+Imperial Porter
+###### End ######
+
+#### File 1112: un1108 ####
+Imperial Seaman
+###### End ######
+
+#### File 1113: un1109 ####
+Helcut
+###### End ######
+
+#### File 1114: un1110 ####
+Imperial Ranger
+###### End ######
+
+#### File 1115: un1111 ####
+Funca
+###### End ######
+
+#### File 1116: un1112 ####
+Dudley
+###### End ######
+
+#### File 1117: un1113 ####
+Gibbs
+###### End ######
+
+#### File 1118: un1114 ####
+Chebyshev
+###### End ######
+
+#### File 1119: un1115 ####
+Webber
+###### End ######
+
+#### File 1120: un1116 ####
+Heim Villager
+###### End ######
+
+#### File 1121: un1117 ####
+Heim Villager
+###### End ######
+
+#### File 1122: un1118 ####
+Wyvern
+###### End ######
+
+#### File 1123: un1119 ####
+Desert Clan
+###### End ######
+
+#### File 1124: un1120 ####
+Vadrius
+###### End ######
+
+#### File 1125: un1121 ####
+Jail Guard
+###### End ######
+
+#### File 1126: un1122 ####
+Lyle
+###### End ######
+
+#### File 1127: un1123 ####
+Hessler
+###### End ######
+
+#### File 1128: un1124 ####
+Kerberos
+###### End ######
+
+#### File 1129: un1125 ####
+Jail Guard
+###### End ######
+
+#### File 1130: un1126 ####
+7th Wyvern Knight
+###### End ######
+
+#### File 1131: un1127 ####
+Prisoner
+###### End ######
+
+#### File 1132: un1128 ####
+Razite
+###### End ######
+
+#### File 1133: un1129 ####
+Razite
+###### End ######
+
+#### File 1134: un1130 ####
+Camp Guard
+###### End ######
+
+#### File 1135: un1131 ####
+Soldier
+###### End ######
+
+#### File 1136: un1132 ####
+Soldier
+###### End ######
+
+#### File 1137: un1133 ####
+Abus
+###### End ######
+
+#### File 1138: un1134 ####
+Warden
+###### End ######
+
+#### File 1139: un1135 ####
+Gievas
+###### End ######
+
+#### File 1140: un1136 ####
+Laon
+###### End ######
+
+#### File 1141: un1137 ####
+Volpoz Bandit
+###### End ######
+
+#### File 1142: un1138 ####
+Corrupt Priest
+###### End ######
+
+#### File 1143: un1139 ####
+Morrow
+###### End ######
+
+#### File 1144: un1140 ####
+Allison
+###### End ######
+
+#### File 1145: un1141 ####
+Razite
+###### End ######
+
+#### File 1146: un1142 ####
+Morrow Bandit
+###### End ######
+
+#### File 1147: un1143 ####
+Wyvern
+###### End ######
+
+#### File 1148: un1144 ####
+Flamewyrm
+###### End ######
+
+#### File 1149: un1145 ####
+Thor
+###### End ######
+
+#### File 1150: un1146 ####
+Meckel
+###### End ######
+
+#### File 1151: un1147 ####
+Aminov
+###### End ######
+
+#### File 1152: un1148 ####
+Castren
+###### End ######
+
+#### File 1153: un1149 ####
+Dalm
+###### End ######
+
+#### File 1154: un1150 ####
+Escapee
+###### End ######
+
+#### File 1155: un1151 ####
+Aris Villager
+###### End ######
+
+#### File 1156: un1152 ####
+Golua Villager
+###### End ######
+
+#### File 1157: un1153 ####
+Marua Villager
+###### End ######
+
+#### File 1158: un1154 ####
+Hert Villager
+###### End ######
+
+#### File 1159: un1155 ####
+Allied Soldier
+###### End ######
+
+#### File 1160: un1156 ####
+Gort Bandit
+###### End ######
+
+#### File 1161: un1157 ####
+Gort Bandit
+###### End ######
+
+#### File 1162: un1158 ####
+Gort Bandit
+###### End ######
+
+#### File 1163: un1159 ####
+Imperial 15th
+###### End ######
+
+#### File 1164: un1160 ####
+Imperial 16th
+###### End ######
+
+#### File 1165: un1161 ####
+Gort Bandit
+###### End ######
+
+#### File 1166: un1162 ####
+Lodeon
+###### End ######
+
+#### File 1167: un1163 ####
+Scourge
+###### End ######
+
+#### File 1168: un1164 ####
+Holun
+###### End ######
+
+#### File 1169: un1165 ####
+Logis
+###### End ######
+
+#### File 1170: un1166 ####
+Friz
+###### End ######
+
+#### File 1171: un1167 ####
+Wyrmspeaker
+###### End ######
+
+#### File 1172: un1168 ####
+Sandrov
+###### End ######
+
+#### File 1173: un1169 ####
+EX
+###### End ######
+
+#### File 1174: un1170 ####
+EX
+###### End ######
+
+#### File 1175: un1171 ####
+Verda
+###### End ######
+
+#### File 1176: un1172 ####
+Uriad
+###### End ######
+
+#### File 1177: un1173 ####
+Morax
+###### End ######
+
+#### File 1178: un1174 ####
+Muerthen
+###### End ######
+
+#### File 1179: un1175 ####
+Gorzevalus
+###### End ######
+
+#### File 1180: un1176 ####
+Associate
+###### End ######
+
+#### File 1181: un1177 ####
+Guard
+###### End ######
+
+#### File 1182: un1178 ####
+Varosius
+###### End ######
+
+#### File 1183: un1179 ####
+Belgica Bandit
+###### End ######
+
+#### File 1184: un1180 ####
+Fence
+###### End ######
+
+#### File 1185: un1181 ####
+Headquarters
+###### End ######
+
+#### File 1186: un1182 ####
+Storehouse
+###### End ######
+
+#### File 1187: un1183 ####
+Barracks
+###### End ######
+
+#### File 1188: un1184 ####
+Barracks
+###### End ######
+
+#### File 1189: un1185 ####
+Barracks
+###### End ######
+
+#### File 1190: un1186 ####
+Barracks
+###### End ######
+
+#### File 1191: un1187 ####
+Barracks
+###### End ######
+
+#### File 1192: un1188 ####
+Reserve Officer
+###### End ######
+
+#### File 1193: un1189 ####
+Guard
+###### End ######
+
+#### File 1194: un1190 ####
+Guard
+###### End ######
+
+#### File 1195: un1191 ####
+Guard
+###### End ######
+
+#### File 1196: un1192 ####
+Volunteer
+###### End ######
+
+#### File 1197: un1193 ####
+Volunteer
+###### End ######
+
+#### File 1198: un1194 ####
+Volunteer
+###### End ######
+
+#### File 1199: un1195 ####
+Bolt
+###### End ######
+
+#### File 1200: un1196 ####
+Boltz
+###### End ######
+
+#### File 1201: un1197 ####
+Horus
+###### End ######
+
+#### File 1202: un1198 ####
+Krishna
+###### End ######
+
+#### File 1203: un1199 ####
+Dallas
+###### End ######
+
+#### File 1204: un1200 ####
+Overseer
+###### End ######
+
+#### File 1205: un1201 ####
+Fyodor
+###### End ######
+
+#### File 1206: un1202 ####
+Hazrij
+###### End ######
+
+#### File 1207: un1203 ####
+Hazrij's Unit
+###### End ######
+
+#### File 1208: un1204 ####
+Razite
+###### End ######
+
+#### File 1209: un1205 ####
+Imperial Officer
+###### End ######
+
+#### File 1210: un1206 ####
+Imperial Garrison
+###### End ######
+
+#### File 1211: un1207 ####
+Klamp
+###### End ######
+
+#### File 1212: un1208 ####
+Bianca
+###### End ######
+
+#### File 1213: un1209 ####
+Bonfire
+###### End ######
+
+#### File 1214: un1210 ####
+Razite
+###### End ######
+
+#### File 1215: un1211 ####
+Razite
+###### End ######
+
+#### File 1216: un1212 ####
+Razite
+###### End ######
+
+#### File 1217: un1213 ####
+Convoy
+###### End ######
+
+#### File 1218: un1214 ####
+Stormtrooper
+###### End ######
+
+#### File 1219: un1215 ####
+Zeiz
+###### End ######
+
+#### File 1220: un1216 ####
+Deadeye
+###### End ######
+
+#### File 1221: un1217 ####
+Bowman
+###### End ######
+
+#### File 1222: un1218 ####
+Artia
+###### End ######
+
+#### File 1223: un1219 ####
+Patrol Wyvern
+###### End ######
+
+#### File 1224: un1220 ####
+Degnar
+###### End ######
+
+#### File 1225: un1221 ####
+Bailiff
+###### End ######
+
+#### File 1226: un1222 ####
+Oftar
+###### End ######
+
+#### File 1227: un1223 ####
+Disaad
+###### End ######
+
+#### File 1228: un1224 ####
+Razite
+###### End ######
+
+#### File 1229: un1225 ####
+Penelo
+###### End ######
+
+#### File 1230: un1226 ####
+Slaver
+###### End ######
+
+#### File 1231: un1227 ####
+Fugitive
+###### End ######
+
+#### File 1232: un1228 ####
+Rescue Officer
+###### End ######
+
+#### File 1233: un1229 ####
+Rescue Corps
+###### End ######
+
+#### File 1234: un1230 ####
+Soldier
+###### End ######
+
+#### File 1235: un1231 ####
+Soldier
+###### End ######
+
+#### File 1236: un1232 ####
+Camp Guard
+###### End ######
+
+#### File 1237: un1233 ####
+Camp Guard
+###### End ######
+
+#### File 1238: un1234 ####
+Camp Guard
+###### End ######
+
+#### File 1239: un1235 ####
+Camp Guard
+###### End ######
+
+#### File 1240: un1236 ####
+Camp Guard
+###### End ######
+
+#### File 1241: un1237 ####
+Camp Guard
+###### End ######
+
+#### File 1242: un1238 ####
+Soldier
+###### End ######
+
+#### File 1243: un1239 ####
+Soldier
+###### End ######
+
+#### File 1244: un1240 ####
+Soldier
+###### End ######
+
+#### File 1245: un1241 ####
+Soldier
+###### End ######
+
+#### File 1246: un1242 ####
+Lawson
+###### End ######
+
+#### File 1247: un1243 ####
+Nizal
+###### End ######
+
+#### File 1248: un1244 ####
+Razite
+###### End ######
+
+#### File 1249: un1245 ####
+Razite
+###### End ######
+
+#### File 1250: un1246 ####
+Reiss
+###### End ######
+
+#### File 1251: un1247 ####
+Mauro
+###### End ######
+
+#### File 1252: un1248 ####
+Cleric
+###### End ######
+
+#### File 1253: un1249 ####
+Alicia
+###### End ######
+
+#### File 1254: un1250 ####
+Savat
+###### End ######
+
+#### File 1255: un1251 ####
+Teresa
+###### End ######
+
+#### File 1256: un1252 ####
+Pejj
+###### End ######
+
+#### File 1257: un1253 ####
+Zachs
+###### End ######
+
+#### File 1258: un1254 ####
+Lewis
+###### End ######
+
+#### File 1259: un1255 ####
+Bluck
+###### End ######
+
+#### File 1260: un1256 ####
+Cecily
+###### End ######
+
+#### File 1261: un1257 ####
+Carmal
+###### End ######
+
+#### File 1262: un1258 ####
+Lendel
+###### End ######
+
+#### File 1263: un1259 ####
+Jonathan
+###### End ######
+
+#### File 1264: un1260 ####
+Yumil
+###### End ######
+
+#### File 1265: un1261 ####
+Blacksmith
+###### End ######
+
+#### File 1266: un1262 ####
+Set
+###### End ######
+
+#### File 1267: un1263 ####
+Hermott
+###### End ######
+
+#### File 1268: un1264 ####
+Weyl
+###### End ######
+
+#### File 1269: un1265 ####
+Euclid
+###### End ######
+
+#### File 1270: un1266 ####
+Jailor
+###### End ######
+
+#### File 1271: un1267 ####
+Jung
+###### End ######
+
+#### File 1272: un1268 ####
+Store Clerk
+###### End ######
+
+#### File 1273: un1269 ####
+Mayor
+###### End ######
+
+#### File 1274: un1270 ####
+Villager
+###### End ######
+
+#### File 1275: un1271 ####
+Defender
+###### End ######
+
+#### File 1276: un1272 ####
+Defender
+###### End ######
+
+#### File 1277: un1273 ####
+Defender
+###### End ######
+
+#### File 1278: un1274 ####
+Defender
+###### End ######
+
+#### File 1279: un1275 ####
+Zeoselm
+###### End ######
+
+#### File 1280: un1276 ####
+Zerrau
+###### End ######
+
+#### File 1281: un1277 ####
+Ferres
+###### End ######
+
+#### File 1282: un1278 ####
+Leanne
+###### End ######
+
+#### File 1283: un1279 ####
+Head Guard
+###### End ######
+
+#### File 1284: un1280 ####
+Guardsman
+###### End ######
+
+#### File 1285: un1281 ####
+Favre
+###### End ######
+
+#### File 1286: un1282 ####
+Roswick
+###### End ######
+
+#### File 1287: un1283 ####
+Vanmilion
+###### End ######
+
+#### File 1288: un1284 ####
+Bharat
+###### End ######
+
+#### File 1289: un1285 ####
+Esteban
+###### End ######
+
+#### File 1290: un1286 ####
+Padolf
+###### End ######
+
+#### File 1291: un1287 ####
+Borman
+###### End ######
+
+#### File 1292: un1288 ####
+Roswick
+###### End ######
+
+#### File 1293: un1289 ####
+Volcens
+###### End ######
+
+#### File 1294: un1290 ####
+Herman
+###### End ######
+
+#### File 1295: un1291 ####
+Lebough
+###### End ######
+
+#### File 1296: un1292 ####
+Padolf
+###### End ######
+
+#### File 1297: un1293 ####
+Reed
+###### End ######
+
+#### File 1298: un1294 ####
+Bernard
+###### End ######
+
+#### File 1299: un1295 ####
+Zephyrus
+###### End ######
+
+#### File 1300: un1296 ####
+Anatol
+###### End ######
+
+#### File 1301: un1297 ####
+Kleiman
+###### End ######
+
+#### File 1302: un1298 ####
+Faisal
+###### End ######
+
+#### File 1303: un1299 ####
+Anastasia
+###### End ######
+
+#### File 1304: un1300 ####
+Cordova
+###### End ######
+
+#### File 1305: un1301 ####
+Bernstol
+###### End ######
+
+#### File 1306: un1302 ####
+Ciel
+###### End ######
+
+#### File 1307: un1303 ####
+Ciel
+###### End ######
+
+#### File 1308: un1304 ####
+Eleanor
+###### End ######
+
+#### File 1309: un1305 ####
+Beck
+###### End ######
+
+#### File 1310: un1306 ####
+Fowlkes
+###### End ######
+
+#### File 1311: un1307 ####
+Arik
+###### End ######
+
+#### File 1312: un1308 ####
+Valery
+###### End ######
+
+#### File 1313: un1309 ####
+Heirva
+###### End ######
+
+#### File 1314: un1310 ####
+(nobody)
+###### End ######
+
+#### File 1315: un1311 ####
+Clerk
+###### End ######
+
+#### File 1316: un1312 ####
+Clerk
+###### End ######
+
+#### File 1317: un1313 ####
+Clerk
+###### End ######
+
+#### File 1318: un1314 ####
+Priest
+###### End ######
+
+#### File 1319: un1315 ####
+Villager
+###### End ######
+
+#### File 1320: un1316 ####
+Deserter
+###### End ######
+
+#### File 1321: un1317 ####
+Deserter
+###### End ######
+
+#### File 1322: un1318 ####
+Deserter
+###### End ######
+
+#### File 1323: un1319 ####
+Laszlo
+###### End ######
+
+#### File 1324: un1320 ####
+Katya
+###### End ######
+
+#### File 1325: un1321 ####
+Leonard
+###### End ######
+
+#### File 1326: un1322 ####
+Halvan
+###### End ######
+
+#### File 1327: un1323 ####
+Nieves
+###### End ######
+
+#### File 1328: un1324 ####
+Elder
+###### End ######
+
+#### File 1329: un1325 ####
+Lady
+###### End ######
+
+#### File 1330: un1326 ####
+Lady
+###### End ######
+
+#### File 1331: un1327 ####
+Lady
+###### End ######
+
+#### File 1332: un1328 ####
+Girl
+###### End ######
+
+#### File 1333: un1329 ####
+Mercenary
+###### End ######
+
+#### File 1334: un1330 ####
+Mercenary
+###### End ######
+
+#### File 1335: un1331 ####
+Mercenary
+###### End ######
+
+#### File 1336: un1332 ####
+Adenau
+###### End ######
+
+#### File 1337: un1333 ####
+Ex-Cleim
+###### End ######
+
+#### File 1338: un1334 ####
+Jirra
+###### End ######
+
+#### File 1339: un1335 ####
+Bornian
+###### End ######
+
+#### File 1340: un1336 ####
+Bowen
+###### End ######
+
+#### File 1341: un1337 ####
+Narvian Knight
+###### End ######
+
+#### File 1342: un1338 ####
+Markos
+###### End ######
+
+#### File 1343: un1339 ####
+Eliza
+###### End ######
+
+#### File 1344: un1340 ####
+Eliza
+###### End ######
+
+#### File 1345: un1341 ####
+Eliza
+###### End ######
+
+#### File 1346: un1342 ####
+Ellis
+###### End ######
+
+#### File 1347: un1343 ####
+Trespasser
+###### End ######
+
+#### File 1348: un1344 ####
+Columban
+###### End ######
+
+#### File 1349: un1345 ####
+Raquel
+###### End ######
+
+#### File 1350: un1346 ####
+Gomorrah
+###### End ######
+
+#### File 1351: un1347 ####
+Erzheimer
+###### End ######
+
+#### File 1352: un1348 ####
+Barselphon
+###### End ######
+
+#### File 1353: un1349 ####
+Moniz
+###### End ######
+
+#### File 1354: un1350 ####
+Catherine
+###### End ######
+
+#### File 1355: un1351 ####
+Maris
+###### End ######
+
+#### File 1356: un1352 ####
+Liz
+###### End ######
+
+#### File 1357: un1353 ####
+City Kid
+###### End ######
+
+#### File 1358: un1354 ####
+City Kid
+###### End ######
+
+#### File 1359: un1355 ####
+Karmell
+###### End ######
+
+#### File 1360: un1356 ####
+Actor
+###### End ######
+
+#### File 1361: un1357 ####
+Actor
+###### End ######
+
+#### File 1362: un1358 ####
+Actor
+###### End ######
+
+#### File 1363: un1359 ####
+Actor
+###### End ######
+
+#### File 1364: un1360 ####
+Newbie
+###### End ######
+
+#### File 1365: un1361 ####
+Townsperson
+###### End ######
+
+#### File 1366: un1362 ####
+Morrison
+###### End ######
+
+#### File 1367: un1363 ####
+Marshe
+###### End ######
+
+#### File 1368: un1364 ####
+Russel
+###### End ######
+
+#### File 1369: un1365 ####
+Martha
+###### End ######
+
+#### File 1370: un1366 ####
+Western Army
+###### End ######
+
+#### File 1371: un1367 ####
+Vatolla
+###### End ######
+
+#### File 1372: un1368 ####
+Arcturus
+###### End ######
+
+#### File 1373: un1369 ####
+Soldier
+###### End ######
+
+#### File 1374: un1370 ####
+Rosecchar
+###### End ######
+
+#### File 1375: un1371 ####
+Virgil
+###### End ######
+
+#### File 1376: un1372 ####
+Decker
+###### End ######
+
+#### File 1377: un1373 ####
+Matthew
+###### End ######
+
+#### File 1378: un1374 ####
+Rippula
+###### End ######
+
+#### File 1379: un1375 ####
+Gibry
+###### End ######
+
+#### File 1380: un1376 ####
+Lazlow
+###### End ######
+
+#### File 1381: un1377 ####
+Phyllis
+###### End ######
+
+#### File 1382: un1378 ####
+Lark
+###### End ######
+
+#### File 1383: un1379 ####
+Siglis
+###### End ######
+
+#### File 1384: un1380 ####
+Gina
+###### End ######
+
+#### File 1385: un1381 ####
+Ophelia
+###### End ######
+
+#### File 1386: un1382 ####
+Narvian Knight
+###### End ######
+
+#### File 1387: un1383 ####
+Corona
+###### End ######
+
+#### File 1388: un1384 ####
+Thompson
+###### End ######
+
+#### File 1389: un1385 ####
+Genos
+###### End ######
+
+#### File 1390: un1386 ####
+Pierre
+###### End ######
+
+#### File 1391: un1387 ####
+Lydia
+###### End ######
+
+#### File 1392: un1388 ####
+Quescria
+###### End ######
+
+#### File 1393: un1389 ####
+Bharat
+###### End ######
+
+#### File 1394: un1390 ####
+Tavan
+###### End ######
+
+#### File 1395: un1391 ####
+Larsil
+###### End ######
+
+#### File 1396: un1392 ####
+Manaclir
+###### End ######
+
+#### File 1397: un1393 ####
+Raisel
+###### End ######
+
+#### File 1398: un1394 ####
+Pamela
+###### End ######
+
+#### File 1399: un1395 ####
+Lecter
+###### End ######
+
+#### File 1400: un1396 ####
+Marx
+###### End ######
+
+#### File 1401: un1397 ####
+Lena
+###### End ######
+
+#### File 1402: un1398 ####
+Ex-Bianca
+###### End ######
+
+#### File 1403: un1399 ####
+Remy
+###### End ######
+
+#### File 1404: un1400 ####
+Coney
+###### End ######
+
+#### File 1405: un1401 ####
+Marl
+###### End ######
+
+#### File 1406: un1402 ####
+Marinia
+###### End ######
+
+#### File 1407: un1403 ####
+Marolles
+###### End ######
+
+#### File 1408: un1404 ####
+Leno
+###### End ######
+
+#### File 1409: un1405 ####
+Dwight
+###### End ######
+
+#### File 1410: un1406 ####
+Vectar
+###### End ######
+
+#### File 1411: un1407 ####
+Graham
+###### End ######
+
+#### File 1412: un1408 ####
+Maia
+###### End ######
+
+#### File 1413: un1409 ####
+Marrow
+###### End ######
+
+#### File 1414: un1410 ####
+Elmund
+###### End ######
+
+#### File 1415: un1411 ####
+Shamrock
+###### End ######
+
+#### File 1416: un1412 ####
+Cleo
+###### End ######
+
+#### File 1417: un1413 ####
+Milia
+###### End ######
+
+#### File 1418: un1414 ####
+Tina
+###### End ######
+
+#### File 1419: un1415 ####
+Tina
+###### End ######
+
+#### File 1420: un1416 ####
+Razenclaw
+###### End ######
+
+#### File 1421: un1417 ####
+Razenclaw
+###### End ######
+
+#### File 1422: un1418 ####
+Snow Bandit
+###### End ######
+
+#### File 1423: un1419 ####
+Snow Bandit
+###### End ######
+
+#### File 1424: un1420 ####
+Snow Bandit
+###### End ######
+
+#### File 1425: un1421 ####
+Snow Bandit
+###### End ######
+
+#### File 1426: un1422 ####
+Sinon Knight
+###### End ######
+
+#### File 1427: un1423 ####
+Peddler
+###### End ######
+
+#### File 1428: un1424 ####
+Serkis
+###### End ######
+
+#### File 1429: un1425 ####
+Mazela
+###### End ######
+
+#### File 1430: un1426 ####
+Lane
+###### End ######
+
+#### File 1431: un1427 ####
+Moria
+###### End ######
+
+#### File 1432: un1428 ####
+Citizen
+###### End ######
+
+#### File 1433: un1429 ####
+Citizen
+###### End ######
+
+#### File 1434: un1430 ####
+Citizen
+###### End ######
+
+#### File 1435: un1431 ####
+Vall Pirate
+###### End ######
+
+#### File 1436: un1432 ####
+Vall Pirate
+###### End ######
+
+#### File 1437: un1433 ####
+Vall Pirate
+###### End ######
+
+#### File 1438: un1434 ####
+Vall Pirate
+###### End ######
+
+#### File 1439: un1435 ####
+Vall Pirate
+###### End ######
+
+#### File 1440: un1436 ####
+Vall Pirate
+###### End ######
+
+#### File 1441: un1437 ####
+Norman
+###### End ######
+
+#### File 1442: un1438 ####
+Colette's Mom
+###### End ######
+
+#### File 1443: un1439 ####
+Colette
+###### End ######
+
+#### File 1444: un1440 ####
+Allied Soldier
+###### End ######
+
+#### File 1445: un1441 ####
+Marx
+###### End ######
+
+#### File 1446: un1442 ####
+Folmer
+###### End ######
+
+#### File 1447: un1443 ####
+Bas
+###### End ######
+
+#### File 1448: un1444 ####
+Celina
+###### End ######
+
+#### File 1449: un1445 ####
+Seamus's Goon
+###### End ######
+
+#### File 1450: un1446 ####
+Seamus's Goon
+###### End ######
+
+#### File 1451: un1447 ####
+Seamus's Goon
+###### End ######
+
+#### File 1452: un1448 ####
+Seamus's Goon
+###### End ######
+
+#### File 1453: un1449 ####
+Ellis
+###### End ######
+
+#### File 1454: un1450 ####
+Freyr
+###### End ######
+
+#### File 1455: un1451 ####
+Rockefeller
+###### End ######
+
+#### File 1456: un1452 ####
+Marua Villager
+###### End ######
+
+#### File 1457: un1453 ####
+Marua Villager
+###### End ######
+
+#### File 1458: un1454 ####
+Marua Villager
+###### End ######
+
+#### File 1459: un1455 ####
+Golua Villager
+###### End ######
+
+#### File 1460: un1456 ####
+Golua Villager
+###### End ######
+
+#### File 1461: un1457 ####
+Aris Villager
+###### End ######
+
+#### File 1462: un1458 ####
+Hert Villager
+###### End ######
+
+#### File 1463: un1459 ####
+Palace Knight
+###### End ######
+
+#### File 1464: un1460 ####
+Royal Knight
+###### End ######
+
+#### File 1465: un1461 ####
+Grinid
+###### End ######
+
+#### File 1466: un1462 ####
+Attendant
+###### End ######
+
+#### File 1467: un1463 ####
+Elder
+###### End ######
+
+#### File 1468: un1464 ####
+Lumberjack
+###### End ######
+
+#### File 1469: un1465 ####
+Chaos
+###### End ######
+
+#### File 1470: un1466 ####
+May
+###### End ######
+
+#### File 1471: un1467 ####
+Lardil
+###### End ######
+
+#### File 1472: un1468 ####
+Kappha
+###### End ######
+
+#### File 1473: un1469 ####
+Marine
+###### End ######
+
+#### File 1474: un1470 ####
+Phelps
+###### End ######
+
+#### File 1475: un1471 ####
+Lilim
+###### End ######
+
+#### File 1476: un1472 ####
+Blest
+###### End ######
+
+#### File 1477: un1473 ####
+Anita
+###### End ######
+
+#### File 1478: un1474 ####
+Velzen
+###### End ######
+
+#### File 1479: un1475 ####
+Tinna
+###### End ######
+
+#### File 1480: un1476 ####
+Foal
+###### End ######
+
+#### File 1481: un1477 ####
+Citizen
+###### End ######
+
+#### File 1482: un1478 ####
+Citizen
+###### End ######
+
+#### File 1483: un1479 ####
+Citizen
+###### End ######
+
+#### File 1484: un1480 ####
+Citizen
+###### End ######
+
+#### File 1485: un1481 ####
+Citizen
+###### End ######
+
+#### File 1486: un1482 ####
+Explainer
+###### End ######
+
+#### File 1487: un1483 ####
+Establisher
+###### End ######
+
+#### File 1488: un1484 ####
+Initiator
+###### End ######
+
+#### File 1489: un1485 ####
+Guide
+###### End ######
+
+#### File 1490: un1486 ####
+Fina
+###### End ######
+
+#### File 1491: un1487 ####
+Gravekeeper
+###### End ######
+
+#### File 1492: un1488 ####
+Soldier
+###### End ######
+
+#### File 1493: un1489 ####
+Lidran
+###### End ######
+
+#### File 1494: un1490 ####
+Lara
+###### End ######
+
+#### File 1495: un1491 ####
+Hassan
+###### End ######
+
+#### File 1496: un1492 ####
+Imperial
+###### End ######
+
+#### File 1497: un1493 ####
+Imperial
+###### End ######
+
+#### File 1498: un1494 ####
+Imperial Knight
+###### End ######
+
+#### File 1499: un1495 ####
+Customer
+###### End ######
+
+#### File 1500: un1496 ####
+Customer
+###### End ######
+
+#### File 1501: un1497 ####
+Customer
+###### End ######
+
+#### File 1502: un1498 ####
+Customer
+###### End ######
+
+#### File 1503: un1499 ####
+Squad Leader
+###### End ######
+
+#### File 1504: un1500 ####
+Priest
+###### End ######
+
+#### File 1505: un1501 ####
+Cassandra
+###### End ######
+
+#### File 1506: un1502 ####
+Chosen One
+###### End ######
+
+#### File 1507: un1503 ####
+Military Police
+###### End ######
+
+#### File 1508: un1504 ####
+Military Police
+###### End ######
+
+#### File 1509: un1505 ####
+Police Chief
+###### End ######
+
+#### File 1510: un1506 ####
+Priest
+###### End ######
+
+#### File 1511: un1507 ####
+Sienna
+###### End ######
+
+#### File 1512: un1508 ####
+Sienna
+###### End ######
+
+#### File 1513: un1509 ####
+Sienna
+###### End ######
+
+#### File 1514: un1510 ####
+Bernard
+###### End ######
+
+#### File 1515: un1511 ####
+Captain
+###### End ######
+
+#### File 1516: un1512 ####
+Palitzsch
+###### End ######
+
+#### File 1517: un1513 ####
+Mark
+###### End ######
+
+#### File 1518: un1514 ####
+Harold
+###### End ######
+
+#### File 1519: un1515 ####
+Sabrina
+###### End ######
+
+#### File 1520: un1516 ####
+Claudia
+###### End ######
+
+#### File 1521: un1517 ####
+Chief Guardsman
+###### End ######
+
+#### File 1522: un1518 ####
+Tensberger
+###### End ######
+
+#### File 1523: un1519 ####
+Dolce
+###### End ######
+
+#### File 1524: un1520 ####
+Vergil
+###### End ######
+
+#### File 1525: un1521 ####
+Narvian Knight
+###### End ######
+
+#### File 1526: un1522 ####
+Masked Man
+###### End ######
+
+#### File 1527: un1523 ####
+Leticia
+###### End ######
+
+#### File 1528: un1524 ####
+Manaris
+###### End ######
+
+#### File 1529: un1525 ####
+Fraus
+###### End ######
+
+#### File 1530: un1526 ####
+Agnes
+###### End ######
+
+#### File 1531: un1527 ####
+Customer
+###### End ######
+
+#### File 1532: un1528 ####
+Bornian
+###### End ######
+
+#### File 1533: un1529 ####
+Anna
+###### End ######
+
+#### File 1534: un1530 ####
+Lynette
+###### End ######
+
+#### File 1535: un1531 ####
+Priest
+###### End ######
+
+#### File 1536: un1532 ####
+Customer
+###### End ######
+
+#### File 1537: un1533 ####
+Customer
+###### End ######
+
+#### File 1538: un1534 ####
+Jean
+###### End ######
+
+#### File 1539: un1535 ####
+Drunkard
+###### End ######
+
+#### File 1540: un1536 ####
+Drunkard
+###### End ######
+
+#### File 1541: un1537 ####
+Lynette
+###### End ######
+
+#### File 1542: un1538 ####
+Almuth
+###### End ######
+
+#### File 1543: un1539 ####
+Enoch
+###### End ######
+
+#### File 1544: un1540 ####
+Spy
+###### End ######
+
+#### File 1545: un1541 ####
+Woman
+###### End ######
+
+#### File 1546: un1542 ####
+Messenger
+###### End ######
+
+#### File 1547: un1543 ####
+Azrael
+###### End ######
+
+#### File 1548: un1544 ####
+Pope Urbanus
+###### End ######
+
+#### File 1549: un1545 ####
+Sarah
+###### End ######
+
+#### File 1550: un1546 ####
+Rumi
+###### End ######
+
+#### File 1551: un1547 ####
+Rumi's Mom
+###### End ######
+
+#### File 1552: un1548 ####
+Shaiah
+###### End ######
+
+#### File 1553: un1549 ####
+Magnard
+###### End ######
+
+#### File 1554: un1550 ####
+Morai
+###### End ######
+
+#### File 1555: un1551 ####
+Marius
+###### End ######
+
+#### File 1556: un1552 ####
+Associate
+###### End ######
+
+#### File 1557: un1553 ####
+Sentry
+###### End ######
+
+#### File 1558: un1554 ####
+Witte
+###### End ######
+
+#### File 1559: un1555 ####
+Sherpa
+###### End ######
+
+#### File 1560: un1556 ####
+Sherpa
+###### End ######
+
+#### File 1561: un1557 ####
+Owen
+###### End ######
+
+#### File 1562: un1558 ####
+Reese
+###### End ######
+
+#### File 1563: un1559 ####
+Dummy1
+###### End ######
+
+#### File 1564: un1560 ####
+Dummy2
+###### End ######
+
+#### File 1565: un1561 ####
+Cowen
+###### End ######
+
+#### File 1566: un1562 ####
+Allied Scientist
+###### End ######
+
+#### File 1567: un1563 ####
+Ferianne
+###### End ######
+
+#### File 1568: un1564 ####
+Mordred
+###### End ######
+
+#### File 1569: un1565 ####
+Clerk
+###### End ######
+
+#### File 1570: un1566 ####
+Brighton
+###### End ######
+
+#### File 1571: it001 ####
+Dagger
+###### End ######
+
+#### File 1572: it002 ####
+Poison Knife
+###### End ######
+
+#### File 1573: it003 ####
+Kris
+###### End ######
+
+#### File 1574: it004 ####
+Vespa
+###### End ######
+
+#### File 1575: it005 ####
+Crotalus
+###### End ######
+
+#### File 1576: it006 ####
+Tempest Knife
+###### End ######
+
+#### File 1577: it007 ####
+Dart
+###### End ######
+
+#### File 1578: it008 ####
+Seax
+###### End ######
+
+#### File 1579: it009 ####
+Killer Knife
+###### End ######
+
+#### File 1580: it010 ####
+Shieldknife
+###### End ######
+
+#### File 1581: it011 ####
+Thief's Knife
+###### End ######
+
+#### File 1582: it012 ####
+Main Gauche
+###### End ######
+
+#### File 1583: it013 ####
+Swordbreaker
+###### End ######
+
+#### File 1584: it014 ####
+Stun Knife
+###### End ######
+
+#### File 1585: it015 ####
+Throwing Knife
+###### End ######
+
+#### File 1586: it016 ####
+Letter Opener
+###### End ######
+
+#### File 1587: it017 ####
+Air Knife
+###### End ######
+
+#### File 1588: it018 ####
+Sleep Knife
+###### End ######
+
+#### File 1589: it019 ####
+Blood Knife
+###### End ######
+
+#### File 1590: it020 ####
+Carnwenhau
+###### End ######
+
+#### File 1591: it021 ####
+Bolt Knife
+###### End ######
+
+#### File 1592: it022 ####
+Assassin's Knife
+###### End ######
+
+#### File 1593: it023 ####
+KnfEX
+###### End ######
+
+#### File 1594: it024 ####
+KnfEX
+###### End ######
+
+#### File 1595: it025 ####
+KnfEX
+###### End ######
+
+#### File 1596: it026 ####
+KnfEX
+###### End ######
+
+#### File 1597: it027 ####
+KnfEX
+###### End ######
+
+#### File 1598: it028 ####
+KnfEX
+###### End ######
+
+#### File 1599: it029 ####
+KnfEX
+###### End ######
+
+#### File 1600: it030 ####
+KnfEX
+###### End ######
+
+#### File 1601: it031 ####
+KnfEX
+###### End ######
+
+#### File 1602: it032 ####
+Broken Knife
+###### End ######
+
+#### File 1603: it033 ####
+Shortsword
+###### End ######
+
+#### File 1604: it034 ####
+Bronze Sword
+###### End ######
+
+#### File 1605: it035 ####
+Longsword
+###### End ######
+
+#### File 1606: it036 ####
+Knight Sword
+###### End ######
+
+#### File 1607: it037 ####
+Broadsword
+###### End ######
+
+#### File 1608: it038 ####
+Holy Mace
+###### End ######
+
+#### File 1609: it039 ####
+Lady Sword
+###### End ######
+
+#### File 1610: it040 ####
+Altium Sword
+###### End ######
+
+#### File 1611: it041 ####
+Mithril Sword
+###### End ######
+
+#### File 1612: it042 ####
+Rapier
+###### End ######
+
+#### File 1613: it043 ####
+Estoc
+###### End ######
+
+#### File 1614: it044 ####
+Flame Sword
+###### End ######
+
+#### File 1615: it045 ####
+Levin Sword
+###### End ######
+
+#### File 1616: it046 ####
+Cutlass
+###### End ######
+
+#### File 1617: it047 ####
+Scimitar
+###### End ######
+
+#### File 1618: it048 ####
+Shamshir
+###### End ######
+
+#### File 1619: it049 ####
+Holy Sword
+###### End ######
+
+#### File 1620: it050 ####
+Bastard Sword
+###### End ######
+
+#### File 1621: it051 ####
+Zweihander
+###### End ######
+
+#### File 1622: it052 ####
+Greatsword
+###### End ######
+
+#### File 1623: it053 ####
+(Claymore)
+###### End ######
+
+#### File 1624: it054 ####
+Killing Edge
+###### End ######
+
+#### File 1625: it055 ####
+Brymranger
+###### End ######
+
+#### File 1626: it056 ####
+Vajra
+###### End ######
+
+#### File 1627: it057 ####
+Gram
+###### End ######
+
+#### File 1628: it058 ####
+Vritra
+###### End ######
+
+#### File 1629: it059 ####
+Balmung
+###### End ######
+
+#### File 1630: it060 ####
+(Epee)
+###### End ######
+
+#### File 1631: it061 ####
+Raze Etoile
+###### End ######
+
+#### File 1632: it062 ####
+Nothung
+###### End ######
+
+#### File 1633: it063 ####
+Verian Sword
+###### End ######
+
+#### File 1634: it064 ####
+Imperial Sword
+###### End ######
+
+#### File 1635: it065 ####
+Poison Mace
+###### End ######
+
+#### File 1636: it066 ####
+Cutlass+
+###### End ######
+
+#### File 1637: it067 ####
+Iron Club
+###### End ######
+
+#### File 1638: it068 ####
+Ancient Sword
+###### End ######
+
+#### File 1639: it069 ####
+Albatross
+###### End ######
+
+#### File 1640: it070 ####
+Zanbato
+###### End ######
+
+#### File 1641: it071 ####
+Scimitar+
+###### End ######
+
+#### File 1642: it072 ####
+Saber
+###### End ######
+
+#### File 1643: it073 ####
+Wind Edge
+###### End ######
+
+#### File 1644: it074 ####
+Dark Mace
+###### End ######
+
+#### File 1645: it075 ####
+Balmung
+###### End ######
+
+#### File 1646: it076 ####
+Balmung
+###### End ######
+
+#### File 1647: it077 ####
+(DUMMY Sword)
+###### End ######
+
+#### File 1648: it078 ####
+(DUMMY Sword)
+###### End ######
+
+#### File 1649: it079 ####
+(DUMMY Sword)
+###### End ######
+
+#### File 1650: it080 ####
+(DUMMY Sword)
+###### End ######
+
+#### File 1651: it081 ####
+(DUMMY Sword)
+###### End ######
+
+#### File 1652: it082 ####
+(DUMMY Sword)
+###### End ######
+
+#### File 1653: it083 ####
+(DUMMY Sword)
+###### End ######
+
+#### File 1654: it084 ####
+(DUMMY Sword)
+###### End ######
+
+#### File 1655: it085 ####
+(DUMMY Sword)
+###### End ######
+
+#### File 1656: it086 ####
+(DUMMY Sword)
+###### End ######
+
+#### File 1657: it087 ####
+(DUMMY Sword)
+###### End ######
+
+#### File 1658: it088 ####
+(DUMMY Sword)
+###### End ######
+
+#### File 1659: it089 ####
+Infernal Edge
+###### End ######
+
+#### File 1660: it090 ####
+Colichemarde
+###### End ######
+
+#### File 1661: it091 ####
+Grimhild
+###### End ######
+
+#### File 1662: it092 ####
+Harperia
+###### End ######
+
+#### File 1663: it093 ####
+Adrasteia
+###### End ######
+
+#### File 1664: it094 ####
+Broken Mace
+###### End ######
+
+#### File 1665: it095 ####
+Broken Blade
+###### End ######
+
+#### File 1666: it096 ####
+Broken Sword
+###### End ######
+
+#### File 1667: it097 ####
+Pilum
+###### End ######
+
+#### File 1668: it098 ####
+Verutum
+###### End ######
+
+#### File 1669: it099 ####
+Javelin
+###### End ######
+
+#### File 1670: it100 ####
+Iron Spear
+###### End ######
+
+#### File 1671: it101 ####
+Steel Spear
+###### End ######
+
+#### File 1672: it102 ####
+Longspear
+###### End ######
+
+#### File 1673: it103 ####
+Mithril Spear
+###### End ######
+
+#### File 1674: it104 ####
+Doru
+###### End ######
+
+#### File 1675: it105 ####
+Glaive
+###### End ######
+
+#### File 1676: it106 ####
+Iron Lance
+###### End ######
+
+#### File 1677: it107 ####
+Oxtongue
+###### End ######
+
+#### File 1678: it108 ####
+Xyston
+###### End ######
+
+#### File 1679: it109 ####
+Fauchard
+###### End ######
+
+#### File 1680: it110 ####
+Killer Spear
+###### End ######
+
+#### File 1681: it111 ####
+Drakelance
+###### End ######
+
+#### File 1682: it112 ####
+(Glass Spear)
+###### End ######
+
+#### File 1683: it113 ####
+Wind Spear
+###### End ######
+
+#### File 1684: it114 ####
+Swift Spear
+###### End ######
+
+#### File 1685: it115 ####
+Pike
+###### End ######
+
+#### File 1686: it116 ####
+Euthyphro
+###### End ######
+
+#### File 1687: it117 ####
+Verian Spear
+###### End ######
+
+#### File 1688: it118 ####
+Imperial Spear
+###### End ######
+
+#### File 1689: it119 ####
+Partisan
+###### End ######
+
+#### File 1690: it120 ####
+Pitchfork
+###### End ######
+
+#### File 1691: it121 ####
+Military Fork
+###### End ######
+
+#### File 1692: it122 ####
+Firebrand
+###### End ######
+
+#### File 1693: it123 ####
+Harpoon
+###### End ######
+
+#### File 1694: it124 ####
+Ancient Spear
+###### End ######
+
+#### File 1695: it125 ####
+Gore Fork
+###### End ######
+
+#### File 1696: it126 ####
+Slim Spear
+###### End ######
+
+#### File 1697: it127 ####
+Prototype Spear
+###### End ######
+
+#### File 1698: it128 ####
+(DUMMY Spear)
+###### End ######
+
+#### File 1699: it129 ####
+(DUMMY Spear)
+###### End ######
+
+#### File 1700: it130 ####
+(DUMMY Spear)
+###### End ######
+
+#### File 1701: it131 ####
+(DUMMY Spear)
+###### End ######
+
+#### File 1702: it132 ####
+(DUMMY Spear)
+###### End ######
+
+#### File 1703: it133 ####
+(DUMMY Spear)
+###### End ######
+
+#### File 1704: it134 ####
+(DUMMY Spear)
+###### End ######
+
+#### File 1705: it135 ####
+(DUMMY Spear)
+###### End ######
+
+#### File 1706: it136 ####
+(DUMMY Fork)
+###### End ######
+
+#### File 1707: it137 ####
+(DUMMY Lance)
+###### End ######
+
+#### File 1708: it138 ####
+Broken Fork
+###### End ######
+
+#### File 1709: it139 ####
+Greatlance
+###### End ######
+
+#### File 1710: it140 ####
+(Altium Lance)
+###### End ######
+
+#### File 1711: it141 ####
+Angon
+###### End ######
+
+#### File 1712: it142 ####
+Brionac
+###### End ######
+
+#### File 1713: it143 ####
+Broken Lance
+###### End ######
+
+#### File 1714: it144 ####
+Broken Spear
+###### End ######
+
+#### File 1715: it145 ####
+Hand Axe
+###### End ######
+
+#### File 1716: it146 ####
+Francisca
+###### End ######
+
+#### File 1717: it147 ####
+Hatchet
+###### End ######
+
+#### File 1718: it148 ####
+Tomahawk
+###### End ######
+
+#### File 1719: it149 ####
+Bolt Axe
+###### End ######
+
+#### File 1720: it150 ####
+Iron Axe
+###### End ######
+
+#### File 1721: it151 ####
+Log Splitter
+###### End ######
+
+#### File 1722: it152 ####
+Bandit Axe
+###### End ######
+
+#### File 1723: it153 ####
+Broadaxe
+###### End ######
+
+#### File 1724: it154 ####
+Battleaxe
+###### End ######
+
+#### File 1725: it155 ####
+Killer Axe
+###### End ######
+
+#### File 1726: it156 ####
+War Pick
+###### End ######
+
+#### File 1727: it157 ####
+Mithril Axe
+###### End ######
+
+#### File 1728: it158 ####
+Poleax
+###### End ######
+
+#### File 1729: it159 ####
+Hammer
+###### End ######
+
+#### File 1730: it160 ####
+Breaker Axe
+###### End ######
+
+#### File 1731: it161 ####
+Greataxe
+###### End ######
+
+#### File 1732: it162 ####
+Koenigswolf
+###### End ######
+
+#### File 1733: it163 ####
+Shieldaxe
+###### End ######
+
+#### File 1734: it164 ####
+Gigas Axe
+###### End ######
+
+#### File 1735: it165 ####
+Verian Axe
+###### End ######
+
+#### File 1736: it166 ####
+Imperial Axe
+###### End ######
+
+#### File 1737: it167 ####
+Barbaric Axe
+###### End ######
+
+#### File 1738: it168 ####
+Crooked Axe
+###### End ######
+
+#### File 1739: it169 ####
+Bhuj
+###### End ######
+
+#### File 1740: it170 ####
+Battle Saw
+###### End ######
+
+#### File 1741: it171 ####
+Ancient Axe
+###### End ######
+
+#### File 1742: it172 ####
+Dark Axe
+###### End ######
+
+#### File 1743: it173 ####
+Volcano Axe
+###### End ######
+
+#### File 1744: it174 ####
+Glacier Axe
+###### End ######
+
+#### File 1745: it175 ####
+Nimbus Axe
+###### End ######
+
+#### File 1746: it176 ####
+Pickaxe
+###### End ######
+
+#### File 1747: it177 ####
+(DUMMY Axe)
+###### End ######
+
+#### File 1748: it178 ####
+(DUMMY Axe)
+###### End ######
+
+#### File 1749: it179 ####
+(DUMMY Axe)
+###### End ######
+
+#### File 1750: it180 ####
+(DUMMY Axe)
+###### End ######
+
+#### File 1751: it181 ####
+(DUMMY Axe)
+###### End ######
+
+#### File 1752: it182 ####
+(DUMMY Axe)
+###### End ######
+
+#### File 1753: it183 ####
+(DUMMY Axe)
+###### End ######
+
+#### File 1754: it184 ####
+(DUMMY Axe)
+###### End ######
+
+#### File 1755: it185 ####
+Pulverizer
+###### End ######
+
+#### File 1756: it186 ####
+(DUMMY Axe)
+###### End ######
+
+#### File 1757: it187 ####
+(DUMMY Axe)
+###### End ######
+
+#### File 1758: it188 ####
+Tabarzin
+###### End ######
+
+#### File 1759: it189 ####
+Mjollnir
+###### End ######
+
+#### File 1760: it190 ####
+(Bronze Axe)
+###### End ######
+
+#### File 1761: it191 ####
+Gullveig
+###### End ######
+
+#### File 1762: it192 ####
+Broken Axe
+###### End ######
+
+#### File 1763: it193 ####
+Iron Bow
+###### End ######
+
+#### File 1764: it194 ####
+Shortbow
+###### End ######
+
+#### File 1765: it195 ####
+Longbow
+###### End ######
+
+#### File 1766: it196 ####
+Composite Bow
+###### End ######
+
+#### File 1767: it197 ####
+Strongbow
+###### End ######
+
+#### File 1768: it198 ####
+Killer Bow
+###### End ######
+
+#### File 1769: it199 ####
+Greatbow
+###### End ######
+
+#### File 1770: it200 ####
+Pascanion
+###### End ######
+
+#### File 1771: it201 ####
+Verian Bow
+###### End ######
+
+#### File 1772: it202 ####
+Imperial Bow
+###### End ######
+
+#### File 1773: it203 ####
+Serenia Bow
+###### End ######
+
+#### File 1774: it204 ####
+Bronze Bow
+###### End ######
+
+#### File 1775: it205 ####
+Ancient Bow
+###### End ######
+
+#### File 1776: it206 ####
+Swift Bow
+###### End ######
+
+#### File 1777: it207 ####
+Apollyon
+###### End ######
+
+#### File 1778: it208 ####
+Triple-Fire Bow
+###### End ######
+
+#### File 1779: it209 ####
+#plus
+Pascanion
+###### End ######
+
+#### File 1780: it210 ####
+(DUMMY Bow)
+###### End ######
+
+#### File 1781: it211 ####
+(DUMMY Bow)
+###### End ######
+
+#### File 1782: it212 ####
+(DUMMY Bow)
+###### End ######
+
+#### File 1783: it213 ####
+(DUMMY Bow)
+###### End ######
+
+#### File 1784: it214 ####
+Apeiron
+###### End ######
+
+#### File 1785: it215 ####
+Rossweisse
+###### End ######
+
+#### File 1786: it216 ####
+Broken Bow
+###### End ######
+
+#### File 1787: it217 ####
+Iron Crossbow
+###### End ######
+
+#### File 1788: it218 ####
+Gastraphetes
+###### End ######
+
+#### File 1789: it219 ####
+Heavy Crossbow
+###### End ######
+
+#### File 1790: it220 ####
+Arbalest
+###### End ######
+
+#### File 1791: it221 ####
+Brave Crossbow
+###### End ######
+
+#### File 1792: it222 ####
+Chu-ko-nu
+###### End ######
+
+#### File 1793: it223 ####
+Rapid Crossbow
+###### End ######
+
+#### File 1794: it224 ####
+Killer Crossbow
+###### End ######
+
+#### File 1795: it225 ####
+Verian Crossbow
+###### End ######
+
+#### File 1796: it226 ####
+Imperial Crossbow
+###### End ######
+
+#### File 1797: it227 ####
+Bowgun
+###### End ######
+
+#### File 1798: it228 ####
+Ancient Crossbow
+###### End ######
+
+#### File 1799: it229 ####
+Hawkeye
+###### End ######
+
+#### File 1800: it230 ####
+(DUMMY Crossbow)
+###### End ######
+
+#### File 1801: it231 ####
+(DUMMY Crossbow)
+###### End ######
+
+#### File 1802: it232 ####
+(DUMMY Crossbow)
+###### End ######
+
+#### File 1803: it233 ####
+(DUMMY Crossbow)
+###### End ######
+
+#### File 1804: it234 ####
+(DUMMY Crossbow)
+###### End ######
+
+#### File 1805: it235 ####
+(DUMMY Crossbow)
+###### End ######
+
+#### File 1806: it236 ####
+(DUMMY Crossbow)
+###### End ######
+
+#### File 1807: it237 ####
+(DUMMY Crossbow)
+###### End ######
+
+#### File 1808: it238 ####
+(DUMMY Crossbow)
+###### End ######
+
+#### File 1809: it239 ####
+Ollerus
+###### End ######
+
+#### File 1810: it240 ####
+Broken Crossbow
+###### End ######
+
+#### File 1811: it241 ####
+Bronze Ballista
+###### End ######
+
+#### File 1812: it242 ####
+Iron Ballista
+###### End ######
+
+#### File 1813: it243 ####
+Steel Ballista
+###### End ######
+
+#### File 1814: it244 ####
+Springald
+###### End ######
+
+#### File 1815: it245 ####
+Old Ballista
+###### End ######
+
+#### File 1816: it246 ####
+Scorpio
+###### End ######
+
+#### File 1817: it247 ####
+Prototype Scorpio
+###### End ######
+
+#### File 1818: it248 ####
+Prototype Springald
+###### End ######
+
+#### File 1819: it249 ####
+(DUMMY Ballista)
+###### End ######
+
+#### File 1820: it250 ####
+(DUMMY Ballista)
+###### End ######
+
+#### File 1821: it251 ####
+(DUMMY Ballista)
+###### End ######
+
+#### File 1822: it252 ####
+Broken Ballista
+###### End ######
+
+#### File 1823: it253 ####
+Fire
+###### End ######
+
+#### File 1824: it254 ####
+Hellfire
+###### End ######
+
+#### File 1825: it255 ####
+Earthblaze
+###### End ######
+
+#### File 1826: it256 ####
+Pallas Leia
+###### End ######
+
+#### File 1827: it257 ####
+Flametongue
+###### End ######
+
+#### File 1828: it258 ####
+Blazetongue
+###### End ######
+
+#### File 1829: it259 ####
+(DUMMY Fire)
+###### End ######
+
+#### File 1830: it260 ####
+Broken Orb
+###### End ######
+
+#### File 1831: it261 ####
+Thunder
+###### End ######
+
+#### File 1832: it262 ####
+Lightning
+###### End ######
+
+#### File 1833: it263 ####
+Dire Thunder
+###### End ######
+
+#### File 1834: it264 ####
+Pallas Serenia
+###### End ######
+
+#### File 1835: it265 ####
+(Thalavin)
+###### End ######
+
+#### File 1836: it266 ####
+(Sparktongue)
+###### End ######
+
+#### File 1837: it267 ####
+Stormtongue
+###### End ######
+
+#### File 1838: it268 ####
+Broken Orb
+###### End ######
+
+#### File 1839: it269 ####
+Airblade
+###### End ######
+
+#### File 1840: it270 ####
+Blizzard
+###### End ######
+
+#### File 1841: it271 ####
+Pallas Riana
+###### End ######
+
+#### File 1842: it272 ####
+Windstorm
+###### End ######
+
+#### File 1843: it273 ####
+Icetongue
+###### End ######
+
+#### File 1844: it274 ####
+Windtongue
+###### End ######
+
+#### File 1845: it275 ####
+Sandstorm
+###### End ######
+
+#### File 1846: it276 ####
+Broken Orb
+###### End ######
+
+#### File 1847: it277 ####
+Scylla
+###### End ######
+
+#### File 1848: it278 ####
+Nosferatu
+###### End ######
+
+#### File 1849: it279 ####
+Tumahann
+###### End ######
+
+#### File 1850: it280 ####
+Swarm
+###### End ######
+
+#### File 1851: it281 ####
+(DUMMY Dark)
+###### End ######
+
+#### File 1852: it282 ####
+Kishar's Wrath
+###### End ######
+
+#### File 1853: it283 ####
+Wormwood
+###### End ######
+
+#### File 1854: it284 ####
+(DUMMY Dark)
+###### End ######
+
+#### File 1855: it285 ####
+Darkmend
+###### End ######
+
+#### File 1856: it286 ####
+Sleep
+###### End ######
+
+#### File 1857: it287 ####
+Berserk
+###### End ######
+
+#### File 1858: it288 ####
+Nosferatu+
+###### End ######
+
+#### File 1859: it289 ####
+(DUMMY Dark)
+###### End ######
+
+#### File 1860: it290 ####
+(DUMMY Dark)
+###### End ######
+
+#### File 1861: it291 ####
+(DUMMY Dark)
+###### End ######
+
+#### File 1862: it292 ####
+(DUMMY Dark)
+###### End ######
+
+#### File 1863: it293 ####
+(DUMMY Dark)
+###### End ######
+
+#### File 1864: it294 ####
+(DUMMY Dark)
+###### End ######
+
+#### File 1865: it295 ####
+Broken Orb
+###### End ######
+
+#### File 1866: it296 ####
+Broken Orb
+###### End ######
+
+#### File 1867: it297 ####
+Heal
+###### End ######
+
+#### File 1868: it298 ####
+Physic
+###### End ######
+
+#### File 1869: it299 ####
+Fortify
+###### End ######
+
+#### File 1870: it300 ####
+Awaken
+###### End ######
+
+#### File 1871: it301 ####
+Pacify
+###### End ######
+
+#### File 1872: it302 ####
+Mend
+###### End ######
+
+#### File 1873: it303 ####
+Rehabilitate
+###### End ######
+
+#### File 1874: it304 ####
+Escape
+###### End ######
+
+#### File 1875: it305 ####
+Detoxify
+###### End ######
+
+#### File 1876: it306 ####
+Holy
+###### End ######
+
+#### File 1877: it307 ####
+(Aura)
+###### End ######
+
+#### File 1878: it308 ####
+(Recover)
+###### End ######
+
+#### File 1879: it309 ####
+Soothe
+###### End ######
+
+#### File 1880: it310 ####
+Starlight
+###### End ######
+
+#### File 1881: it311 ####
+(DUMMY Light)
+###### End ######
+
+#### File 1882: it312 ####
+(DUMMY Light)
+###### End ######
+
+#### File 1883: it313 ####
+(DUMMY Light)
+###### End ######
+
+#### File 1884: it314 ####
+(DUMMY Light)
+###### End ######
+
+#### File 1885: it315 ####
+(DUMMY Light)
+###### End ######
+
+#### File 1886: it316 ####
+(DUMMY Light)
+###### End ######
+
+#### File 1887: it317 ####
+(Barrier)
+###### End ######
+
+#### File 1888: it318 ####
+(Silence)
+###### End ######
+
+#### File 1889: it319 ####
+(Again)
+###### End ######
+
+#### File 1890: it320 ####
+(Hammerne)
+###### End ######
+
+#### File 1891: it321 ####
+(Warp)
+###### End ######
+
+#### File 1892: it322 ####
+(Ensorcel?)
+###### End ######
+
+#### File 1893: it323 ####
+(Empower?)
+###### End ######
+
+#### File 1894: it324 ####
+(Enarmor?)
+###### End ######
+
+#### File 1895: it325 ####
+(Shine)
+###### End ######
+
+#### File 1896: it326 ####
+(DUMMY Light)
+###### End ######
+
+#### File 1897: it327 ####
+Broken Orb
+###### End ######
+
+#### File 1898: it328 ####
+Broken Orb
+###### End ######
+
+#### File 1899: it329 ####
+Verian SShd
+###### End ######
+
+#### File 1900: it330 ####
+Imp. Soldier SShd
+###### End ######
+
+#### File 1901: it331 ####
+Buckler
+###### End ######
+
+#### File 1902: it332 ####
+Aspis
+###### End ######
+
+#### File 1903: it333 ####
+Metal Shield
+###### End ######
+
+#### File 1904: it334 ####
+Mithril Shield
+###### End ######
+
+#### File 1905: it335 ####
+Lady Shield
+###### End ######
+
+#### File 1906: it336 ####
+Round Shield
+###### End ######
+
+#### File 1907: it337 ####
+Shining Shield
+###### End ######
+
+#### File 1908: it338 ####
+Perseid
+###### End ######
+
+#### File 1909: it339 ####
+Ancient SShd
+###### End ######
+
+#### File 1910: it340 ####
+Fire Shield
+###### End ######
+
+#### File 1911: it341 ####
+Wind Shield
+###### End ######
+
+#### File 1912: it342 ####
+Thunder Shield
+###### End ######
+
+#### File 1913: it343 ####
+Light Shield
+###### End ######
+
+#### File 1914: it344 ####
+Dark Shield
+###### End ######
+
+#### File 1915: it345 ####
+Imp. Soldier SShd+
+###### End ######
+
+#### File 1916: it346 ####
+Imp. Officer SShd
+###### End ######
+
+#### File 1917: it347 ####
+Leather SShd
+###### End ######
+
+#### File 1918: it348 ####
+Imp. Knight SShd
+###### End ######
+
+#### File 1919: it349 ####
+Vollenden
+###### End ######
+
+#### File 1920: it350 ####
+Prototype SShd
+###### End ######
+
+#### File 1921: it351 ####
+(DUMMY Shield)
+###### End ######
+
+#### File 1922: it352 ####
+Aiantos
+###### End ######
+
+#### File 1923: it353 ####
+Verian MShd
+###### End ######
+
+#### File 1924: it354 ####
+Imp. Soldier MShd
+###### End ######
+
+#### File 1925: it355 ####
+Kiteshield
+###### End ######
+
+#### File 1926: it356 ####
+Square Shield
+###### End ######
+
+#### File 1927: it357 ####
+Knight Shield
+###### End ######
+
+#### File 1928: it358 ####
+(Lady MShd)
+###### End ######
+
+#### File 1929: it359 ####
+Limit Shield
+###### End ######
+
+#### File 1930: it360 ####
+Paladin Shield
+###### End ######
+
+#### File 1931: it361 ####
+Wyrmskin Shield
+###### End ######
+
+#### File 1932: it362 ####
+Black Shield
+###### End ######
+
+#### File 1933: it363 ####
+Blazing Shield
+###### End ######
+
+#### File 1934: it364 ####
+Gale Shield
+###### End ######
+
+#### File 1935: it365 ####
+Lightning Shield
+###### End ######
+
+#### File 1936: it366 ####
+Radiant Shield
+###### End ######
+
+#### File 1937: it367 ####
+Shadow Shield
+###### End ######
+
+#### File 1938: it368 ####
+Imp. Soldier MShd+
+###### End ######
+
+#### File 1939: it369 ####
+Leather MShd
+###### End ######
+
+#### File 1940: it370 ####
+Imp. Officer MShd
+###### End ######
+
+#### File 1941: it371 ####
+Imp. Knight MShd
+###### End ######
+
+#### File 1942: it372 ####
+(DUMMY Shield)
+###### End ######
+
+#### File 1943: it373 ####
+(DUMMY Shield)
+###### End ######
+
+#### File 1944: it374 ####
+(DUMMY Shield)
+###### End ######
+
+#### File 1945: it375 ####
+(DUMMY Shield)
+###### End ######
+
+#### File 1946: it376 ####
+Hestia
+###### End ######
+
+#### File 1947: it377 ####
+Verian LShd
+###### End ######
+
+#### File 1948: it378 ####
+Imp. Soldier LShd
+###### End ######
+
+#### File 1949: it379 ####
+Wide Shield
+###### End ######
+
+#### File 1950: it380 ####
+Iron Shield
+###### End ######
+
+#### File 1951: it381 ####
+(Iuppiter)
+###### End ######
+
+#### File 1952: it382 ####
+Leather LShd
+###### End ######
+
+#### File 1953: it383 ####
+Greatshield
+###### End ######
+
+#### File 1954: it384 ####
+General Shield
+###### End ######
+
+#### File 1955: it385 ####
+Kojin Shield
+###### End ######
+
+#### File 1956: it386 ####
+Fujin Shield
+###### End ######
+
+#### File 1957: it387 ####
+Raijin Shield
+###### End ######
+
+#### File 1958: it388 ####
+Amaterasu Shield
+###### End ######
+
+#### File 1959: it389 ####
+(Tsukuyomi Shield)
+###### End ######
+
+#### File 1960: it390 ####
+Imp. Soldier LShd+
+###### End ######
+
+#### File 1961: it391 ####
+Imp. Officer LShd
+###### End ######
+
+#### File 1962: it392 ####
+Imp. Knight LShd
+###### End ######
+
+#### File 1963: it393 ####
+(DUMMY Shield)
+###### End ######
+
+#### File 1964: it394 ####
+(DUMMY Shield)
+###### End ######
+
+#### File 1965: it395 ####
+(DUMMY Shield)
+###### End ######
+
+#### File 1966: it396 ####
+(DUMMY Shield)
+###### End ######
+
+#### File 1967: it397 ####
+(DUMMY Shield)
+###### End ######
+
+#### File 1968: it398 ####
+Broken Shield
+###### End ######
+
+#### File 1969: it399 ####
+Broken Shield
+###### End ######
+
+#### File 1970: it400 ####
+Broken Shield
+###### End ######
+
+#### File 1971: it401 ####
+Wooden Arrow
+###### End ######
+
+#### File 1972: it402 ####
+Bronze Arrow
+###### End ######
+
+#### File 1973: it403 ####
+Iron Arrow
+###### End ######
+
+#### File 1974: it404 ####
+Imperial Arrow
+###### End ######
+
+#### File 1975: it405 ####
+Imperial Arrow+
+###### End ######
+
+#### File 1976: it406 ####
+Steel Arrow
+###### End ######
+
+#### File 1977: it407 ####
+Mithril Arrow
+###### End ######
+
+#### File 1978: it408 ####
+Killer Arrow
+###### End ######
+
+#### File 1979: it409 ####
+Sleep Arrow
+###### End ######
+
+#### File 1980: it410 ####
+Poison Arrow
+###### End ######
+
+#### File 1981: it411 ####
+Raijin Arrow
+###### End ######
+
+#### File 1982: it412 ####
+Broadhead Arrow
+###### End ######
+
+#### File 1983: it413 ####
+Sniper Arrow
+###### End ######
+
+#### File 1984: it414 ####
+Bodkin Arrow
+###### End ######
+
+#### File 1985: it415 ####
+Breaker Arrow
+###### End ######
+
+#### File 1986: it416 ####
+Standard Bolt
+###### End ######
+
+#### File 1987: it417 ####
+Old Bolt
+###### End ######
+
+#### File 1988: it418 ####
+Stone Arrow
+###### End ######
+
+#### File 1989: it419 ####
+Ember Arrow
+###### End ######
+
+#### File 1990: it420 ####
+Freeze Arrow
+###### End ######
+
+#### File 1991: it421 ####
+Iron Arrow+
+###### End ######
+
+#### File 1992: it422 ####
+Steel Arrow+
+###### End ######
+
+#### File 1993: it423 ####
+Bronze Arrow+
+###### End ######
+
+#### File 1994: it424 ####
+(Arrow++)
+###### End ######
+
+#### File 1995: it425 ####
+New-Type Bolt
+###### End ######
+
+#### File 1996: it426 ####
+(DUMMY Arrow)
+###### End ######
+
+#### File 1997: it427 ####
+(DUMMY Arrow)
+###### End ######
+
+#### File 1998: it428 ####
+(Special Bolt)
+###### End ######
+
+#### File 1999: it429 ####
+Eagle Brace
+###### End ######
+
+#### File 2000: it430 ####
+Spirit Brace
+###### End ######
+
+#### File 2001: it431 ####
+Feather Brace
+###### End ######
+
+#### File 2002: it432 ####
+Guard Brace
+###### End ######
+
+#### File 2003: it433 ####
+Muscle Brace
+###### End ######
+
+#### File 2004: it434 ####
+Fortune Charm
+###### End ######
+
+#### File 2005: it435 ####
+Miracle Charm
+###### End ######
+
+#### File 2006: it436 ####
+(Growth Charm)
+###### End ######
+
+#### File 2007: it437 ####
+Health Charm
+###### End ######
+
+#### File 2008: it438 ####
+Thief's Charm
+###### End ######
+
+#### File 2009: it439 ####
+Dusk Charm
+###### End ######
+
+#### File 2010: it440 ####
+Vanish Charm
+###### End ######
+
+#### File 2011: it441 ####
+Dawn Charm
+###### End ######
+
+#### File 2012: it442 ####
+Giant's Brace
+###### End ######
+
+#### File 2013: it443 ####
+Pegasus Brace
+###### End ######
+
+#### File 2014: it444 ####
+Blessed Brace
+###### End ######
+
+#### File 2015: it445 ####
+Divine Brace
+###### End ######
+
+#### File 2016: it446 ####
+Tiger Brace
+###### End ######
+
+#### File 2017: it447 ####
+Phoenix Brace
+###### End ######
+
+#### File 2018: it448 ####
+Gambler's Brace
+###### End ######
+
+#### File 2019: it449 ####
+Peerless Brace
+###### End ######
+
+#### File 2020: it450 ####
+(Invincibility Charm)
+###### End ######
+
+#### File 2021: it451 ####
+Fire Ring
+###### End ######
+
+#### File 2022: it452 ####
+Wind Ring
+###### End ######
+
+#### File 2023: it453 ####
+Thunder Ring
+###### End ######
+
+#### File 2024: it454 ####
+Light Ring
+###### End ######
+
+#### File 2025: it455 ####
+Dark RIng
+###### End ######
+
+#### File 2026: it456 ####
+Fire Scale
+###### End ######
+
+#### File 2027: it457 ####
+Ice Scale
+###### End ######
+
+#### File 2028: it458 ####
+Thunder Scale
+###### End ######
+
+#### File 2029: it459 ####
+Wyvern Scale
+###### End ######
+
+#### File 2030: it460 ####
+Thor's Scale
+###### End ######
+
+#### File 2031: it461 ####
+Vulnerary
+###### End ######
+
+#### File 2032: it462 ####
+Concoction
+###### End ######
+
+#### File 2033: it463 ####
+Elixir
+###### End ######
+
+#### File 2034: it464 ####
+Treasure
+###### End ######
+
+#### File 2035: it465 ####
+Door Key
+###### End ######
+
+#### File 2036: it466 ####
+Liquid Strength
+###### End ######
+
+#### File 2037: it467 ####
+Liquid Defense
+###### End ######
+
+#### File 2038: it468 ####
+Liquid Speed
+###### End ######
+
+#### File 2039: it469 ####
+Liquid Vitality
+###### End ######
+
+#### File 2040: it470 ####
+Liquid Magic
+###### End ######
+
+#### File 2041: it471 ####
+Panacea
+###### End ######
+
+#### File 2042: it472 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2043: it473 ####
+Antitoxin
+###### End ######
+
+#### File 2044: it474 ####
+Bag
+###### End ######
+
+#### File 2045: it475 ####
+(Robust Manual)
+###### End ######
+
+#### File 2046: it476 ####
+(Panacea)
+###### End ######
+
+#### File 2047: it477 ####
+Repairstone
+###### End ######
+
+#### File 2048: it478 ####
+(Repairstone)
+###### End ######
+
+#### File 2049: it479 ####
+Smelling Salts
+###### End ######
+
+#### File 2050: it480 ####
+Sedative
+###### End ######
+
+#### File 2051: it481 ####
+(Perfume)
+###### End ######
+
+#### File 2052: it482 ####
+(Horse Amulet)
+###### End ######
+
+#### File 2053: it483 ####
+(Lady Amulet)
+###### End ######
+
+#### File 2054: it484 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2055: it485 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2056: it486 ####
+(Cast-Iron Guard)
+###### End ######
+
+#### File 2057: it487 ####
+Gold Coin 
+###### End ######
+
+#### File 2058: it488 ####
+Silver Coin 
+###### End ######
+
+#### File 2059: it489 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2060: it490 ####
+Beryl Ring
+###### End ######
+
+#### File 2061: it491 ####
+Pajuta Bundle
+###### End ######
+
+#### File 2062: it492 ####
+Barker's Poetry
+###### End ######
+
+#### File 2063: it493 ####
+Knit Cap
+###### End ######
+
+#### File 2064: it494 ####
+Raijin Arrowheads
+###### End ######
+
+#### File 2065: it495 ####
+Decorative Box
+###### End ######
+
+#### File 2066: it496 ####
+Woman's Portrait
+###### End ######
+
+#### File 2067: it497 ####
+Escapestone
+###### End ######
+
+#### File 2068: it498 ####
+Vanishstone
+###### End ######
+
+#### File 2069: it499 ####
+Tulsa Circlet
+###### End ######
+
+#### File 2070: it500 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2071: it501 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2072: it502 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2073: it503 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2074: it504 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2075: it505 ####
+Bridge Plans
+###### End ######
+
+#### File 2076: it506 ####
+Pickaxe
+###### End ######
+
+#### File 2077: it507 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2078: it508 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2079: it509 ####
+(Obfuscate Manual)
+###### End ######
+
+#### File 2080: it510 ####
+Armsthrift Manual
+###### End ######
+
+#### File 2081: it511 ####
+(Leader Manual)
+###### End ######
+
+#### File 2082: it512 ####
+(Quality Herbs)
+###### End ######
+
+#### File 2083: it513 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2084: it514 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2085: it515 ####
+Broken Lyre
+###### End ######
+
+#### File 2086: it516 ####
+(Bag v2)
+###### End ######
+
+#### File 2087: it517 ####
+Thin Horse
+###### End ######
+
+#### File 2088: it518 ####
+Plain Horse
+###### End ######
+
+#### File 2089: it519 ####
+Spry Horse
+###### End ######
+
+#### File 2090: it520 ####
+Tough Horse
+###### End ######
+
+#### File 2091: it521 ####
+Strong Horse
+###### End ######
+
+#### File 2092: it522 ####
+Ishs Stallion
+###### End ######
+
+#### File 2093: it523 ####
+Sinon Stallion
+###### End ######
+
+#### File 2094: it524 ####
+Liga Destrier
+###### End ######
+
+#### File 2095: it525 ####
+Liga Courser
+###### End ######
+
+#### File 2096: it526 ####
+Morach Horse
+###### End ######
+
+#### File 2097: it527 ####
+Ishs Courser
+###### End ######
+
+#### File 2098: it528 ####
+Tico
+###### End ######
+
+#### File 2099: it529 ####
+(DUMMY Horse)
+###### End ######
+
+#### File 2100: it530 ####
+(DUMMY Horse)
+###### End ######
+
+#### File 2101: it531 ####
+(DUMMY Horse)
+###### End ######
+
+#### File 2102: it532 ####
+Dead Horse
+###### End ######
+
+#### File 2103: it533 ####
+Sun Shard
+###### End ######
+
+#### File 2104: it534 ####
+Zerika Steel
+###### End ######
+
+#### File 2105: it535 ####
+Flame Dust
+###### End ######
+
+#### File 2106: it536 ####
+Mithril Sheet
+###### End ######
+
+#### File 2107: it537 ####
+(Yutona Steel)
+###### End ######
+
+#### File 2108: it538 ####
+Eye of Balor
+###### End ######
+
+#### File 2109: it539 ####
+Wolf Pelt
+###### End ######
+
+#### File 2110: it540 ####
+Argentum
+###### End ######
+
+#### File 2111: it541 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2112: it542 ####
+Sinon Steel
+###### End ######
+
+#### File 2113: it543 ####
+Gurras Steel
+###### End ######
+
+#### File 2114: it544 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2115: it545 ####
+Meteoric Iron
+###### End ######
+
+#### File 2116: it546 ####
+Ash Wood
+###### End ######
+
+#### File 2117: it547 ####
+Nottos Iron
+###### End ######
+
+#### File 2118: it548 ####
+Linden Wood
+###### End ######
+
+#### File 2119: it549 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2120: it550 ####
+Amalgam
+###### End ######
+
+#### File 2121: it551 ####
+Obsidian
+###### End ######
+
+#### File 2122: it552 ####
+Pantaz Steel
+###### End ######
+
+#### File 2123: it553 ####
+Lion Pelt
+###### End ######
+
+#### File 2124: it554 ####
+Antelope Pelt
+###### End ######
+
+#### File 2125: it555 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2126: it556 ####
+Storm Shard
+###### End ######
+
+#### File 2127: it557 ####
+Jugud Wood
+###### End ######
+
+#### File 2128: it558 ####
+Gale Shard
+###### End ######
+
+#### File 2129: it559 ####
+Bull Pelt
+###### End ######
+
+#### File 2130: it560 ####
+Sapphire
+###### End ######
+
+#### File 2131: it561 ####
+Mithril Dust
+###### End ######
+
+#### File 2132: it562 ####
+Tiger Pelt
+###### End ######
+
+#### File 2133: it563 ####
+Garnet
+###### End ######
+
+#### File 2134: it564 ####
+Simurgh Down
+###### End ######
+
+#### File 2135: it565 ####
+Boar Pelt
+###### End ######
+
+#### File 2136: it566 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2137: it567 ####
+Lapis Lazuli
+###### End ######
+
+#### File 2138: it568 ####
+Lightstone
+###### End ######
+
+#### File 2139: it569 ####
+Soma
+###### End ######
+
+#### File 2140: it570 ####
+Pajuta Grass
+###### End ######
+
+#### File 2141: it571 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2142: it572 ####
+Yew Wood
+###### End ######
+
+#### File 2143: it573 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2144: it574 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2145: it575 ####
+Ariadne Thread
+###### End ######
+
+#### File 2146: it576 ####
+Winch
+###### End ######
+
+#### File 2147: it577 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2148: it578 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2149: it579 ####
+Steel Wire
+###### End ######
+
+#### File 2150: it580 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2151: it581 ####
+Ancient Amulet
+###### End ######
+
+#### File 2152: it582 ####
+Surab Fluid
+###### End ######
+
+#### File 2153: it583 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2154: it584 ####
+Platinum
+###### End ######
+
+#### File 2155: it585 ####
+Opal
+###### End ######
+
+#### File 2156: it586 ####
+Ruby
+###### End ######
+
+#### File 2157: it587 ####
+Gold Dust
+###### End ######
+
+#### File 2158: it588 ####
+Amber
+###### End ######
+
+#### File 2159: it589 ####
+Wyvern Pearl
+###### End ######
+
+#### File 2160: it590 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2161: it591 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2162: it592 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2163: it593 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2164: it594 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2165: it595 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2166: it596 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2167: it597 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2168: it598 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2169: it599 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2170: it600 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2171: it601 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2172: it602 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2173: it603 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2174: it604 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2175: it605 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2176: it606 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2177: it607 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2178: it608 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2179: it609 ####
+(DUMMY Material)
+###### End ######
+
+#### File 2180: it610 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2181: it611 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2182: it612 ####
+Stolen Horse
+###### End ######
+
+#### File 2183: it613 ####
+Thin Horse
+###### End ######
+
+#### File 2184: it614 ####
+Plain Horse
+###### End ######
+
+#### File 2185: it615 ####
+Spry Horse
+###### End ######
+
+#### File 2186: it616 ####
+Tough Horse
+###### End ######
+
+#### File 2187: it617 ####
+Strong Horse
+###### End ######
+
+#### File 2188: it618 ####
+Ishs Stallion
+###### End ######
+
+#### File 2189: it619 ####
+Sinon Stallion
+###### End ######
+
+#### File 2190: it620 ####
+Liga Destrier
+###### End ######
+
+#### File 2191: it621 ####
+Liga Courser
+###### End ######
+
+#### File 2192: it622 ####
+Morach Horse
+###### End ######
+
+#### File 2193: it623 ####
+Ishs Courser
+###### End ######
+
+#### File 2194: it624 ####
+Foal
+###### End ######
+
+#### File 2195: it625 ####
+(DUMMY Horse)
+###### End ######
+
+#### File 2196: it626 ####
+(DUMMY Horse)
+###### End ######
+
+#### File 2197: it627 ####
+(DUMMY Horse)
+###### End ######
+
+#### File 2198: it628 ####
+(DUMMY Horse)
+###### End ######
+
+#### File 2199: it629 ####
+Food
+###### End ######
+
+#### File 2200: it630 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2201: it631 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2202: it632 ####
+Sacrifice
+###### End ######
+
+#### File 2203: it633 ####
+Prisoner
+###### End ######
+
+#### File 2204: it634 ####
+Throne Key
+###### End ######
+
+#### File 2205: it635 ####
+Prison Key
+###### End ######
+
+#### File 2206: it636 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2207: it637 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2208: it638 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2209: it639 ####
+(Seer's Focus)
+###### End ######
+
+#### File 2210: it640 ####
+(Seer's Focus)
+###### End ######
+
+#### File 2211: it641 ####
+Djinn Ring
+###### End ######
+
+#### File 2212: it642 ####
+Lullaby Lyre
+###### End ######
+
+#### File 2213: it643 ####
+(DUMMY Fire)
+###### End ######
+
+#### File 2214: it644 ####
+(DUMMY Wind)
+###### End ######
+
+#### File 2215: it645 ####
+(DUMMY Wind)
+###### End ######
+
+#### File 2216: it646 ####
+(DUMMY Thunder)
+###### End ######
+
+#### File 2217: it647 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2218: it648 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2219: it649 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2220: it650 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2221: it651 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2222: it652 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2223: it653 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2224: it654 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2225: it655 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2226: it656 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2227: it657 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2228: it658 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2229: it659 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2230: it660 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2231: it661 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2232: it662 ####
+(DUMMY Item)
+###### End ######
+
+#### File 2233: bp000 ####
+Plains
+###### End ######
+
+#### File 2234: bp001 ####
+Grass
+###### End ######
+
+#### File 2235: bp002 ####
+Wilds
+###### End ######
+
+#### File 2236: bp003 ####
+Sand
+###### End ######
+
+#### File 2237: bp004 ####
+Forest
+###### End ######
+
+#### File 2238: bp005 ####
+Thicket
+###### End ######
+
+#### File 2239: bp006 ####
+Mountains
+###### End ######
+
+#### File 2240: bp007 ####
+Peak
+###### End ######
+
+#### File 2241: bp008 ####
+River
+###### End ######
+
+#### File 2242: bp009 ####
+Shoal
+###### End ######
+
+#### File 2243: bp010 ####
+Water
+###### End ######
+
+#### File 2244: bp011 ####
+-
+###### End ######
+
+#### File 2245: bp012 ####
+Cave
+###### End ######
+
+#### File 2246: bp013 ####
+Cave Interior
+###### End ######
+
+#### File 2247: bp014 ####
+Flag
+###### End ######
+
+#### File 2248: bp015 ####
+-
+###### End ######
+
+#### File 2249: bp016 ####
+Castle Walls
+###### End ######
+
+#### File 2250: bp017 ####
+Castle Walls
+###### End ######
+
+#### File 2251: bp018 ####
+City
+###### End ######
+
+#### File 2252: bp019 ####
+Inner Wall
+###### End ######
+
+#### File 2253: bp020 ####
+Gate
+###### End ######
+
+#### File 2254: bp021 ####
+Fort
+###### End ######
+
+#### File 2255: bp022 ####
+Castle
+###### End ######
+
+#### File 2256: bp023 ####
+Ruins
+###### End ######
+
+#### File 2257: bp024 ####
+Bridge
+###### End ######
+
+#### File 2258: bp025 ####
+Drawbridge
+###### End ######
+
+#### File 2259: bp026 ####
+-
+###### End ######
+
+#### File 2260: bp027 ####
+Door
+###### End ######
+
+#### File 2261: bp028 ####
+Stairs
+###### End ######
+
+#### File 2262: bp029 ####
+Temple
+###### End ######
+
+#### File 2263: bp030 ####
+Inner Floor
+###### End ######
+
+#### File 2264: bp031 ####
+Healstone
+###### End ######
+
+#### File 2265: bp032 ####
+Throne
+###### End ######
+
+#### File 2266: bp033 ####
+-
+###### End ######
+
+#### File 2267: bp034 ####
+Barrier
+###### End ######
+
+#### File 2268: bp035 ####
+Cliff
+###### End ######
+
+#### File 2269: bp036 ####
+House
+###### End ######
+
+#### File 2270: bp037 ####
+Road
+###### End ######
+
+#### File 2271: bp038 ####
+Beacon
+###### End ######
+
+#### File 2272: bp039 ####
+Building
+###### End ######
+
+#### File 2273: bp040 ####
+Guard Tower
+###### End ######
+
+#### File 2274: bp041 ####
+Outer Floor
+###### End ######
+
+#### File 2275: bp042 ####
+Iron Gate
+###### End ######
+
+#### File 2276: bp043 ####
+Iron Door
+###### End ######
+
+#### File 2277: bp044 ####
+Bulwark
+###### End ######
+
+#### File 2278: bp045 ####
+Church
+###### End ######
+
+#### File 2279: bp046 ####
+Shop
+###### End ######
+
+#### File 2280: bp047 ####
+Inn
+###### End ######
+
+#### File 2281: bp048 ####
+Snowy Road
+###### End ######
+
+#### File 2282: bp049 ####
+Snowy Plains
+###### End ######
+
+#### File 2283: bp050 ####
+Snowy Woods
+###### End ######
+
+#### File 2284: bp051 ####
+Swamp
+###### End ######
+
+#### File 2285: bp052 ####
+Grove
+###### End ######
+
+#### File 2286: bp053 ####
+Prison
+###### End ######
+
+#### File 2287: bp054 ####
+Abbey
+###### End ######
+
+#### File 2288: bp055 ####
+House
+###### End ######
+
+#### File 2289: bp056 ####
+Plains
+###### End ######
+
+#### File 2290: bp057 ####
+Door+
+###### End ######
+
+#### File 2291: bp058 ####
+Road
+###### End ######
+
+#### File 2292: bp059 ####
+-
+###### End ######
+
+#### File 2293: bp060 ####
+-
+###### End ######
+
+#### File 2294: bp061 ####
+Healstone
+###### End ######
+
+#### File 2295: bp062 ####
+Healstone
+###### End ######
+
+#### File 2296: bp063 ####
+-
+###### End ######
+
+#### File 2297: move_type_01 ####
+Cav
+###### End ######
+
+#### File 2298: move_type_02 ####
+LtCav
+###### End ######
+
+#### File 2299: move_type_03 ####
+Fly
+###### End ######
+
+#### File 2300: move_type_04 ####
+Knt
+###### End ######
+
+#### File 2301: move_type_05 ####
+Armor
+###### End ######
+
+#### File 2302: move_type_06 ####
+Inf
+###### End ######
+
+#### File 2303: move_type_07 ####
+Thief
+###### End ######
+
+#### File 2304: move_type_08 ####
+Comm
+###### End ######
+
+#### File 2305: move_type_09 ####
+Spec
+###### End ######
+
+#### File 2306: move_type_10 ####
+Snowy
+###### End ######
+
+#### File 2307: move_type_11 ####
+Cler+
+###### End ######
+
+#### File 2308: move_type_12 ####
+LtInf
+###### End ######
+
+#### File 2309: move_type_13 ####
+Cler
+###### End ######
+
+#### File 2310: move_type_14 ####
+EX
+###### End ######
+
+#### File 2311: st001 ####
+Sex
+###### End ######
+
+#### File 2312: st002 ####
+Age
+###### End ######
+
+#### File 2313: st003 ####
+yrs.
+###### End ######
+
+#### File 2314: st004 ####
+Job
+###### End ######
+
+#### File 2315: st005 ####
+Home
+###### End ######
+
+#### File 2316: st006 ####
+Family
+###### End ######
+
+#### File 2317: st007 ####
+Cost
+###### End ######
+
+#### File 2318: st008 ####
+Person
+###### End ######
+
+#### File 2319: st009 ####
+???
+###### End ######
+
+#### File 2320: st010 ####
+Male
+###### End ######
+
+#### File 2321: st011 ####
+Female
+###### End ######
+
+#### File 2322: st012 ####
+Father
+###### End ######
+
+#### File 2323: st013 ####
+Mother
+###### End ######
+
+#### File 2324: st014 ####
+Husband
+###### End ######
+
+#### File 2325: st015 ####
+Wife
+###### End ######
+
+#### File 2326: st016 ####
+Elder Brother
+###### End ######
+
+#### File 2327: st017 ####
+Younger Brother
+###### End ######
+
+#### File 2328: st018 ####
+Elder Sister
+###### End ######
+
+#### File 2329: st019 ####
+Younger Sister
+###### End ######
+
+#### File 2330: st028 ####
+Class
+###### End ######
+
+#### File 2331: st029 ####
+Name
+###### End ######
+
+#### File 2332: st030 ####
+Active
+###### End ######
+
+#### File 2333: st031 ####
+Crippled
+###### End ######
+
+#### File 2334: st041 ####
+Output
+###### End ######
+
+#### File 2335: st042 ####
+Stock
+###### End ######
+
+#### File 2336: st043 ####
+No. Citizen
+###### End ######
+
+#### File 2337: st044 ####
+Armorer
+###### End ######
+
+#### File 2338: st045 ####
+Vendor
+###### End ######
+
+#### File 2339: st046 ####
+Abbey
+###### End ######
+
+#### File 2340: st047 ####
+Place
+###### End ######
+
+#### File 2341: st048 ####
+Job
+###### End ######
+
+#### File 2342: st049 ####
+Age
+###### End ######
+
+#### File 2343: st050 ####
+Name
+###### End ######
+
+#### File 2344: st051 ####
+New
+###### End ######
+
+#### File 2345: st052 ####
+Cos
+###### End ######
+
+#### File 2346: st053 ####
+Army
+###### End ######
+
+#### File 2347: st054 ####
+HP
+###### End ######
+
+#### File 2348: st055 ####
+Wp
+###### End ######
+
+#### File 2349: st056 ####
+Cos
+###### End ######
+
+#### File 2350: st057 ####
+Revenue
+###### End ######
+
+#### File 2351: st060 ####
+Total Map Config
+###### End ######
+
+#### File 2352: st061 ####
+Battle Map Config
+###### End ######
+
+#### File 2353: st062 ####
+Game Speed
+###### End ######
+
+#### File 2354: st063 ####
+Sound Config
+###### End ######
+
+#### File 2355: st064 ####
+Other Config
+###### End ######
+
+#### File 2356: st065 ####
+Show Battle Animations
+###### End ######
+
+#### File 2357: st066 ####
+All
+###### End ######
+
+#### File 2358: st067 ####
+Some
+###### End ######
+
+#### File 2359: st068 ####
+Map Only
+###### End ######
+
+#### File 2360: st069 ####
+Support Off
+###### End ######
+
+#### File 2361: st070 ####
+Show Grid
+###### End ######
+
+#### File 2362: st071 ####
+On
+###### End ######
+
+#### File 2363: st072 ####
+Off
+###### End ######
+
+#### File 2364: st073 ####
+Unit Focus
+###### End ######
+
+#### File 2365: st074 ####
+Leader
+###### End ######
+
+#### File 2366: st075 ####
+Previous
+###### End ######
+
+#### File 2367: st076 ####
+Cursor Movement
+###### End ######
+
+#### File 2368: st077 ####
+Free
+###### End ######
+
+#### File 2369: st078 ####
+Limit
+###### End ######
+
+#### File 2370: st079 ####
+Terrain Indicator
+###### End ######
+
+#### File 2371: st080 ####
+Turn Indicator
+###### End ######
+
+#### File 2372: st081 ####
+Screen Flickering
+###### End ######
+
+#### File 2373: st082 ####
+Screen Adjustment
+###### End ######
+
+#### File 2374: st083 ####
+Music Volume
+###### End ######
+
+#### File 2375: st084 ####
+Sound Effect Volume
+###### End ######
+
+#### File 2376: st085 ####
+Movement Speed
+###### End ######
+
+#### File 2377: st086 ####
+Message Auto-Scroll
+###### End ######
+
+#### File 2378: st087 ####
+Normal
+###### End ######
+
+#### File 2379: st088 ####
+Fast
+###### End ######
+
+#### File 2380: st089 ####
+Fast
+###### End ######
+
+#### File 2381: st090 ####
+Defaults
+###### End ######
+
+#### File 2382: st091 ####
+On
+###### End ######
+
+#### File 2383: st092 ####
+Off
+###### End ######
+
+#### File 2384: st093 ####
+Show Attack Range
+###### End ######
+
+#### File 2385: st094 ####
+Help Messages
+###### End ######
+
+#### File 2386: st095 ####
+Not in Menus
+###### End ######
+
+#### File 2387: st096 ####
+Audio Output
+###### End ######
+
+#### File 2388: st097 ####
+Stereo
+###### End ######
+
+#### File 2389: st098 ####
+Mono
+###### End ######
+
+#### File 2390: st099 ####
+HUD 1
+###### End ######
+
+#### File 2391: st100 ####
+Controls
+###### End ######
+
+#### File 2392: st101 ####
+Sound
+###### End ######
+
+#### File 2393: st102 ####
+Other
+###### End ######
+
+#### File 2394: st103 ####
+Vibrate
+###### End ######
+
+#### File 2395: st104 ####
+Unit Select
+###### End ######
+
+#### File 2396: st105 ####
+Mode 1
+###### End ######
+
+#### File 2397: st106 ####
+Mode 2
+###### End ######
+
+#### File 2398: st107 ####
+Mode 3
+###### End ######
+
+#### File 2399: st108 ####
+Slow
+###### End ######
+
+#### File 2400: st109 ####
+CPU Cursor
+###### End ######
+
+#### File 2401: st110 ####
+Show HP in Battle
+###### End ######
+
+#### File 2402: st111 ####
+Combat Forecast
+###### End ######
+
+#### File 2403: st112 ####
+Show Turn Order
+###### End ######
+
+#### File 2404: st113 ####
+HUD 2
+###### End ######
+
+#### File 2405: st114 ####
+Unmoved Unit Warning
+###### End ######
+
+#### File 2406: st115 ####
+Movement Paths
+###### End ######
+
+#### File 2407: st116 ####
+Affiliation Markers
+###### End ######
+
+#### File 2408: st117 ####
+Fast Enemy
+###### End ######
+
+#### File 2409: st118 ####
+Show Staff/Skill Range
+###### End ######
+
+#### File 2410: st119 ####
+by HP
+###### End ######
+
+#### File 2411: st120 ####
+Narvia
+###### End ######
+
+#### File 2412: st121 ####
+L1/R1 Target
+###### End ######
+
+#### File 2413: st122 ####
+Up/Down Target
+###### End ######
+
+#### File 2414: st123 ####
+Mercenary
+###### End ######
+
+#### File 2415: st124 ####
+Citizen
+###### End ######
+
+#### File 2416: st125 ####
+Location
+###### End ######
+
+#### File 2417: st126 ####
+Standby Warning
+###### End ######
+
+#### File 2418: st127 ####
+Pause
+###### End ######
+
+#### File 2419: st128 ####
+Unit Info
+###### End ######
+
+#### File 2420: st129 ####
+All
+###### End ######
+
+#### File 2421: st130 ####
+Player Turn
+###### End ######
+
+#### File 2422: st131 ####
+Sharp
+###### End ######
+
+#### File 2423: st132 ####
+Soft
+###### End ######
+
+#### File 2424: st133 ####
+Mercenary Warning
+###### End ######
+
+#### File 2425: st134 ####
+Message Speed
+###### End ######
+
+#### File 2426: st135 ####
+Slow
+###### End ######
+
+#### File 2427: st136 ####
+Close Settings
+###### End ######
+
+#### File 2428: st137 ####
+Animate
+###### End ######
+
+#### File 2429: st138 ####
+Map Battle
+###### End ######
+
+#### File 2430: st139 ####
+Info
+###### End ######
+
+#### File 2431: st200 ####
+Parents-Siblings
+###### End ######
+
+#### File 2432: st201 ####
+Wife-Child
+###### End ######
+
+#### File 2433: st202 ####
+Lover-Friend
+###### End ######
+
+#### File 2434: st203 ####
+Lord-Enemy
+###### End ######
+
+#### File 2435: st250 ####
+Type
+###### End ######
+
+#### File 2436: st251 ####
+Items
+###### End ######
+
+#### File 2437: st252 ####
+Price
+###### End ######
+
+#### File 2438: st253 ####
+More Info
+###### End ######
+
+#### File 2439: st260 ####
+Product
+###### End ######
+
+#### File 2440: st261 ####
+Materials
+###### End ######
+
+#### File 2441: st262 ####
+Material 1
+###### End ######
+
+#### File 2442: st263 ####
+Material 2
+###### End ######
+
+#### File 2443: st264 ####
+Material 3
+###### End ######
+
+#### File 2444: st265 ####
+Material 4
+###### End ######
+
+#### File 2445: st300 ####
+Location
+###### End ######
+
+#### File 2446: st301 ####
+Army
+###### End ######
+
+#### File 2447: st302 ####
+Kana
+###### End ######
+
+#### File 2448: st303 ####
+Stamina
+###### End ######
+
+#### File 2449: st304 ####
+Weapon
+###### End ######
+
+#### File 2450: st305 ####
+Cost
+###### End ######
+
+#### File 2451: st306 ####
+Corps
+###### End ######
+
+#### File 2452: st307 ####
+Level
+###### End ######
+
+#### File 2453: st308 ####
+Age
+###### End ######
+
+#### File 2454: st309 ####
+New
+###### End ######
+
+#### File 2455: st310 ####
+Job
+###### End ######
+
+#### File 2456: st311 ####
+Tax
+###### End ######
+
+#### File 2457: st350 ####
+Hiring Fee
+###### End ######
+
+#### File 2458: st351 ####
+Deployment
+###### End ######
+
+#### File 2459: st352 ####
+Sword Mount
+###### End ######
+
+#### File 2460: st353 ####
+Tiger Carpet
+###### End ######
+
+#### File 2461: st354 ####
+Porcelain Vase
+###### End ######
+
+#### File 2462: st355 ####
+Deer Mount
+###### End ######
+
+#### File 2463: st356 ####
+Coat of Arms
+###### End ######
+
+#### File 2464: st357 ####
+EX
+###### End ######
+
+#### File 2465: st358 ####
+Coffer
+###### End ######
+
+#### File 2466: st359 ####
+Tapestry
+###### End ######
+
+#### File 2467: st360 ####
+Bird Statue
+###### End ######
+
+#### File 2468: st361 ####
+Art: "Revival"
+###### End ######
+
+#### File 2469: st362 ####
+Goddess Statue
+###### End ######
+
+#### File 2470: st363 ####
+Treasure Chest
+###### End ######
+
+#### File 2471: st364 ####
+Art: "Hope"
+###### End ######
+
+#### File 2472: st365 ####
+Luxury Bed
+###### End ######
+
+#### File 2473: st370 ####
+Continue
+###### End ######
+
+#### File 2474: st371 ####
+Current Funds
+###### End ######
+
+#### File 2475: st372 ####
+Sale Total
+###### End ######
+
+#### File 2476: st373 ####
+Leftover Funds
+###### End ######
+
+#### File 2477: st374 ####
+??
+###### End ######
+
+#### File 2478: st375 ####
+Crippled
+###### End ######
+
+#### File 2479: st381 ####
+Owner
+###### End ######
+
+#### File 2480: st382 ####
+Type
+###### End ######
+
+#### File 2481: st383 ####
+New
+###### End ######
+
+#### File 2482: st384 ####
+Name
+###### End ######
+
+#### File 2483: st385 ####
+Give Item
+###### End ######
+
+#### File 2484: st386 ####
+View Item
+###### End ######
+
+#### File 2485: st400 ####
+Buy
+###### End ######
+
+#### File 2486: st401 ####
+Sell
+###### End ######
+
+#### File 2487: st402 ####
+End
+###### End ######
+
+#### File 2488: st403 ####
+Give
+###### End ######
+
+#### File 2489: st404 ####
+Withdraw
+###### End ######
+
+#### File 2490: sort_baikyaku ####
+Sell Off
+###### End ######
+
+#### File 2491: sort_owner ####
+Owner
+###### End ######
+
+#### File 2492: sort_itemtype ####
+Type
+###### End ######
+
+#### File 2493: sort_itemprice ####
+Price
+###### End ######
+
+#### File 2494: sort_itemendur ####
+Durability
+###### End ######
+
+#### File 2495: sort_item_new ####
+New Items
+###### End ######
+
+#### File 2496: st410 ####
+Knife and Sword Seller
+###### End ######
+
+#### File 2497: st411 ####
+Shield Seller
+###### End ######
+
+#### File 2498: st412 ####
+Spear Seller
+###### End ######
+
+#### File 2499: st413 ####
+Axe Seller
+###### End ######
+
+#### File 2500: st414 ####
+Shield Seller
+###### End ######
+
+#### File 2501: st415 ####
+Item Seller
+###### End ######
+
+#### File 2502: st416 ####
+Light Magic Seller
+###### End ######
+
+#### File 2503: st417 ####
+Item Seller
+###### End ######
+
+#### File 2504: st418 ####
+Receptionist
+###### End ######
+
+#### File 2505: st419 ####
+Bounty Desk
+###### End ######
+
+#### File 2506: st420 ####
+Hostess
+###### End ######
+
+#### File 2507: st421 ####
+Waiter
+###### End ######
+
+#### File 2508: st422 ####
+Barkeep
+###### End ######
+
+#### File 2509: st423 ####
+Secretary
+###### End ######
+
+#### File 2510: st424 ####
+Mercenary
+###### End ######
+
+#### File 2511: st425 ####
+Warden
+###### End ######
+
+#### File 2512: st426 ####
+Jailor
+###### End ######
+
+#### File 2513: st427 ####
+Alchemist
+###### End ######
+
+#### File 2514: st428 ####
+Blacksmith
+###### End ######
+
+#### File 2515: st429 ####
+Engineer
+###### End ######
+
+#### File 2516: st430 ####
+Stableman
+###### End ######
+
+#### File 2517: st431 ####
+Sword-Worker
+###### End ######
+
+#### File 2518: st432 ####
+Spear-Worker
+###### End ######
+
+#### File 2519: st433 ####
+Axe-Worker
+###### End ######
+
+#### File 2520: st434 ####
+Bow-Worker
+###### End ######
+
+#### File 2521: st435 ####
+Shield-Worker
+###### End ######
+
+#### File 2522: st436 ####
+Loan Shark
+###### End ######
+
+#### File 2523: st437 ####
+Bow Seller
+###### End ######
+
+#### File 2524: st438 ####
+Arrow Seller
+###### End ######
+
+#### File 2525: st439 ####
+Priestess
+###### End ######
+
+#### File 2526: st440 ####
+Adjutant
+###### End ######
+
+#### File 2527: st441 ####
+Furniture Store
+###### End ######
+
+#### File 2528: st442 ####
+Maid
+###### End ######
+
+#### File 2529: st443 ####
+Material Shop
+###### End ######
+
+#### File 2530: st444 ####
+Student
+###### End ######
+
+#### File 2531: st450 ####
+Unit Search
+###### End ######
+
+#### File 2532: st451 ####
+Sort
+###### End ######
+
+#### File 2533: st480 ####
+Skill
+###### End ######
+
+#### File 2534: st481 ####
+Skill
+###### End ######
+
+#### File 2535: st500 ####
+Bag Contents
+###### End ######
+
+#### File 2536: st501 ####
+Item Synthesis
+###### End ######
+
+#### File 2537: st503 ####
+Synthesize
+###### End ######
+
+#### File 2538: st504 ####
+Cancel
+###### End ######
+
+#### File 2539: st505 ####
+Repair Rate
+###### End ######
+
+#### File 2540: st506 ####
+Client:
+###### End ######
+
+#### File 2541: st507 ####
+Place:
+###### End ######
+
+#### File 2542: st508 ####
+Deploy Map:
+###### End ######
+
+#### File 2543: st509 ####
+Deploy Task
+###### End ######
+
+#### File 2544: st510 ####
+Mission
+###### End ######
+
+#### File 2545: st511 ####
+Mission Info
+###### End ######
+
+#### File 2546: st512 ####
+Type
+###### End ######
+
+#### File 2547: st513 ####
+Side
+###### End ######
+
+#### File 2548: st514 ####
+After
+###### End ######
+
+#### File 2549: st515 ####
+Until Ch.
+###### End ######
+
+#### File 2550: st516 ####
+Client
+###### End ######
+
+#### File 2551: st517 ####
+Primary
+###### End ######
+
+#### File 2552: st518 ####
+Diff.
+###### End ######
+
+#### File 2553: st519 ####
+Units
+###### End ######
+
+#### File 2554: st520 ####
+Units:
+###### End ######
+
+#### File 2555: st521 ####
+-
+###### End ######
+
+#### File 2556: st522 ####
+To Prep Screen
+###### End ######
+
+#### File 2557: st600 ####
+Sword-smith
+###### End ######
+
+#### File 2558: st601 ####
+Spear-smith
+###### End ######
+
+#### File 2559: st602 ####
+Axe-smith
+###### End ######
+
+#### File 2560: st603 ####
+Bow-fletcher
+###### End ######
+
+#### File 2561: st604 ####
+Shield-maker
+###### End ######
+
+#### File 2562: st605 ####
+Item Master
+###### End ######
+
+#### File 2563: st606 ####
+Apothecary
+###### End ######
+
+#### File 2564: st610 ####
+Knf Seller
+###### End ######
+
+#### File 2565: st611 ####
+Clerk: Swords
+###### End ######
+
+#### File 2566: st612 ####
+Clerk: Spears
+###### End ######
+
+#### File 2567: st613 ####
+Clerk: Axes
+###### End ######
+
+#### File 2568: st614 ####
+Clerk: Bows
+###### End ######
+
+#### File 2569: st615 ####
+Clerk: Arrows
+###### End ######
+
+#### File 2570: st616 ####
+Clerk: Shields
+###### End ######
+
+#### File 2571: st617 ####
+Orb Market
+###### End ######
+
+#### File 2572: st618 ####
+Clerk: Items
+###### End ######
+
+#### File 2573: st619 ####
+Horse Market
+###### End ######
+
+#### File 2574: st620 ####
+Horse Cost
+###### End ######
+
+#### File 2575: st621 ####
+Metal Trader
+###### End ######
+
+#### File 2576: st622 ####
+Valuables Trader
+###### End ######
+
+#### File 2577: st623 ####
+Raw Materials Trader
+###### End ######
+
+#### File 2578: st624 ####
+Refined Materials Trader
+###### End ######
+
+#### File 2579: st625 ####
+Horse Trader
+###### End ######
+
+#### File 2580: st801 ####
+Their Possessions:
+###### End ######
+
+#### File 2581: st802 ####
+Our Possessions:
+###### End ######
+
+#### File 2582: st803 ####
+Funds
+###### End ######
+
+#### File 2583: st804 ####
+Funds
+###### End ######
+
+#### File 2584: st811 ####
+Memory Card Slot 1
+###### End ######
+
+#### File 2585: st812 ####
+Memory Card Slot 2
+###### End ######
+
+#### File 2586: st813 ####
+Funds
+###### End ######
+
+#### File 2587: st814 ####
+Unit
+###### End ######
+
+#### File 2588: st815 ####
+Turn
+###### End ######
+
+#### File 2589: st816 ####
+Berwick Saga (A)
+###### End ######
+
+#### File 2590: st817 ####
+Berwick Saga (B)
+###### End ######
+
+#### File 2591: st818 ####
+Berwick Saga (C)
+###### End ######
+
+#### File 2592: st819 ####
+Berwick Saga (D)
+###### End ######
+
+#### File 2593: st820 ####
+Most Recent Data
+###### End ######
+
+#### File 2594: st821 ####
+Decide Now
+###### End ######
+
+#### File 2595: st822 ####
+Don't Promote
+###### End ######
+
+#### File 2596: st823 ####
+Back to List
+###### End ######
+
+#### File 2597: st841 ####
+Unused
+###### End ######
+
+#### File 2598: st842 ####
+Formation
+###### End ######
+
+#### File 2599: st843 ####
+Clear
+###### End ######
+
+#### File 2600: st844 ####
+(Suspend Data)
+###### End ######
+
+#### File 2601: st845 ####
+-New File-
+###### End ######
+
+#### File 2602: st846 ####
+(Corrupt File)
+###### End ######
+
+#### File 2603: st847 ####
+(Unused File)
+###### End ######
+
+#### File 2604: st848 ####
+(Checking...)
+###### End ######
+
+#### File 2605: st849 ####
+[Suspend]
+###### End ######
+
+#### File 2607: st851 ####
+Preparation
+###### End ######
+
+#### File 2608: st852 ####
+Quest Prep
+###### End ######
+
+#### File 2610: st854 ####
+Quest Clear
+###### End ######
+
+#### File 2611: st855 ####
+Ch.
+###### End ######
+
+#### File 2612: st856 ####
+Office
+###### End ######
+
+#### File 2613: st857 ####
+Duty
+###### End ######
+
+#### File 2614: st858 ####
+Request
+###### End ######
+
+#### File 2615: st859 ####
+(Duty)
+###### End ######
+
+#### File 2616: st860 ####
+(Standby)
+###### End ######
+
+#### File 2617: st861 ####
+ 
+###### End ######
+
+#### File 2618: st862 ####
+Office
+###### End ######
+
+#### File 2619: st863 ####
+Office
+###### End ######
+
+#### File 2620: st864 ####
+Suspend Data
+###### End ######
+
+#### File 2621: item_e100_61 ####
+New items will rarely break.
+###### End ######
+
+#### File 2622: item_e60_41 ####
+Only slightly damaged.
+###### End ######
+
+#### File 2623: item_e40_21 ####
+Somewhat damaged.
+###### End ######
+
+#### File 2624: item_e20_1 ####
+Quite damaged.
+###### End ######
+
+#### File 2625: item_e0 ####
+On the verge of breaking.
+###### End ######
+
+#### File 2626: item_broken ####
+Broken and unusable.
+###### End ######
+
+#### File 2627: st999 ####
+DEBUG
+###### End ######
+
+#### File 2628: se_ga ####
+GA
+###### End ######
+
+#### File 2629: se_ha ####
+HA
+###### End ######
+
+#### File 2630: se_wo ####
+WO
+###### End ######
+
+#### File 2631: se_to ####
+ and 
+###### End ######
+
+#### File 2632: itemget ####
+ obtained!
+###### End ######
+
+#### File 2633: passitem ####
+ was given!
+###### End ######
+
+#### File 2634: item_steal ####
+ stolen!
+###### End ######
+
+#### File 2635: item_stolen ####
+ was stolen!
+###### End ######
+
+#### File 2636: itembrk ####
+ broke!
+###### End ######
+
+#### File 2637: itemuse ####
+ used.
+###### End ######
+
+#### File 2638: capture ####
+ was captured!
+###### End ######
+
+#### File 2639: rescue ####
+ was rescued!
+###### End ######
+
+#### File 2640: kyujo ####
+ was aided!
+###### End ######
+
+#### File 2641: tyohit ####
+ was provoked!
+###### End ######
+
+#### File 2642: tyomiss ####
+ wasn't provoked!
+###### End ######
+
+#### File 2643: ikakuhit ####
+ was intimidated!
+###### End ######
+
+#### File 2644: ikakumiss ####
+ wasn't intimidated!
+###### End ######
+
+#### File 2645: surrend ####
+ surrendered!
+###### End ######
+
+#### File 2646: captured ####
+ was captured!
+###### End ######
+
+#### File 2647: antidote ####
+ recovered from poison.
+###### End ######
+
+#### File 2648: recover_injury ####
+ recovered from crippling!
+###### End ######
+
+#### File 2649: get_skill ####
+ skill was learned!
+###### End ######
+
+#### File 2650: senrihin ####
+Spoils
+###### End ######
+
+#### File 2651: shildbrk ####
+Shield broke!
+###### End ######
+
+#### File 2652: hoursebrk ####
+Horse was slain!
+###### End ######
+
+#### File 2653: pegasusbrk ####
+Pegasus was slain!
+###### End ######
+
+#### File 2654: dragonbrk ####
+Wyvern was slain!
+###### End ######
+
+#### File 2655: get_gold ####
+ denarii obtained!
+###### End ######
+
+#### File 2656: plunder_gold ####
+ denarii pilfered!
+###### End ######
+
+#### File 2657: rodfail ####
+ was ineffective!
+###### End ######
+
+#### File 2658: param_up ####
+ point increase!
+###### End ######
+
+#### File 2659: repare_ok ####
+ was successfully repaired!
+###### End ######
+
+#### File 2660: wakeup ####
+ woke up!
+###### End ######
+
+#### File 2661: sleep ####
+ fell asleep!
+###### End ######
+
+#### File 2662: recover_confusion ####
+ is no longer confused!
+###### End ######
+
+#### File 2663: recover_kyouran ####
+ is no longer berserk!
+###### End ######
+
+#### File 2664: recover_minjury ####
+ recovered from injury!
+###### End ######
+
+#### File 2665: param_mhp ####
+Max HP
+###### End ######
+
+#### File 2666: param_pow ####
+Str
+###### End ######
+
+#### File 2667: param_def ####
+Def
+###### End ######
+
+#### File 2668: param_spd ####
+Spd
+###### End ######
+
+#### File 2669: param_mag ####
+Mag
+###### End ######
+
+#### File 2670: param_maxlp ####
+Max Life
+###### End ######
+
+#### File 2671: repare_item ####
+ was repaired.
+###### End ######
+
+#### File 2672: get_horse ####
+ obtained a horse!
+###### End ######
+
+#### File 2673: no_getitem ####
+ could not find anything!
+###### End ######
+
+#### File 2674: item_erase_effect ####
+'s effect wore off.
+###### End ######
+
+#### File 2675: item_found ####
+ was found!
+###### End ######
+
+#### File 2676: important_item ####
+Key Item: 
+###### End ######
+
+#### File 2677: escape_unit ####
+ retreated.
+###### End ######
+
+#### File 2678: invisi_unit ####
+ disappeared.
+###### End ######
+
+#### File 2679: turn_off_inv ####
+'s Vanishstone wore off.
+###### End ######
+
+#### File 2680: classchange ####
+ promotion achieved!
+###### End ######
+
+#### File 2681: runaway ####
+ fled!
+###### End ######
+
+#### File 2682: horsechange ####
+ switched horses!
+###### End ######
+
+#### File 2683: open_ribon_box ####
+Opened the box.
+###### End ######
+
+#### File 2684: itembrk2 ####
+ broke.
+###### End ######
+
+#### File 2685: rodfail2 ####
+ was silenced!
+###### End ######
+
+#### File 2686: book_01 ####
+Book 1
+###### End ######
+
+#### File 2687: book_02 ####
+Book 2
+###### End ######
+
+#### File 2688: food_eff_hp1 ####
+HP
+###### End ######
+
+#### File 2689: food_eff_hp2 ####
+ rose!
+###### End ######
+
+#### File 2690: food_eff_hp3 ####
+ fell!
+###### End ######
+
+#### File 2691: food_eff_1 ####
+Experience Rate
+###### End ######
+
+#### File 2692: food_eff_2 ####
+Avoid
+###### End ######
+
+#### File 2693: food_eff_3 ####
+Crippled Movement
+###### End ######
+
+#### File 2694: food_eff_4 ####
+Sleep Recovery Rate
+###### End ######
+
+#### File 2695: food_eff_5 ####
+Confusion Recovery Rate
+###### End ######
+
+#### File 2696: food_eff_6 ####
+Crit Dodge Rate
+###### End ######
+
+#### File 2697: food_eff_7 ####
+Crit
+###### End ######
+
+#### File 2698: food_eff_8 ####
+Hit
+###### End ######
+
+#### File 2699: food_eff_9 ####
+Counter skill
+###### End ######
+
+#### File 2700: food_eff_10 ####
+武器破損率減少
+###### End ######
+
+#### File 2701: food_eff_11 ####
+武器消耗率減少
+###### End ######
+
+#### File 2702: food_eff_12 ####
+スキル不足武器補正
+###### End ######
+
+#### File 2703: food_eff_13 ####
+魔法ダメージダウン
+###### End ######
+
+#### File 2704: food_eff_14 ####
+盾発動率補正
+###### End ######
+
+#### File 2705: food_eff_15 ####
+魔法回復量増加
+###### End ######
+
+#### File 2706: food_eff_16 ####
+戦闘不能確率減少
+###### End ######
+
+#### File 2707: food_eff_17 ####
+毒無効
+###### End ######
+
+#### File 2708: food_eff_18 ####
+混乱無効
+###### End ######
+
+#### File 2709: food_eff_19 ####
+睡眠無効
+###### End ######
+
+#### File 2710: food_eff_20 ####
+筋力が
+###### End ######
+
+#### File 2711: food_eff_21 ####
+俊敏が
+###### End ######
+
+#### File 2712: food_eff_22 ####
+精神が
+###### End ######
+
+#### File 2713: food_eff_23 ####
+防御が
+###### End ######
+
+#### File 2714: food_eff_24 ####
+移動力が
+###### End ######
+
+#### File 2715: food_eff_25 ####
+攻撃力が
+###### End ######
+
+#### File 2716: food_eff_26 ####
+癒しの護符の効果
+###### End ######
+
+#### File 2717: food_eff_27 ####
+毒回復率補正
+###### End ######
+
+#### File 2718: food_eff_28 ####
+スキル「反撃」の効果
+###### End ######
+
+#### File 2719: food_eff_29 ####
+スキル「待ち伏せ」の効果
+###### End ######
+
+#### File 2720: food_eff_30 ####
+スキル「弓回避」の効果
+###### End ######
+
+#### File 2721: food_eff_31 ####
+スキル「魔法回避」の効果
+###### End ######
+
+#### File 2722: food_eff_32 ####
+スキル「連続」の効果
+###### End ######
+
+#### File 2723: food_eff_33 ####
+軽傷無効
+###### End ######
+
+#### File 2724: food_eff_34 ####
+騎馬のダメージ減少
+###### End ######
+
+#### File 2725: food_eff_35 ####
+騎馬ＨＰ回復
+###### End ######
+
+#### File 2726: food_eff_36 ####
+幸運増加
+###### End ######
+
+#### File 2727: food_eff_37 ####
+取得経験値増加
+###### End ######
+
+#### File 2728: food_eff_38 ####
+剣・槍・斧・盾技能上昇
+###### End ######
+
+#### File 2729: food_eff_39 ####
+魔法技能上昇
+###### End ######
+
+#### File 2730: food_eff_40 ####
+弓・石弓技能上昇
+###### End ######
+
+#### File 2731: food_eff_41 ####
+ヒールオーブ効果補正
+###### End ######
+
+#### File 2732: food_eff_42 ####
+敵戦闘不能確率増加
+###### End ######
+
+#### File 2733: food_eff_43 ####
+敵軽傷確率増加
+###### End ######
+
+#### File 2734: food_eff_44 ####
+軽傷確率増加
+###### End ######
+
+#### File 2735: food_eff_50 ####
+ＨＰは増加しなかった
+###### End ######
+
+#### File 2736: food_eff_51 ####
+ＨＰは減少しなかった
+###### End ######
+
+#### File 2737: food_eff_52 ####
+回避率は増加しなかった
+###### End ######
+
+#### File 2738: food_eff_53 ####
+回避率は減少しなかった
+###### End ######
+
+#### File 2739: food_eff_54 ####
+致命率は増加しなかった
+###### End ######
+
+#### File 2740: food_eff_55 ####
+致命率は減少しなかった
+###### End ######
+
+#### File 2741: food_eff_56 ####
+命中率は増加しなかった
+###### End ######
+
+#### File 2742: food_eff_57 ####
+命中率は減少しなかった
+###### End ######
+
+#### File 2743: food_eff_58 ####
+筋力は増加しなかった
+###### End ######
+
+#### File 2744: food_eff_59 ####
+筋力は減少しなかった
+###### End ######
+
+#### File 2745: food_eff_60 ####
+俊敏は増加しなかった
+###### End ######
+
+#### File 2746: food_eff_61 ####
+俊敏は減少しなかった
+###### End ######
+
+#### File 2747: food_eff_62 ####
+精神は増加しなかった
+###### End ######
+
+#### File 2748: food_eff_63 ####
+精神は減少しなかった
+###### End ######
+
+#### File 2749: food_eff_64 ####
+防御は増加しなかった
+###### End ######
+
+#### File 2750: food_eff_65 ####
+防御は減少しなかった
+###### End ######
+
+#### File 2751: food_eff_66 ####
+移動力は増加しなかった
+###### End ######
+
+#### File 2752: food_eff_67 ####
+移動力は減少しなかった
+###### End ######
+
+#### File 2753: food_eff_68 ####
+攻撃力は増加しなかった
+###### End ######
+
+#### File 2754: food_eff_69 ####
+攻撃力は減少しなかった
+###### End ######
+
+#### File 2755: food_eff_senzai ####
+食事効果：
+###### End ######
+
+#### File 2756: food_eff_big ####
+（大）
+###### End ######
+
+#### File 2757: food_eff_middle ####
+（中）
+###### End ######
+
+#### File 2758: food_eff_small ####
+（小）
+###### End ######
+
+#### File 2759: skill001 ####
+開錠
+###### End ######
+
+#### File 2760: skill001_exp ####
+扉や門、宝箱を開けることができます
+###### End ######
+
+#### File 2761: skill002 ####
+再移動
+###### End ######
+
+#### File 2762: skill002_exp ####
+攻撃した後に残った移動力で移動できます
+###### End ######
+
+#### File 2763: skill003 ####
+先制射撃
+###### End ######
+
+#### File 2764: skill003_exp ####
+射撃待機中、射程内に入ってきた敵を攻撃します
+###### End ######
+
+#### File 2765: skill004 ####
+索敵
+###### End ######
+
+#### File 2766: skill004_exp ####
+３ヘクス以内の地形に隠れた敵が見えます
+###### End ######
+
+#### File 2767: skill005 ####
+三連射
+###### End ######
+
+#### File 2768: skill005_exp ####
+弓で三連続攻撃を行います
+###### End ######
+
+#### File 2769: skill006 ####
+反撃
+###### End ######
+
+#### File 2770: skill006_exp ####
+攻撃されてダメージを受けた場合でも反撃できます
+###### End ######
+
+#### File 2771: skill007 ####
+盾熟練
+###### End ######
+
+#### File 2772: skill007_exp ####
+盾の発動率が＋１８％上昇します
+###### End ######
+
+#### File 2773: skill008 ####
+手加減
+###### End ######
+
+#### File 2774: skill008_exp ####
+相手のＨＰを１残します
+###### End ######
+
+#### File 2775: skill009 ####
+連続
+###### End ######
+
+#### File 2776: skill009_exp ####
+２回続けて攻撃する場合があります
+###### End ######
+
+#### File 2777: skill010 ####
+待伏せ
+###### End ######
+
+#### File 2778: skill010_exp ####
+攻撃を仕掛けられたときに先手を取れることがあります
+###### End ######
+
+#### File 2779: skill011 ####
+怒り
+###### End ######
+
+#### File 2780: skill011_exp ####
+敵の攻撃を受けたときに反撃することがあります
+###### End ######
+
+#### File 2781: skill012 ####
+槍回避
+###### End ######
+
+#### File 2782: skill012_exp ####
+槍の攻撃があたりにくくなります
+###### End ######
+
+#### File 2783: skill013 ####
+挑発
+###### End ######
+
+#### File 2784: skill013_exp ####
+５ヘクス以内の敵を自分にひきつけます
+###### End ######
+
+#### File 2785: skill014 ####
+結界
+###### End ######
+
+#### File 2786: skill014_exp ####
+３ヘクス以内の味方の命中と回避が１５％上昇します
+###### End ######
+
+#### File 2787: skill015 ####
+護衛
+###### End ######
+
+#### File 2788: skill015_exp ####
+指定したユニットが攻撃を受けると代わりに戦います
+###### End ######
+
+#### File 2789: skill016 ####
+神舞剣
+###### End ######
+
+#### File 2790: skill016_exp ####
+舞う様に剣を振るって大ダメージ
+###### End ######
+
+#### File 2791: skill017 ####
+弓回避
+###### End ######
+
+#### File 2792: skill017_exp ####
+弓の攻撃があたりにくくなります
+###### End ######
+
+#### File 2793: skill018 ####
+指揮官
+###### End ######
+
+#### File 2794: skill018_exp ####
+３ヘクス以内の味方の命中率が１０％上昇します
+###### End ######
+
+#### File 2795: skill019 ####
+早熟
+###### End ######
+
+#### File 2796: skill019_exp ####
+低レベルで敵を倒したときの経験値が若干増えます
+###### End ######
+
+#### File 2797: skill020 ####
+見切り
+###### End ######
+
+#### File 2798: skill020_exp ####
+相手の致命攻撃を封じます
+###### End ######
+
+#### File 2799: skill021 ####
+シャドウ
+###### End ######
+
+#### File 2800: skill021_exp ####
+パラメータを見ることができません
+###### End ######
+
+#### File 2801: skill022 ####
+盗む
+###### End ######
+
+#### File 2802: skill022_exp ####
+装備以外の敵のアイテムを奪い取れます
+###### End ######
+
+#### File 2803: skill023 ####
+巫女の祈り
+###### End ######
+
+#### File 2804: skill023_exp ####
+暗黒魔法を封じることができます
+###### End ######
+
+#### File 2805: skill024 ####
+ヘイト
+###### End ######
+
+#### File 2806: skill024_exp ####
+攻撃を受けた相手を狙う
+###### End ######
+
+#### File 2807: skill025 ####
+気合
+###### End ######
+
+#### File 2808: skill025_exp ####
+気合いをためて命中率と物理攻撃力を上昇させます
+###### End ######
+
+#### File 2809: skill026 ####
+癒し
+###### End ######
+
+#### File 2810: skill026_exp ####
+周囲の味方のＨＰを少しだけ回復します
+###### End ######
+
+#### File 2811: skill027 ####
+必殺
+###### End ######
+
+#### File 2812: skill027_exp ####
+次の一撃の致命率が上昇します
+###### End ######
+
+#### File 2813: skill028 ####
+支援
+###### End ######
+
+#### File 2814: skill028_exp ####
+５ヘクス以内の味方の命中率が３％上昇します
+###### End ######
+
+#### File 2815: skill029 ####
+自在移動
+###### End ######
+
+#### File 2816: skill029_exp ####
+建物以外の地形の進入ロスを無視して移動できます
+###### End ######
+
+#### File 2817: skill030 ####
+全力回避
+###### End ######
+
+#### File 2818: skill030_exp ####
+全力回避中、回避率が５０％上昇します
+###### End ######
+
+#### File 2819: skill031 ####
+斧防御
+###### End ######
+
+#### File 2820: skill031_exp ####
+斧装備時に防御状態で待機します
+###### End ######
+
+#### File 2821: skill032 ####
+強弓
+###### End ######
+
+#### File 2822: skill032_exp ####
+射程＋１の距離が攻撃できます
+###### End ######
+
+#### File 2823: skill033 ####
+狩人
+###### End ######
+
+#### File 2824: skill033_exp ####
+森にいる敵の地形効果を無視することができます
+###### End ######
+
+#### File 2825: skill034 ####
+狙撃
+###### End ######
+
+#### File 2826: skill034_exp ####
+弓や石弓の命中率が上昇します
+###### End ######
+
+#### File 2827: skill035 ####
+泳ぐ
+###### End ######
+
+#### File 2828: skill035_exp ####
+川、海、湖、浅瀬の上を平地と同様に移動できます
+###### End ######
+
+#### File 2829: skill036 ####
+女神の守り
+###### End ######
+
+#### File 2830: skill036_exp ####
+３ヘクス以内の味方の魔法防御が＋５されます
+###### End ######
+
+#### File 2831: skill037 ####
+探索
+###### End ######
+
+#### File 2832: skill037_exp ####
+隠されたアイテムを探し出して入手できます
+###### End ######
+
+#### File 2833: skill038 ####
+再攻撃
+###### End ######
+
+#### File 2834: skill038_exp ####
+攻撃後もう一度攻撃できます
+###### End ######
+
+#### File 2835: skill039 ####
+死闘
+###### End ######
+
+#### File 2836: skill039_exp ####
+どちらかが死亡するまで最大５回継続して戦闘します
+###### End ######
+
+#### File 2837: skill040 ####
+馬交換
+###### End ######
+
+#### File 2838: skill040_exp ####
+隣接する味方ユニットと馬を交換できます
+###### End ######
+
+#### File 2839: skill041 ####
+投擲
+###### End ######
+
+#### File 2840: skill041_exp ####
+戦闘終了後、自動的に投擲前の装備に戻します
+###### End ######
+
+#### File 2841: skill042 ####
+受け流し
+###### End ######
+
+#### File 2842: skill042_exp ####
+敵の攻撃を受け流すことがあります
+###### End ######
+
+#### File 2843: skill043 ####
+反撃装備
+###### End ######
+
+#### File 2844: skill043_exp ####
+攻撃を受けた時に装備変更することがあります
+###### End ######
+
+#### File 2845: skill044 ####
+強健
+###### End ######
+
+#### File 2846: skill044_exp ####
+軽傷、戦闘不能になりません
+###### End ######
+
+#### File 2847: skill045 ####
+虚弱
+###### End ######
+
+#### File 2848: skill045_exp ####
+戦闘不能になりやすい
+###### End ######
+
+#### File 2849: skill046 ####
+精神集中
+###### End ######
+
+#### File 2850: skill046_exp ####
+魔法攻撃の命中率、攻撃力が上昇します
+###### End ######
+
+#### File 2851: skill047 ####
+特殊支援
+###### End ######
+
+#### File 2852: skill047_exp ####
+Reese隣接時にReeseの致命率が１００％になる
+###### End ######
+
+#### File 2853: skill048 ####
+愛馬
+###### End ######
+
+#### File 2854: skill048_exp ####
+馬のＨＰが徐々に（章ごとに）回復します
+###### End ######
+
+#### File 2855: skill049 ####
+強奪
+###### End ######
+
+#### File 2856: skill049_exp ####
+敵を倒すと所持品を入手することがあります
+###### End ######
+
+#### File 2857: skill050 ####
+略奪
+###### End ######
+
+#### File 2858: skill050_exp ####
+敵を倒すとお金を入手できます
+###### End ######
+
+#### File 2859: skill051 ####
+篭手
+###### End ######
+
+#### File 2860: skill051_exp ####
+命中時に相手の盾装備を解除することがあります
+###### End ######
+
+#### File 2861: skill052 ####
+居合
+###### End ######
+
+#### File 2862: skill052_exp ####
+反撃時に確率で発生し、命中率と致命率が上昇します
+###### End ######
+
+#### File 2863: skill053 ####
+粉砕
+###### End ######
+
+#### File 2864: skill053_exp ####
+斧、大剣の攻撃力が上昇します。但し防御は下がります
+###### End ######
+
+#### File 2865: skill054 ####
+スリ取るⅡ
+###### End ######
+
+#### File 2866: skill054_exp ####
+戦闘時に敵からアイテムを入手できます
+###### End ######
+
+#### File 2867: skill055 ####
+加護
+###### End ######
+
+#### File 2868: skill055_exp ####
+死亡しにくくなります
+###### End ######
+
+#### File 2869: skill056 ####
+武器手入
+###### End ######
+
+#### File 2870: skill056_exp ####
+装備武器が少しだけ壊れにくくなります
+###### End ######
+
+#### File 2871: skill057 ####
+潜む
+###### End ######
+
+#### File 2872: skill057_exp ####
+森や建物で姿を隠すことができます
+###### End ######
+
+#### File 2873: skill058 ####
+全力移動
+###### End ######
+
+#### File 2874: skill058_exp ####
+移動力を＋１して移動できます
+###### End ######
+
+#### File 2875: skill059 ####
+ランス
+###### End ######
+
+#### File 2876: skill059_exp ####
+ランスを装備することができます
+###### End ######
+
+#### File 2877: skill060 ####
+大剣
+###### End ######
+
+#### File 2878: skill060_exp ####
+大剣を装備することができます
+###### End ######
+
+#### File 2879: skill061 ####
+名馬騎乗
+###### End ######
+
+#### File 2880: skill061_exp ####
+付加効果を持つ馬に騎乗しています
+###### End ######
+
+#### File 2881: skill061_exp01 ####
+イシス白馬：俊敏＋５
+###### End ######
+
+#### File 2882: skill061_exp02 ####
+シノン馬：俊敏＋２
+###### End ######
+
+#### File 2883: skill061_exp03 ####
+リガ黒馬：攻撃力＋１
+###### End ######
+
+#### File 2884: skill061_exp04 ####
+リガ駿馬：移動力＋１
+###### End ######
+
+#### File 2885: skill061_exp05 ####
+モラキア軍馬：防御＋３
+###### End ######
+
+#### File 2886: skill061_exp06 ####
+イシス駿馬：移動力＋１
+###### End ######
+
+#### File 2887: skill061_exp07 ####
+ティコ：攻撃＋１、移動＋１、俊敏＋５、愛馬効果
+###### End ######
+
+#### File 2888: skill_etc ####
+‥他
+###### End ######
+
+#### File 2889: horse_eff01 ####
+俊敏＋５
+###### End ######
+
+#### File 2890: horse_eff02 ####
+俊敏＋２
+###### End ######
+
+#### File 2891: horse_eff03 ####
+攻撃力＋１
+###### End ######
+
+#### File 2892: horse_eff04 ####
+移動力＋１
+###### End ######
+
+#### File 2893: horse_eff05 ####
+防御＋３
+###### End ######
+
+#### File 2894: horse_eff06 ####
+移動力＋１
+###### End ######
+
+#### File 2895: horse_eff07 ####
+力防俊精＋３
+###### End ######
+
+#### File 2896: skill062 ####
+疾走
+###### End ######
+
+#### File 2897: skill062_exp ####
+移動力が＋１されます
+###### End ######
+
+#### File 2898: skill063 ####
+剣回避
+###### End ######
+
+#### File 2899: skill063_exp ####
+剣の攻撃があたりにくくなります
+###### End ######
+
+#### File 2900: skill064 ####
+斧回避
+###### End ######
+
+#### File 2901: skill064_exp ####
+斧の攻撃があたりにくくなります
+###### End ######
+
+#### File 2902: skill065 ####
+限定装備
+###### End ######
+
+#### File 2903: skill065_exp ####
+ランク３までの武器や盾しか使いこなせません
+###### End ######
+
+#### File 2904: skill066 ####
+改宗
+###### End ######
+
+#### File 2905: skill066_exp ####
+ラーズ神官、ハイプReeseトにチェンジできる
+###### End ######
+
+#### File 2906: skill067 ####
+上級装備
+###### End ######
+
+#### File 2907: skill067_exp ####
+レベル＋７ランクまでの武器や盾が使いこなせます
+###### End ######
+
+#### File 2908: skill068 ####
+魔法回避
+###### End ######
+
+#### File 2909: skill068_exp ####
+魔法攻撃があたりにくくなります
+###### End ######
+
+#### File 2910: skill069 ####
+スリ取る
+###### End ######
+
+#### File 2911: skill069_exp ####
+戦闘時に敵からアイテムを入手できます
+###### End ######
+
+#### File 2912: skill070 ####
+詠唱
+###### End ######
+
+#### File 2913: skill070_exp ####
+装備変更無しでヒール等の補助魔法が使えます
+###### End ######
+
+#### File 2914: skill071 ####
+低速
+###### End ######
+
+#### File 2915: skill071_exp ####
+移動力が−１されます
+###### End ######
+
+#### File 2916: skill072 ####
+フォーク
+###### End ######
+
+#### File 2917: skill072_exp ####
+フォークが装備できます
+###### End ######
+
+#### File 2918: skill073 ####
+追撃
+###### End ######
+
+#### File 2919: skill073_exp ####
+攻撃数が＋１されることがあります
+###### End ######
+
+#### File 2920: skill074 ####
+連射
+###### End ######
+
+#### File 2921: skill074_exp ####
+弓で二連続攻撃を行います
+###### End ######
+
+#### File 2922: skill075 ####
+指揮官Ⅱ
+###### End ######
+
+#### File 2923: skill075_exp ####
+３ヘクス以内の味方の回避率が５％上昇します
+###### End ######
+
+#### File 2924: skill076 ####
+帰還
+###### End ######
+
+#### File 2925: skill076_exp ####
+マップから離脱できる
+###### End ######
+
+#### File 2926: skill077 ####
+迷彩
+###### End ######
+
+#### File 2927: skill077_exp ####
+地形にまぎれ地形効果が１．５倍になる
+###### End ######
+
+#### File 2928: skill078 ####
+夜目
+###### End ######
+
+#### File 2929: skill078_exp ####
+索敵マップでの視界が＋１される
+###### End ######
+
+#### File 2930: skill079 ####
+連携
+###### End ######
+
+#### File 2931: skill079_exp ####
+３ヘクス以内の味方と連携効果があります
+###### End ######
+
+#### File 2932: skill080 ####
+崖移動
+###### End ######
+
+#### File 2933: skill080_exp ####
+崖地形でも回避率が０％にならない
+###### End ######
+
+#### File 2934: skill081 ####
+奇襲
+###### End ######
+
+#### File 2935: skill081_exp ####
+反撃を受けない
+###### End ######
+
+#### File 2936: skill082 ####
+捨て身
+###### End ######
+
+#### File 2937: skill082_exp ####
+命中率が上昇しますが、必ず相手の反撃を受けます
+###### End ######
+
+#### File 2938: skill083 ####
+当て身
+###### End ######
+
+#### File 2939: skill083_exp ####
+攻撃力が半減し、軽傷確率が上昇します
+###### End ######
+
+#### File 2940: skill084 ####
+低速Ⅱ
+###### End ######
+
+#### File 2941: skill084_exp ####
+移動力−１
+###### End ######
+
+#### File 2942: skill085 ####
+強健Ⅱ
+###### End ######
+
+#### File 2943: skill085_exp ####
+軽傷、戦闘不能になりません
+###### End ######
+
+#### File 2944: skill086 ####
+自己回復
+###### End ######
+
+#### File 2945: skill086_exp ####
+自分自身にヒールをかけることができる
+###### End ######
+
+#### File 2946: skill087 ####
+必殺Ⅱ
+###### End ######
+
+#### File 2947: skill087_exp ####
+致命率にレベルが加算される
+###### End ######
+
+#### File 2948: skill088 ####
+乙女の守り
+###### End ######
+
+#### File 2949: skill088_exp ####
+３ヘクス以内の味方の物理防御が＋５されます
+###### End ######
+
+#### File 2950: skill089 ####
+衰弱
+###### End ######
+
+#### File 2951: skill089_exp ####
+パラメータが半減している状態
+###### End ######
+
+#### File 2952: skill090 ####
+峰打ち
+###### End ######
+
+#### File 2953: skill090_exp ####
+相手を戦闘不能にしやすくなる
+###### End ######
+
+#### File 2954: skill_exp_opt1 ####
+（あとターン）
+###### End ######
+
+#### File 2955: skill_exp_opt2 ####
+（使用可能）
+###### End ######
+
+#### File 2956: skill_exp_opt3 ####
+（あと１２３４５６７８９０回）
+###### End ######
+
+#### File 2957: status_pow ####
+未使用
+###### End ######
+
+#### File 2958: status_mag ####
+未使用
+###### End ######
+
+#### File 2959: status_def ####
+未使用
+###### End ######
+
+#### File 2960: status_chin ####
+未使用
+###### End ######
+
+#### File 2961: status_ouen ####
+未使用
+###### End ######
+
+#### File 2962: status_konran ####
+未使用
+###### End ######
+
+#### File 2963: status_kobu ####
+未使用
+###### End ######
+
+#### File 2964: status_kyofu ####
+未使用
+###### End ######
+
+#### File 2965: synth_item ####
+−以下のアイテムの素材です−
+###### End ######
+
+#### File 2966: warning_menuconf ####
+メニューエディットモードに入ります
+###### End ######
+
+#### File 2967: cannot_enter ####
+移動先にユニットがいます！
+###### End ######
+
+#### File 2968: cannot_move ####
+その地形へは移動できません！
+###### End ######
+
+#### File 2969: waring_not_enter ####
+ここに入ることはできません
+###### End ######
+
+#### File 2970: error_repare ####
+残り回数が足らないので修理できません
+###### End ######
+
+#### File 2971: cannot_pull ####
+しかし引き抜けなかった
+###### End ######
+
+#### File 2972: kigou ####
+！？＃＄＆／・（）【】剣槍斧弓盾炎雷風魔法宝用EX高低矢素材売却携帯袋武器防具専短大精神石薬特別中下級保存重女性騎士Mercenary男
+###### End ######
+
+#### File 2973: number ####
+０１２３４５６７８９
+###### End ######
+
+#### File 2974: alphal ####
+ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ
+###### End ######
+
+#### File 2975: alphas ####
+ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ
+###### End ######
+
+#### File 2976: hiragana ####
+ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをん　　　　　　　　　　　
+###### End ######
+
+#### File 2977: katakana ####
+ァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶ　　　　　　　　
+###### End ######
+
